@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sun, 11 May 2025 16:31:20 GMT
+! Last modified: Sun, 11 May 2025 16:45:49 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -11027,7 +11027,7 @@
 ||adscdn.net^
 ||adrent.net^
 ||adncdn.net^
-||px.adhigh.net^
+||adhigh.net^
 ||adgard.net^
 ||adform.net^
 ||ad2the.net^
@@ -11376,33 +11376,33 @@
 ||dt51.net^
 ||data.diks.net^
 ||nova.dice.net^
-||thelifeisbinary.ddns.net^
-||openburstpool.ddns.net^
-||hobbyistpool.ddns.net^
-||eu-nilupool.ddns.net^
-||cryptominer.ddns.net^
-||vbk-reb0rn.ddns.net^
-||scryptpool.ddns.net^
-||mostbiznet.ddns.net^
-||eu-ubqpool.ddns.net^
-||eu-ethpool.ddns.net^
-||cryptocoin.ddns.net^
-||coinmining.ddns.net^
-||bowserpool.ddns.net^
-||sperocoin.ddns.net^
-||oceansail.ddns.net^
-||bowserlab.ddns.net^
-||bowser777.ddns.net^
-||543874163.ddns.net^
-||poolvale.ddns.net^
-||onlycash.ddns.net^
-||gustaver.ddns.net^
-||egazpool.ddns.net^
-||radpool.ddns.net^
-||gcpool.ddns.net^
-||d1pool.ddns.net^
-||btcsq.ddns.net^
-||scx.ddns.net^
+|thelifeisbinary.ddns.net^
+|openburstpool.ddns.net^
+|hobbyistpool.ddns.net^
+|eu-nilupool.ddns.net^
+|cryptominer.ddns.net^
+|vbk-reb0rn.ddns.net^
+|scryptpool.ddns.net^
+|mostbiznet.ddns.net^
+|eu-ubqpool.ddns.net^
+|eu-ethpool.ddns.net^
+|cryptocoin.ddns.net^
+|coinmining.ddns.net^
+|bowserpool.ddns.net^
+|sperocoin.ddns.net^
+|oceansail.ddns.net^
+|bowserlab.ddns.net^
+|bowser777.ddns.net^
+|543874163.ddns.net^
+|poolvale.ddns.net^
+|onlycash.ddns.net^
+|gustaver.ddns.net^
+|egazpool.ddns.net^
+|radpool.ddns.net^
+|gcpool.ddns.net^
+|d1pool.ddns.net^
+|btcsq.ddns.net^
+|scx.ddns.net^
 ||marketing.dcmh.net^
 ||real-feedback.toros.daum.net^
 ||stat.tiara.daum.net^
@@ -39321,12 +39321,12 @@
 ||anti-adblock.herokuapp.com^
 ||aurora-d3.herokuapp.com^
 ||tpi-app.herokuapp.com^
-||jqcdn03.herokuapp.com^
-||jqcdn01.herokuapp.com^
-||wpcdn1.herokuapp.com^
-||sxcdn5.herokuapp.com^
-||sxcdn1.herokuapp.com^
-||jqcdn2.herokuapp.com^
+|jqcdn03.herokuapp.com^
+|jqcdn01.herokuapp.com^
+|wpcdn1.herokuapp.com^
+|sxcdn5.herokuapp.com^
+|sxcdn1.herokuapp.com^
+|jqcdn2.herokuapp.com^
 ||hero6bell.com^
 ||link.hermanpro.com^
 ||metrics.herceptin.com^
@@ -44830,7 +44830,7 @@
 ||dead-put.com^
 ||ddrsemxv.com^
 ||ddnslive.com^
-||kingsminer.ddnsking.com^
+|kingsminer.ddnsking.com^
 ||xero-mp.ddnsgeek.com^
 ||stream-log.dditscdn.com^
 ||dctrckng.com^
@@ -48475,7 +48475,7 @@
 ||gheqien.com^
 ||gfstrck.com^
 ||l.getpyfl.com^
-||imperium.getmyip.com^
+|imperium.getmyip.com^
 ||stats.gethyas.com^
 ||fetch.gethuan.com^
 ||app.getgigl.com^
@@ -59149,7 +59149,7 @@
 ||emzcnu.evanus.vn^
 ||fbycnk.chiaki.vn^
 ||log.znews.vn^
-||vietpool.vddns.vn^
+|vietpool.vddns.vn^
 ||app.foody.vn^
 ||saa.dyson.vn^
 ||adtima-static.zadn.vn^
