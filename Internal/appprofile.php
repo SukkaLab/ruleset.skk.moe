@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-05-13T10:33:27.007Z
+// # Build 2025-05-13T12:51:02.505Z
 
 declare(strict_types=1);
 
@@ -2243,6 +2243,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,infoq.com,Global',
         'DOMAIN-SUFFIX,imgur.com,Global',
         'DOMAIN-SUFFIX,ifttt.com,Global',
+        'DOMAIN-SUFFIX,hyvor.com,Global',
         'DOMAIN-SUFFIX,huobi.com,Global',
         'DOMAIN-SUFFIX,googl.com,Global',
         'DOMAIN-SUFFIX,gmail.com,Global',
