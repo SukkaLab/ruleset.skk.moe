@@ -490,6 +490,5 @@ hosts:
   doh.pub:
     - 120.53.53.53
     - 1.12.12.12
-  cdn.jsdelivr.net:
-    - cdn.jsdelivr.net.cdn.cloudflare.net
+  cdn.jsdelivr.net: cdn.jsdelivr.net.cdn.cloudflare.net
 
