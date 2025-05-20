@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-05-20T16:38:51.171Z
+// # Build 2025-05-20T16:54:20.204Z
 
 declare(strict_types=1);
 
@@ -2548,6 +2548,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-KEYWORD,pinterest,Global',
         'DOMAIN,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe,DIRECT',
         'DOMAIN-SUFFIX,localdomain,DIRECT',
+        'DOMAIN-SUFFIX,internal,DIRECT',
         'DOMAIN-SUFFIX,orpheus.network,DIRECT',
         'DOMAIN,mobile.hotspot,DIRECT',
         'DOMAIN-SUFFIX,router,DIRECT',
