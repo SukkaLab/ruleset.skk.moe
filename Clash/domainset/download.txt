@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-05-21T15:20:47.572Z
-# Size: 1151
+# Last Updated: 2025-05-21T18:41:41.847Z
+# Size: 1153
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -175,6 +175,7 @@ libraries.minecraft.net
 textures.minecraft.net
 +.download.minecraft.net
 mirror.metrocast.net
+b2.mcarchive.net
 mirror.low-orbit.net
 ppa.launchpad.net
 +.debian.map.fastlydns.net
@@ -382,6 +383,7 @@ download-cdn.jetbrains.com
 download.jetbrains.com
 cdn.hyperbeam.com
 +.releases.hashicorp.com
+data.gameflare.com
 fastly-download.epicgames.com
 download4.epicgames.com
 download3.epicgames.com
