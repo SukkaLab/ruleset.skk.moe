@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-05-25T03:30:41.857Z
+// # Build 2025-05-25T12:41:25.656Z
 
 declare(strict_types=1);
 
@@ -790,6 +790,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,amp-api.media.apple.com,Domestic',
         'DOMAIN-SUFFIX,ipcdn.apple.com,Domestic',
         'DOMAIN-SUFFIX,cstat.apple.com,Domestic',
+        'DOMAIN-SUFFIX,certs.apple.com,Domestic',
         'DOMAIN-SUFFIX,seed-swallow.siri.apple.com,Domestic',
         'DOMAIN-SUFFIX,seed-sequoia.siri.apple.com,Domestic',
         'DOMAIN-SUFFIX,probe.siri.apple.com,Domestic',
