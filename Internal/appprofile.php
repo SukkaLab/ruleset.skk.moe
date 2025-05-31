@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-05-31T12:41:32.806Z
+// # Build 2025-05-31T16:10:43.753Z
 
 declare(strict_types=1);
 
@@ -1651,6 +1651,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,one,Global',
         'DOMAIN-SUFFIX,new,Global',
         'DOMAIN-SUFFIX,minecraft-services.net,Global',
+        'DOMAIN-SUFFIX,sysctl-explorer.net,Global',
         'DOMAIN-SUFFIX,minecraftforum.net,Global',
         'DOMAIN-SUFFIX,hubspotstarter.net,Global',
         'DOMAIN-SUFFIX,cloudfunctions.net,Global',
