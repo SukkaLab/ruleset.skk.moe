@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-06-04T06:49:30.828Z
+// # Build 2025-06-04T08:22:19.652Z
 
 declare(strict_types=1);
 
@@ -862,7 +862,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,huya.com,Domestic',
         'DOMAIN-SUFFIX,hupu.com,Domestic',
         'DOMAIN-SUFFIX,hitv.com,Domestic',
-        'DOMAIN-SUFFIX,h2os.com,Domestic',
         'DOMAIN-SUFFIX,feng.com,Domestic',
         'DOMAIN-SUFFIX,fang.com,Domestic',
         'DOMAIN-SUFFIX,etao.com,Domestic',
@@ -5108,15 +5107,14 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,120.72.32.0/19,Domestic',
         'IP-CIDR,120.72.160.0/24,Domestic',
         'IP-CIDR,120.72.162.0/23,Domestic',
-        'IP-CIDR,120.72.164.0/22,Domestic',
+        'IP-CIDR,120.72.166.0/23,Domestic',
         'IP-CIDR,120.72.168.0/24,Domestic',
         'IP-CIDR,120.72.170.0/23,Domestic',
         'IP-CIDR,120.72.172.0/23,Domestic',
-        'IP-CIDR,120.72.174.0/24,Domestic',
         'IP-CIDR,120.72.177.0/24,Domestic',
         'IP-CIDR,120.72.178.0/24,Domestic',
         'IP-CIDR,120.72.180.0/24,Domestic',
-        'IP-CIDR,120.72.182.0/23,Domestic',
+        'IP-CIDR,120.72.182.0/24,Domestic',
         'IP-CIDR,120.72.184.0/22,Domestic',
         'IP-CIDR,120.72.188.0/23,Domestic',
         'IP-CIDR,120.72.190.0/24,Domestic',
