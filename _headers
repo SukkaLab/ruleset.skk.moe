@@ -26,6 +26,9 @@ https://:project.pages.dev/*
 /sing-box/*
   content-type: text/plain; charset=utf-8
   X-Robots-Tag: noindex
+/Surfboard/*
+  content-type: text/plain; charset=utf-8
+  X-Robots-Tag: noindex
 /LegacyClashPremium/*
   content-type: text/plain; charset=utf-8
   X-Robots-Tag: noindex
