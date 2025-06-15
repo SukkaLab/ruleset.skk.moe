@@ -1,45 +1,17 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome (Sukka)
-! Last modified: Sun, 15 Jun 2025 08:53:53 GMT
+! Last modified: Sun, 15 Jun 2025 08:55:45 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
 ! Description: The AdGuardHome for Sukka only
 !
-||ppio.cloud^
 ||0.0.198.in-addr.arpa^
-||yfp2p.net^
-||yfcdn.net^
 |daisydiskapp.com^
-||onethingpcs.com^
 |userlocation.googleapis.com^
-||tianwenca.com^
-||pkoplink.com^
-||kuiniuca.com^
 ||genuine.autodesk.com^
-||yfcloud.com^
-||saxysec.com^
-||pcdn.yximgs.com^
-||szbdyd.com^
 ||cool3c.com^
-||xycdn.com^
-||uhabo.com^
-||p2cdn.com^
-||p2p.huya.com^
 ||look.163.com^
-||p2ptun.qq.com^
-||p2pupgrade.gamedl.qq.com^
-||p2pupdate.gamedl.qq.com^
-||p2p.qq.com^
 ||adobestats.io^
 ||adobe.io^
-||cdnnodedns.cn^
-||bilivideo.cn^
-||p2perrorlog.douyucdn.cn^
-||p2plog.douyucdn.cn^
 /bahoom/
-|p2p-*.douyucdn.cn^
-|p2pchunk-*.douyucdn.cn^
-|dyp2p-*.douyucdn.cn^
-|p2plive-*.douyucdn.cn^
-|p2p*-ws.douyucdn.cn^
 ! EOF
