@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-06-19T12:48:38.696Z
+// # Build 2025-06-19T13:21:11.123Z
 
 declare(strict_types=1);
 
@@ -1588,6 +1588,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,gwtproject.org,Global',
         'DOMAIN-SUFFIX,greasyfork.org,Global',
         'DOMAIN-SUFFIX,getoutline.org,Global',
+        'DOMAIN-SUFFIX,dnschecker.org,Global',
         'DOMAIN-SUFFIX,archive-it.org,Global',
         'DOMAIN-SUFFIX,ampproject.org,Global',
         'DOMAIN-SUFFIX,wordpress.org,Global',
@@ -2458,6 +2459,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,adguard-dns.io,Global',
         'DOMAIN-SUFFIX,statuspage.io,Global',
         'DOMAIN-SUFFIX,prometheus.io,Global',
+        'DOMAIN-SUFFIX,macaddress.io,Global',
         'DOMAIN-SUFFIX,greenhouse.io,Global',
         'DOMAIN-SUFFIX,globalping.io,Global',
         'DOMAIN-SUFFIX,canarymail.io,Global',
