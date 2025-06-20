@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-06-20T09:36:35.067Z
+// # Build 2025-06-20T10:15:56.204Z
 
 declare(strict_types=1);
 
@@ -1382,6 +1382,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,tvlicensing.co.uk,Stream',
         'DOMAIN-SUFFIX,bbci.co.uk,Stream',
         'DOMAIN-SUFFIX,bbc.co.uk,Stream',
+        'DOMAIN-SUFFIX,hbogoasia.tw,Stream',
         'DOMAIN-SUFFIX,linetv.tw,Stream',
         'DOMAIN-SUFFIX,skyking.com.tw,Stream',
         'DOMAIN-SUFFIX,bahamut.com.tw,Stream',
@@ -1402,6 +1403,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,4gtv.tv,Stream',
         'DOMAIN-SUFFIX,viu.tv,Stream',
         'DOMAIN-SUFFIX,my5.tv,Stream',
+        'DOMAIN-SUFFIX,hbogoasia.sg,Stream',
+        'DOMAIN-SUFFIX,hbogoasia.ph,Stream',
         'DOMAIN-SUFFIX,kktv.me,Stream',
         'DOMAIN-SUFFIX,musical.ly,Stream',
         'DOMAIN-SUFFIX,spotifynewsroom.jp,Stream',
@@ -1417,6 +1420,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,abema.io,Stream',
         'DOMAIN-SUFFIX,kfs.io,Stream',
         'DOMAIN-SUFFIX,discoveryplus.in,Stream',
+        'DOMAIN-SUFFIX,hbogoasia.id,Stream',
         'DOMAIN-SUFFIX,hbogoasia.hk,Stream',
         'DOMAIN-SUFFIX,psg.cdn.hgc.com.hk,Stream',
         'DOMAIN-SUFFIX,overcast.fm,Stream',
@@ -1431,7 +1435,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-KEYWORD,bbcfmt,Stream',
         'DOMAIN-KEYWORD,uk-live,Stream',
         'DOMAIN-KEYWORD,voddazn,Stream',
-        'DOMAIN-KEYWORD,.hbogoasia.,Stream',
         'DOMAIN-KEYWORD,jooxweb-api,Stream',
         'DOMAIN-KEYWORD,nowtv100,Stream',
         'DOMAIN-KEYWORD,rthklive,Stream',
