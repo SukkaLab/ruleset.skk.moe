@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-06-20T09:28:47.407Z
+# Last Updated: 2025-06-20T09:30:12.961Z
 # Size: 633
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -490,8 +490,6 @@ DOMAIN-REGEX,^log[\w.-]*?\.zijieapi\.com$
 DOMAIN-REGEX,^ads[\w.-]*?-normal-lq\.zijieapi\.com$
 DOMAIN-REGEX,^ads[\w.-]*?-normal-[\w.-]*?\.zijieapi\.com$
 DOMAIN-REGEX,^creative[\w.-]*?\.bidease\.com$
-DOMAIN-REGEX,^profitablecpm[\w.-]*?\.com$
-DOMAIN-REGEX,^highcpmrevenue[\w.-]*?\.com$
 DOMAIN-REGEX,^c\.blue\.[\w.-]*?\.com$
 DOMAIN-REGEX,^irs\.gov\.[\w.-]*?\.com$
 DOMAIN-REGEX,^e-interac-[\w.-]*?\.com$
@@ -517,6 +515,8 @@ DOMAIN-REGEX,^currentlymail[\w.-]*?\.weebly\.com$
 DOMAIN-REGEX,^currentlyatt[\w.-]*?\.weebly\.com$
 DOMAIN-REGEX,^testra[\w.-]*?-covid\.weebly\.com$
 DOMAIN-REGEX,^vnote-[\w.-]*?\.myqcloud\.com$
+DOMAIN-REGEX,^profitablecpm[\w.-]*?\.com$
+DOMAIN-REGEX,^highcpmrevenue[\w.-]*?\.com$
 DOMAIN-REGEX,^tracking\.[\w.-]*?\.miui\.com$
 DOMAIN-REGEX,^[\w.-]*?\.tracking\.[\w.-]*?\.miui\.com$
 DOMAIN-REGEX,^beacons[\w.-]*?\.gvt[\w.-]\.com$
