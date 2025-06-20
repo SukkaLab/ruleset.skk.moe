@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Fri, 20 Jun 2025 14:09:51 GMT
+! Last modified: Fri, 20 Jun 2025 15:32:29 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -1067,6 +1067,7 @@
 ||fytwvougnijsn.store^
 ||fuwdwgwelvevq.store^
 ||fmxyiqdivnhin.store^
+||flgdaoepeuiqs.store^
 ||fhktaryvtgnaw.store^
 ||encbwfnmvktfn.store^
 ||ejsgmeirtaumd.store^
@@ -1984,6 +1985,7 @@
 ||topjyrdikvtlh.site^
 ||tracking01.tipshealthmen.site^
 ||tctrbtdxbscuw.site^
+||tatxbrshtjgfs.site^
 ||sucnaegzvbrhu.site^
 ||spkutusmnpmjf.site^
 ||snsfdmmzpixhn.site^
@@ -6317,6 +6319,7 @@
 ||imperfect-pace.pro^
 ||hilarioussound.pro^
 ||highgirlfriend.pro^
+||glass-decision.pro^
 ||tr.fidalformation.pro^
 ||cumbersomeduty.pro^
 ||contentaverage.pro^
@@ -6406,6 +6409,7 @@
 ||sleepydrunk.pro^
 ||sinful-date.pro^
 ||showhythiki.pro^
+||shallowdust.pro^
 ||rottenpride.pro^
 ||raw-classic.pro^
 ||psajushuphu.pro^
@@ -32901,6 +32905,7 @@
 ||xwlketvkzf.com^
 ||xviperonec.com^
 ||xtroglobal.com^
+||xsoydlcymk.com^
 ||xqneeonfsj.com^
 ||content.xpublisher.com^
 ||xoxnetwork.com^
@@ -87342,18 +87347,6 @@
 ||arigng.door.ac^
 ||app.pdf.ac^
 ||ff.pdf.ac^
-|p2p*-ws.douyucdn.cn^
-|p2plive-*.douyucdn.cn^
-|dyp2p-*.douyucdn.cn^
-|p2pchunk-*.douyucdn.cn^
-|p2p-*.douyucdn.cn^
-|adv0*.msa.cdn.mediaset.net^
-||ad.*.prod.hosts.ooklaserver.net^
-|f-log*.grammarly.io^
-|tracking.*.miui.com^
-||tracking.*.miui.com^
-|beacons*.gvt*.com^
-|info.*.aleragroup.com^
 /\.estream\./
 /jshosting/
 /hostingcloud/
@@ -87444,4 +87437,16 @@
 /\x2dad\.wtzw\.com/
 /\x2dbe\x2dpack\x2dsign\.pglstatp\x2dtoutiao\.com/
 /\x2dnormal\.zijieapi\.com/
+|p2p*-ws.douyucdn.cn^
+|p2plive-*.douyucdn.cn^
+|dyp2p-*.douyucdn.cn^
+|p2pchunk-*.douyucdn.cn^
+|p2p-*.douyucdn.cn^
+|adv0*.msa.cdn.mediaset.net^
+||ad.*.prod.hosts.ooklaserver.net^
+|f-log*.grammarly.io^
+|tracking.*.miui.com^
+||tracking.*.miui.com^
+|beacons*.gvt*.com^
+|info.*.aleragroup.com^
 ! EOF
