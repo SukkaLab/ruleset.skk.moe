@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-06-19T13:21:10.392Z
-# Size: 3630
+# Last Updated: 2025-06-20T07:17:40.119Z
+# Size: 3632
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -958,6 +958,7 @@ assets.nationbuilder.com
 asset.mansionglobal.com
 +.mangguo-youku.com
 +.livemediahost.com
+pbs-prod.linustechtips.com
 +.highwinds-cdn.com
 sig.grumpybumpers.com
 app.groovefunnels.com
@@ -1259,6 +1260,7 @@ firebase-settings.crashlytics.com
 +.e.crashlytics.com
 ddcdn.comtucdncom.com
 cdn.comparitech.com
+cloudfront.codeproject.com
 +.cloudatacdn.com
 +.cdn-website.com
 events.ld.catamorphic.com
