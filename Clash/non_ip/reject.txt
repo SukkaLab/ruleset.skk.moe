@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-06-20T17:21:13.794Z
+# Last Updated: 2025-06-20T17:48:01.552Z
 # Size: 671
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -437,6 +437,11 @@ DOMAIN-REGEX,^violation-[\w.-]*?\.surge\.sh$
 DOMAIN-REGEX,^request-page-violation-[\w.-]*?\.surge\.sh$
 DOMAIN-REGEX,^minero-proxy-[\w.-]*?\.now\.sh$
 DOMAIN-REGEX,^invenio_tracking_[\w.-]*?\.sgnapps\.com$
+DOMAIN-REGEX,^widget-v[\w.-]*?\.tidiochat\.com$
+DOMAIN-REGEX,^btn\.createsend[\w.-]*?\.com$
+DOMAIN-REGEX,^widgets\.[\w.-]*?\.webengage\.com$
+DOMAIN-REGEX,^cdn[\w.-]*?\.pdmntn\.com$
+DOMAIN-REGEX,^policy[\w.-]*?\.cookieinformation\.com$
 DOMAIN-REGEX,^s[\w.-]*?\.adduplex\.com$
 DOMAIN-REGEX,^metric[\w.-]*?\.rediff\.com$
 DOMAIN-REGEX,^logger-[\w.-]*?\.dailymotion\.com$
@@ -540,11 +545,6 @@ DOMAIN-REGEX,^block\.s[\w.-]*?block\.com$
 DOMAIN-REGEX,^putrr[\w.-]*?\.com$
 DOMAIN-REGEX,^teleriumads-[\w.-]*?\.netdna-ssl\.com$
 DOMAIN-REGEX,^clk\.rtpdn[\w.-]*?\.com$
-DOMAIN-REGEX,^widget-v[\w.-]*?\.tidiochat\.com$
-DOMAIN-REGEX,^btn\.createsend[\w.-]*?\.com$
-DOMAIN-REGEX,^widgets\.[\w.-]*?\.webengage\.com$
-DOMAIN-REGEX,^cdn[\w.-]*?\.pdmntn\.com$
-DOMAIN-REGEX,^policy[\w.-]*?\.cookieinformation\.com$
 DOMAIN-REGEX,^stat\.[\w.-]*?\.v-56\.com$
 DOMAIN-REGEX,^hn-ping[\w.-]*?\.hashnode\.com$
 DOMAIN-REGEX,^stats2\.[\w.-]*?\.fdnames\.com$
@@ -605,9 +605,9 @@ DOMAIN-REGEX,^apiproxy-log-nlb-1f304af4d3ac01a4\.elb\.us-east-[\w.-]*?\.amazonaw
 DOMAIN-REGEX,^snowplow-collector-[\w.-]*?\.amazonaws\.com$
 DOMAIN-REGEX,^mobileanalytics\.[\w.-]*?\.amazonaws\.com$
 DOMAIN-REGEX,^client\.rum\.[\w.-]*?\.amazonaws\.com$
-DOMAIN-REGEX,^reachableads-av\.[\w.-]*?\.amazonaws\.com$
-DOMAIN-REGEX,^tag-based\.s3\.[\w.-]*?\.amazonaws\.com$
 DOMAIN-REGEX,^cookie-sl\.s3\.[\w.-]*?\.amazonaws\.com$
+DOMAIN-REGEX,^tag-based\.s3\.[\w.-]*?\.amazonaws\.com$
+DOMAIN-REGEX,^reachableads-av\.[\w.-]*?\.amazonaws\.com$
 DOMAIN-REGEX,^rtbimp-loadbalancer-[\w.-]*?\.amazonaws\.com$
 DOMAIN-REGEX,^ad-[\w.-]*?\.amazonaws\.com$
 DOMAIN-REGEX,^mob[\w.-]*?\.novanewsapp\.com$
