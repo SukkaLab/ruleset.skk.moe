@@ -119,7 +119,6 @@
         "httpdns.volcengineapi.com",
         "api-ads.tiantianqutao.com",
         "qm.redbullracing.com",
-        "-client-report.honkaiimpact3.com",
         "stat.zuimeitianqi.com",
         "hwad.zuimeitianqi.com",
         "bd2.zuimeitianqi.com",
@@ -238,7 +237,6 @@
         "pushapi.lenovomm.com",
         "susapi.lenovomm.com",
         "adcore.lenovomm.com",
-        "-ulog.kwaipros.com",
         "adtrack.e.kuaishou.com",
         "api2.e.kuaishou.com",
         "api.e.kuaishou.com",
@@ -1383,6 +1381,7 @@
         "cylyaclfzkqrb.website",
         "cwbtbhdhcirkr.website",
         "cikorloimlxct.website",
+        "cevxjorcuqsnr.website",
         "bqrjmulwnxynr.website",
         "bkoqiqnmxfgth.website",
         "atfkuxujsfdvp.website",
@@ -1669,6 +1668,7 @@
         "track.lifebetterman.online",
         "ktkgtwthbvzte.online",
         "kthivdrtzvcab.online",
+        "kqntarwfonstf.online",
         "kmzzygkjhysbr.online",
         "kkytqmuyworov.online",
         "keomijxydnmcs.online",
@@ -9253,6 +9253,7 @@
         "neephougroo.net",
         "neeceeglogu.net",
         "naistophoje.net",
+        "naisijauser.net",
         "rqyxdk.myanimelist.net",
         "mouphouglug.net",
         "moumaiphuch.net",
@@ -28394,6 +28395,7 @@
         "sanl.champssports.com",
         "chairsdonkey.com",
         "chaipoodrort.com",
+        "cgpuepafsneu.com",
         "cesarebientt.com",
         "ceryldelaine.com",
         "analytics.certifriedit.com",
@@ -28490,6 +28492,7 @@
         "butlerrecast.com",
         "bustlingbook.com",
         "bustlefungus.com",
+        "burniecrepes.com",
         "burlywhistle.com",
         "burialhotter.com",
         "bungeedubbah.com",
@@ -84043,6 +84046,15 @@
         "app.pdf.ac",
         "ff.pdf.ac"
       ],
+      "domain_regex": [
+        "^adv0[\\w.-]*?\\.msa\\.cdn\\.mediaset\\.net$",
+        "^[\\w.-]*?\\.ad\\.[\\w.-]*?\\.prod\\.hosts\\.ooklaserver\\.net$",
+        "^f-log[\\w.-]*?\\.grammarly\\.io$",
+        "^tracking\\.[\\w.-]*?\\.miui\\.com$",
+        "^[\\w.-]*?\\.tracking\\.[\\w.-]*?\\.miui\\.com$",
+        "^beacons[\\w.-]*?\\.gvt[\\w.-]\\.com$",
+        "^info\\.[\\w.-]*?\\.aleragroup\\.com$"
+      ],
       "domain_keyword": [
         ".estream.",
         "jshosting",
@@ -84133,16 +84145,11 @@
         "-ad.sm.cn",
         "-ad.wtzw.com",
         "-be-pack-sign.pglstatp-toutiao.com",
-        "-normal.zijieapi.com"
-      ],
-      "domain_regex": [
-        "^info\\.[\\w.-]*?\\.aleragroup\\.com$",
-        "^f-log[\\w.-]*?\\.grammarly\\.io$",
-        "^[\\w.-]*?\\.ad\\.[\\w.-]*?\\.prod\\.hosts\\.ooklaserver\\.net$",
-        "^adv0[\\w.-]*?\\.msa\\.cdn\\.mediaset\\.net$",
-        "^beacons[\\w.-]*?\\.gvt[\\w.-]\\.com$",
-        "^tracking\\.[\\w.-]*?\\.miui\\.com$",
-        "^[\\w.-]*?\\.tracking\\.[\\w.-]*?\\.miui\\.com$"
+        "-normal.zijieapi.com",
+        "-telemetry.officeapps.live.com",
+        "-telemetry.officeapps.live.com.mcas.ms",
+        "-client-report.honkaiimpact3.com",
+        "-ulog.kwaipros.com"
       ],
       "ip_cidr": [
         "39.97.128.148/32",

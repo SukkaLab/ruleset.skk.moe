@@ -32,7 +32,6 @@
         "btcsq.ddns.net",
         "scx.ddns.net",
         "kingsminer.ddnsking.com",
-        "-ez-pass.com",
         "imperium.getmyip.com",
         "mpush-api.aliyun.com",
         "m.jr.mi.com",
@@ -119,7 +118,6 @@
         "hdbankfinance.website",
         "hdbankfinancc.website",
         "equatedsizing.website",
-        "cevxjorcuqsnr.website",
         "buskerreshoes.website",
         "younowoutyes.website",
         "stunsbarbola.website",
@@ -469,7 +467,6 @@
         "nyirdmnvfcjav.online",
         "nanghanmuc-vp.online",
         "minutelight-1.online",
-        "kqntarwfonstf.online",
         "kjsrpkibdjtyy.online",
         "jzxouwszeyhrq.online",
         "installupdate.online",
@@ -9689,7 +9686,6 @@
         "napxutiktok.net",
         "naptogether.net",
         "namthaibinh.net",
-        "naisijauser.net",
         "mylovelypet.net",
         "adkfilter.mybestclick.net",
         "static.mybestclick.net",
@@ -24638,7 +24634,6 @@
         "refer.cheaptickets.com",
         "chauinubbins.com",
         "charm-diadem.com",
-        "cgpuepafsneu.com",
         "cestibegster.com",
         "ads.centraliprom.com",
         "ga.cdzanalytics.com",
@@ -24684,7 +24679,6 @@
         "ads.businessweek.com",
         "businesscare.com",
         "adn.bursadabugun.com",
-        "burniecrepes.com",
         "burialsupple.com",
         "bungalowlame.com",
         "bundlerenown.com",
@@ -53593,6 +53587,15 @@
         "tube.ac",
         "say.ac"
       ],
+      "domain_regex": [
+        "^adv0[\\w.-]*?\\.msa\\.cdn\\.mediaset\\.net$",
+        "^[\\w.-]*?\\.ad\\.[\\w.-]*?\\.prod\\.hosts\\.ooklaserver\\.net$",
+        "^f-log[\\w.-]*?\\.grammarly\\.io$",
+        "^tracking\\.[\\w.-]*?\\.miui\\.com$",
+        "^[\\w.-]*?\\.tracking\\.[\\w.-]*?\\.miui\\.com$",
+        "^beacons[\\w.-]*?\\.gvt[\\w.-]\\.com$",
+        "^info\\.[\\w.-]*?\\.aleragroup\\.com$"
+      ],
       "domain_keyword": [
         ".estream.",
         "jshosting",
@@ -53683,16 +53686,12 @@
         "-ad.sm.cn",
         "-ad.wtzw.com",
         "-be-pack-sign.pglstatp-toutiao.com",
-        "-normal.zijieapi.com"
-      ],
-      "domain_regex": [
-        "^info\\.[\\w.-]*?\\.aleragroup\\.com$",
-        "^f-log[\\w.-]*?\\.grammarly\\.io$",
-        "^[\\w.-]*?\\.ad\\.[\\w.-]*?\\.prod\\.hosts\\.ooklaserver\\.net$",
-        "^adv0[\\w.-]*?\\.msa\\.cdn\\.mediaset\\.net$",
-        "^beacons[\\w.-]*?\\.gvt[\\w.-]\\.com$",
-        "^tracking\\.[\\w.-]*?\\.miui\\.com$",
-        "^[\\w.-]*?\\.tracking\\.[\\w.-]*?\\.miui\\.com$"
+        "-normal.zijieapi.com",
+        "-ez-pass.com",
+        "-telemetry.officeapps.live.com",
+        "-telemetry.officeapps.live.com.mcas.ms",
+        "-client-report.honkaiimpact3.com",
+        "-ulog.kwaipros.com"
       ],
       "ip_cidr": [
         "39.97.128.148/32",

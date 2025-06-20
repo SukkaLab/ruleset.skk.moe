@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-06-20T08:30:42.150Z
+// # Build 2025-06-20T09:28:49.185Z
 
 declare(strict_types=1);
 
@@ -1066,11 +1066,11 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,6.cn,Domestic',
         'DOMAIN-SUFFIX,3.cn,Domestic',
         'DOMAIN-SUFFIX,chaoxing.cc,Domestic',
-        'DOMAIN-REGEX,^[\w.-]*?\.ffzy-online[\w.-]\.com$,Domestic',
-        'DOMAIN-REGEX,^[\w.-]*?\.ffzy-play[\w.-]\.com$,Domestic',
-        'DOMAIN-REGEX,^[\w.-]*?\.lz-cdn[\w.-]\.com$,Domestic',
-        'DOMAIN-REGEX,^[\w.-]*?\.lz-cdn[\w.-][\w.-]\.com$,Domestic',
         'DOMAIN-REGEX,^[\w.-]*?\.qhimgs[\w.-]\.com$,Domestic',
+        'DOMAIN-REGEX,^[\w.-]*?\.lz-cdn[\w.-][\w.-]\.com$,Domestic',
+        'DOMAIN-REGEX,^[\w.-]*?\.lz-cdn[\w.-]\.com$,Domestic',
+        'DOMAIN-REGEX,^[\w.-]*?\.ffzy-play[\w.-]\.com$,Domestic',
+        'DOMAIN-REGEX,^[\w.-]*?\.ffzy-online[\w.-]\.com$,Domestic',
         'DOMAIN,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe,Microsoft & Apple',
         'DOMAIN-SUFFIX,apple.news,Microsoft & Apple',
         'DOMAIN-SUFFIX,trafficmanager.net,Microsoft & Apple',
@@ -5428,7 +5428,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,124.71.128.0/18,Domestic',
         'IP-CIDR,124.71.192.0/19,Domestic',
         'IP-CIDR,124.71.224.0/20,Domestic',
-        'IP-CIDR,124.71.250.0/24,Domestic',
         'IP-CIDR,124.72.0.0/13,Domestic',
         'IP-CIDR,124.88.0.0/13,Domestic',
         'IP-CIDR,124.112.0.0/13,Domestic',
