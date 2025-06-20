@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-06-20T15:32:22.988Z
-# Size: 672
+# Last Updated: 2025-06-20T17:19:38.306Z
+# Size: 671
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -341,7 +341,6 @@ DOMAIN-REGEX,^santanderpod\.[\w.-]*?\.co\.uk$
 DOMAIN-REGEX,^santander\.[\w.-]*?\.fino\.digital$
 DOMAIN-REGEX,^amazon-[\w.-]*?\.shop$
 DOMAIN-REGEX,^allegrolokalnie\.[\w.-]*?\.shop$
-DOMAIN-REGEX,^trck\.[\w.-]*?\.prod-na\.turntable\.sonic\.advertising\.amazon\.dev$
 DOMAIN-REGEX,^alienxchain[\w.-]*?\.pages\.dev$
 DOMAIN-REGEX,^help-for-work-[\w.-]*?\.pages\.dev$
 DOMAIN-REGEX,^business-facebook-[\w.-]*?\.pages\.dev$
