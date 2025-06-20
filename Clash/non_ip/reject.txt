@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-06-20T10:15:53.721Z
+# Last Updated: 2025-06-20T12:47:59.446Z
 # Size: 672
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -294,11 +294,6 @@ DOMAIN-REGEX,^help-for-work-[\w.-]*?\.pages\.dev$
 DOMAIN-REGEX,^business-facebook-[\w.-]*?\.pages\.dev$
 DOMAIN-REGEX,^apples-24x7-[\w.-]*?\.pages\.dev$
 DOMAIN-REGEX,^noticiarecentesagora\.net\.klebeerlopees[\w.-]*?\.meusitehostgator\.com\.br$
-DOMAIN-REGEX,^fan-page-[\w.-]*?\.surge\.sh$
-DOMAIN-REGEX,^copyrights-[\w.-]*?\.surge\.sh$
-DOMAIN-REGEX,^violation-[\w.-]*?\.surge\.sh$
-DOMAIN-REGEX,^request-page-violation-[\w.-]*?\.surge\.sh$
-DOMAIN-REGEX,^minero-proxy-[\w.-]*?\.now\.sh$
 DOMAIN-REGEX,^adimg[\w.-]*?\.search\.naver\.net$
 DOMAIN-REGEX,^[\w.-]*?ad\.durasite\.net$
 DOMAIN-REGEX,^subnewss[\w.-]*?\.net$
@@ -347,6 +342,11 @@ DOMAIN-REGEX,^metamask[\w.-]*?\.webflow\.io$
 DOMAIN-REGEX,^telemetry[\w.-]*?\.transcend\.io$
 DOMAIN-REGEX,^f-log-[\w.-]*?\.grammarly\.io$
 DOMAIN-REGEX,^f-log[\w.-]*?\.grammarly\.io$
+DOMAIN-REGEX,^fan-page-[\w.-]*?\.surge\.sh$
+DOMAIN-REGEX,^copyrights-[\w.-]*?\.surge\.sh$
+DOMAIN-REGEX,^violation-[\w.-]*?\.surge\.sh$
+DOMAIN-REGEX,^request-page-violation-[\w.-]*?\.surge\.sh$
+DOMAIN-REGEX,^minero-proxy-[\w.-]*?\.now\.sh$
 DOMAIN-REGEX,^invenio_tracking_[\w.-]*?\.sgnapps\.com$
 DOMAIN-REGEX,^s[\w.-]*?\.adduplex\.com$
 DOMAIN-REGEX,^metric[\w.-]*?\.rediff\.com$
