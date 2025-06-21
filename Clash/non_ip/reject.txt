@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-06-20T17:48:01.552Z
+# Last Updated: 2025-06-21T06:57:36.713Z
 # Size: 671
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -383,6 +383,11 @@ DOMAIN-REGEX,^help-for-work-[\w.-]*?\.pages\.dev$
 DOMAIN-REGEX,^business-facebook-[\w.-]*?\.pages\.dev$
 DOMAIN-REGEX,^apples-24x7-[\w.-]*?\.pages\.dev$
 DOMAIN-REGEX,^noticiarecentesagora\.net\.klebeerlopees[\w.-]*?\.meusitehostgator\.com\.br$
+DOMAIN-REGEX,^fan-page-[\w.-]*?\.surge\.sh$
+DOMAIN-REGEX,^copyrights-[\w.-]*?\.surge\.sh$
+DOMAIN-REGEX,^violation-[\w.-]*?\.surge\.sh$
+DOMAIN-REGEX,^request-page-violation-[\w.-]*?\.surge\.sh$
+DOMAIN-REGEX,^minero-proxy-[\w.-]*?\.now\.sh$
 DOMAIN-REGEX,^adimg[\w.-]*?\.search\.naver\.net$
 DOMAIN-REGEX,^[\w.-]*?ad\.durasite\.net$
 DOMAIN-REGEX,^subnewss[\w.-]*?\.net$
@@ -431,17 +436,7 @@ DOMAIN-REGEX,^metamask[\w.-]*?\.webflow\.io$
 DOMAIN-REGEX,^telemetry[\w.-]*?\.transcend\.io$
 DOMAIN-REGEX,^f-log-[\w.-]*?\.grammarly\.io$
 DOMAIN-REGEX,^f-log[\w.-]*?\.grammarly\.io$
-DOMAIN-REGEX,^fan-page-[\w.-]*?\.surge\.sh$
-DOMAIN-REGEX,^copyrights-[\w.-]*?\.surge\.sh$
-DOMAIN-REGEX,^violation-[\w.-]*?\.surge\.sh$
-DOMAIN-REGEX,^request-page-violation-[\w.-]*?\.surge\.sh$
-DOMAIN-REGEX,^minero-proxy-[\w.-]*?\.now\.sh$
 DOMAIN-REGEX,^invenio_tracking_[\w.-]*?\.sgnapps\.com$
-DOMAIN-REGEX,^widget-v[\w.-]*?\.tidiochat\.com$
-DOMAIN-REGEX,^btn\.createsend[\w.-]*?\.com$
-DOMAIN-REGEX,^widgets\.[\w.-]*?\.webengage\.com$
-DOMAIN-REGEX,^cdn[\w.-]*?\.pdmntn\.com$
-DOMAIN-REGEX,^policy[\w.-]*?\.cookieinformation\.com$
 DOMAIN-REGEX,^s[\w.-]*?\.adduplex\.com$
 DOMAIN-REGEX,^metric[\w.-]*?\.rediff\.com$
 DOMAIN-REGEX,^logger-[\w.-]*?\.dailymotion\.com$
@@ -545,6 +540,11 @@ DOMAIN-REGEX,^block\.s[\w.-]*?block\.com$
 DOMAIN-REGEX,^putrr[\w.-]*?\.com$
 DOMAIN-REGEX,^teleriumads-[\w.-]*?\.netdna-ssl\.com$
 DOMAIN-REGEX,^clk\.rtpdn[\w.-]*?\.com$
+DOMAIN-REGEX,^widget-v[\w.-]*?\.tidiochat\.com$
+DOMAIN-REGEX,^btn\.createsend[\w.-]*?\.com$
+DOMAIN-REGEX,^widgets\.[\w.-]*?\.webengage\.com$
+DOMAIN-REGEX,^cdn[\w.-]*?\.pdmntn\.com$
+DOMAIN-REGEX,^policy[\w.-]*?\.cookieinformation\.com$
 DOMAIN-REGEX,^stat\.[\w.-]*?\.v-56\.com$
 DOMAIN-REGEX,^hn-ping[\w.-]*?\.hashnode\.com$
 DOMAIN-REGEX,^stats2\.[\w.-]*?\.fdnames\.com$
@@ -605,9 +605,9 @@ DOMAIN-REGEX,^apiproxy-log-nlb-1f304af4d3ac01a4\.elb\.us-east-[\w.-]*?\.amazonaw
 DOMAIN-REGEX,^snowplow-collector-[\w.-]*?\.amazonaws\.com$
 DOMAIN-REGEX,^mobileanalytics\.[\w.-]*?\.amazonaws\.com$
 DOMAIN-REGEX,^client\.rum\.[\w.-]*?\.amazonaws\.com$
-DOMAIN-REGEX,^cookie-sl\.s3\.[\w.-]*?\.amazonaws\.com$
-DOMAIN-REGEX,^tag-based\.s3\.[\w.-]*?\.amazonaws\.com$
 DOMAIN-REGEX,^reachableads-av\.[\w.-]*?\.amazonaws\.com$
+DOMAIN-REGEX,^tag-based\.s3\.[\w.-]*?\.amazonaws\.com$
+DOMAIN-REGEX,^cookie-sl\.s3\.[\w.-]*?\.amazonaws\.com$
 DOMAIN-REGEX,^rtbimp-loadbalancer-[\w.-]*?\.amazonaws\.com$
 DOMAIN-REGEX,^ad-[\w.-]*?\.amazonaws\.com$
 DOMAIN-REGEX,^mob[\w.-]*?\.novanewsapp\.com$
@@ -618,8 +618,6 @@ DOMAIN-REGEX,^log[\w.-]*?\.zijieapi\.com$
 DOMAIN-REGEX,^ads[\w.-]*?-normal-lq\.zijieapi\.com$
 DOMAIN-REGEX,^ads[\w.-]*?-normal-[\w.-]*?\.zijieapi\.com$
 DOMAIN-REGEX,^creative[\w.-]*?\.bidease\.com$
-DOMAIN-REGEX,^profitablecpm[\w.-]*?\.com$
-DOMAIN-REGEX,^highcpmrevenue[\w.-]*?\.com$
 DOMAIN-REGEX,^c\.blue\.[\w.-]*?\.com$
 DOMAIN-REGEX,^irs\.gov\.[\w.-]*?\.com$
 DOMAIN-REGEX,^e-interac-[\w.-]*?\.com$
@@ -645,6 +643,8 @@ DOMAIN-REGEX,^currentlymail[\w.-]*?\.weebly\.com$
 DOMAIN-REGEX,^currentlyatt[\w.-]*?\.weebly\.com$
 DOMAIN-REGEX,^testra[\w.-]*?-covid\.weebly\.com$
 DOMAIN-REGEX,^vnote-[\w.-]*?\.myqcloud\.com$
+DOMAIN-REGEX,^profitablecpm[\w.-]*?\.com$
+DOMAIN-REGEX,^highcpmrevenue[\w.-]*?\.com$
 DOMAIN-REGEX,^tracking\.[\w.-]*?\.miui\.com$
 DOMAIN-REGEX,^[\w.-]*?\.tracking\.[\w.-]*?\.miui\.com$
 DOMAIN-REGEX,^beacons[\w.-]*?\.gvt[\w.-]\.com$
