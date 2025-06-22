@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-06-22T09:13:39.956Z
+// # Build 2025-06-22T09:24:40.902Z
 
 declare(strict_types=1);
 
@@ -1295,6 +1295,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Stream',
         'DOMAIN-SUFFIX,wetvinfo.com,Stream',
         'DOMAIN-SUFFIX,showtime.com,Stream',
+        'DOMAIN,bbc.mp-pxcdn.com,Stream',
         'DOMAIN-SUFFIX,himalaya.com,Stream',
         'DOMAIN,hbounify-prod.evergent.com,Stream',
         'DOMAIN-SUFFIX,discomax.com,Stream',
