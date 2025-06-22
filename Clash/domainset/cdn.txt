@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-06-22T08:21:58.121Z
-# Size: 3648
+# Last Updated: 2025-06-22T09:13:39.369Z
+# Size: 3650
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -271,6 +271,7 @@ moderate.cleantalk.org
 +.angularjs.org
 images.videolan.org
 static.tronscan.org
+cdn.tronscan.org
 static.spigotmc.org
 proxy.spigotmc.org
 +.rollupjs.org
@@ -1654,6 +1655,7 @@ csp.microsoft.com
 js.memberful.com
 static.mediafire.com
 cdn-images.mailchimp.com
+static.macupdate.com
 images.macrumors.com
 +.lr-ingest.com
 +.lowendbox.com
