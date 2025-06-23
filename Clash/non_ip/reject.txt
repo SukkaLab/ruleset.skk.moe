@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-06-22T09:24:38.980Z
-# Size: 671
+# Last Updated: 2025-06-23T14:11:12.943Z
+# Size: 672
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -68,6 +68,7 @@ DOMAIN-SUFFIX,crazyegg.com
 DOMAIN,httpdns.baidubce.com
 DOMAIN,httpdns-api.aliyuncs.com
 DOMAIN,httpdns-sc.aliyuncs.com
+DOMAIN-SUFFIX,httpdns.aliyuncs.com
 DOMAIN-SUFFIX,adincube.com
 DOMAIN,httpdns.danuoyi.tbcache.com
 DOMAIN-SUFFIX,svd-cdn.com
