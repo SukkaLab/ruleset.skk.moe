@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-06-23T15:49:47.457Z
-# Size: 672
+# Last Updated: 2025-06-24T14:03:49.158Z
+# Size: 675
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -267,7 +267,9 @@ DOMAIN-REGEX,^basvformu[\w.-]*?\.xyz$
 DOMAIN-REGEX,^www\.fuze-sea[\w.-]*?\.xyz$
 DOMAIN-REGEX,^v\.tzbox[\w.-]*?\.xyz$
 DOMAIN-REGEX,^evri\.[\w.-]*?\.xyz$
+DOMAIN-REGEX,^bitvavo[\w.-]*?\.vip$
 DOMAIN-REGEX,^baoviet[\w.-]*?\.vip$
+DOMAIN-REGEX,^bitvavo[\w.-]*?\.top$
 DOMAIN-REGEX,^baoviet[\w.-]*?\.top$
 DOMAIN-REGEX,^press-continue\.[\w.-]*?\.top$
 DOMAIN-REGEX,^vincomplaza\.[\w.-]*?\.top$
@@ -645,6 +647,7 @@ DOMAIN-REGEX,^gcw[\w.-]*?\.2liang\.cn$
 DOMAIN-REGEX,^bdcpro[\w.-]*?\.techweb\.com\.cn$
 DOMAIN-REGEX,^ysdm[\w.-]*?\.ys137\.com\.cn$
 DOMAIN-REGEX,^newmall[\w.-]*?\.cc$
+DOMAIN-REGEX,^bitvavo[\w.-]*?\.cc$
 DOMAIN-REGEX,^ad[\w.-]*?\.on\.cc$
 DOMAIN-REGEX,^vssid\.[\w.-]*?\.cc$
 DOMAIN-REGEX,^banner[\w.-]*?\.kinogo\.by$
