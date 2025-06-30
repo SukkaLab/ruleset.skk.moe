@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-06-30T12:49:23.830Z
+// # Build 2025-06-30T13:01:59.925Z
 
 declare(strict_types=1);
 
@@ -1989,6 +1989,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,porntube.com,Global',
         'DOMAIN-SUFFIX,porntrex.com,Global',
         'DOMAIN-SUFFIX,pornpics.com,Global',
+        'DOMAIN-SUFFIX,poeditor.com,Global',
         'DOMAIN-SUFFIX,pastebin.com,Global',
         'DOMAIN-SUFFIX,olympics.com,Global',
         'DOMAIN-SUFFIX,nytstyle.com,Global',
