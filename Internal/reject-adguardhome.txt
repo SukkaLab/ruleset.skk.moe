@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Mon, 30 Jun 2025 09:28:05 GMT
+! Last modified: Mon, 30 Jun 2025 12:49:28 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -690,6 +690,7 @@
 ||eubobpzucyagl.online^
 ||espbrohujtbch.online^
 ||eriuregkbzrbf.online^
+||enwgkdbgbzwil.online^
 ||ennhtjzkuhjjw.online^
 ||enhhwenysfcmg.online^
 ||ejnrfzsbvwqwj.online^
@@ -1144,6 +1145,7 @@
 ||vgzglvykuyclh.store^
 ||vdxnkmjloixhc.store^
 ||vcjfxnwmzpdgu.store^
+||uxwinyafloqfy.store^
 ||uiomqkwmquonb.store^
 ||ucewkivqiovlo.store^
 ||tugnrqywfwaup.store^
@@ -1165,6 +1167,7 @@
 ||qmpkrtpeynvmk.store^
 ||qhixhrkrviekq.store^
 ||qgimxtyttlpyj.store^
+||qgdgcbtfuxgra.store^
 ||qevmhghuyoqva.store^
 ||qcjyyaiabhmrn.store^
 ||pzxjjwbdvxxbi.store^
@@ -1217,6 +1220,7 @@
 ||kbmetcacunqgq.store^
 ||kbhgnyiogmrcl.store^
 ||jtuyocdzxtzla.store^
+||jrxgcthoussjz.store^
 ||jksmaafnkdyni.store^
 ||jeqpqqqqwkmxk.store^
 ||jbjydrxjfseii.store^
@@ -1281,6 +1285,7 @@
 ||bwsddrebfiwvu.store^
 ||bvyptevtmkdul.store^
 ||ss.brandsupplies.store^
+||blxddjwomsump.store^
 ||bivdhulygjipf.store^
 ||bcgzqzjkyjmfd.store^
 ||azbtyfvqjuiyc.store^
@@ -1820,6 +1825,7 @@
 ||coinpool.cloud^
 ||bytecoin.cloud^
 ||152media.cloud^
+||analytics.ticimax.cloud^
 ||event.syndigo.cloud^
 ||swasc.stackit.cloud^
 ||wstats.slashed.cloud^
@@ -2335,6 +2341,7 @@
 ||gjlkzltqvdjeo.site^
 ||ggegdoydglton.site^
 ||gevfbkxymoois.site^
+||gaqjhqjowwygp.site^
 ||fyzpcrqqernqr.site^
 ||fuhcoupnmivfn.site^
 ||fueunubabrncq.site^
@@ -2616,6 +2623,7 @@
 ||tusslestransp.shop^
 ||tupmanharking.shop^
 ||tuggerscasque.shop^
+||tordiondisnew.shop^
 ||topworkredbay.shop^
 ||thugdomgranum.shop^
 ||tartanecruels.shop^
@@ -2703,6 +2711,7 @@
 ||notistdafter.shop^
 ||minningtanan.shop^
 ||logriamorels.shop^
+||logilycathop.shop^
 ||lazuliariana.shop^
 ||lanklykeeler.shop^
 ||laeliasitkan.shop^
@@ -3873,6 +3882,7 @@
 ||evdqwqmidjmlyvy.xyz^
 ||dddashasledopyt.xyz^
 ||worldglobalssp.xyz^
+||togefaeuxdrbvq.xyz^
 ||tbcthwmcjkhtjw.xyz^
 ||rigpikkndmetnb.xyz^
 ||pushmaster-cdn.xyz^
@@ -4921,6 +4931,7 @@
 ||wokowiviolina.top^
 ||wmzlbovlwrrok.top^
 ||wmmrbwiyztgeg.top^
+||wmlollmkvjoev.top^
 ||wmeqoborqbkbj.top^
 ||wlzzwzeevbjww.top^
 ||wlyazbaqggqyn.top^
@@ -5153,6 +5164,7 @@
 ||laetictinhorn.top^
 ||kraftsregears.top^
 ||kmwknynqkyoyj.top^
+||kmlnllmoajnwa.top^
 ||klwvllgkzykko.top^
 ||kllwynbybjlyb.top^
 ||klbbgbwwayjgg.top^
@@ -5209,6 +5221,7 @@
 ||fanxmfllqbyoy.top^
 ||evictsunlyric.top^
 ||enteraingrown.top^
+||embankmalates.top^
 ||eluatedawreak.top^
 ||ecrvysupbqcnb.top^
 ||dupingareoles.top^
@@ -11351,6 +11364,7 @@
 ||trcka8net.qieto.net^
 ||collector-pxebumdlwe.pxchk.net^
 ||ip.prvtx.net^
+||lc-event.pixiv.net^
 ||imp.pixiv.net^
 ||emu.pin13.net^
 ||ldqtdd.peing.net^
@@ -31433,6 +31447,7 @@
 ||gybyxsy1588.com^
 ||track.gummiesinfo.com^
 ||guessdetail.com^
+||gthduwvnqrq.com^
 ||tags.gskpro-com.preview-cf65.gskinternet.com^
 ||tickets.gs-warriors.com^
 ||ana.grumpygamer.com^
@@ -39206,6 +39221,7 @@
 ||marketing.mhe-demag.com^
 ||counter.mgronline.com^
 ||imp.mgronline.com^
+||mfwdigbir.com^
 ||mfcewkrob.com^
 ||mews2ruck.com^
 ||s.metroland.com^
@@ -45176,6 +45192,7 @@
 ||earthups.com^
 ||earnvids.com^
 ||earnbaht.com^
+||eanjuliw.com^
 ||om.eamobile.com^
 ||content.e-office.com^
 ||apps.e-butler.com^
@@ -48857,7 +48874,7 @@
 ||t.godeacs.com^
 ||csp.godaddy.com^
 ||events.api.godaddy.com^
-||cdn.gocolow.com^
+||gocolow.com^
 ||trk.gobugmd.com^
 ||app.gobison.com^
 ||t.gobison.com^
@@ -80197,6 +80214,7 @@
 ||cookies.jll.de^
 ||metrics.its.de^
 ||metric.its.de^
+||count.ing.de^
 ||cxulqs.ils.de^
 ||data-a114e51991.ikz.de^
 ||data-7555680eb3.ikz.de^
