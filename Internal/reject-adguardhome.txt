@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Tue, 01 Jul 2025 06:59:57 GMT
+! Last modified: Tue, 01 Jul 2025 07:13:51 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -4803,7 +4803,6 @@
 ||play.nekobot.vip^
 ||sensorsdata.glowapp.vip^
 ||majile.vip^
-|static.javcdn.vip^
 ||always.vip^
 ||vamqt.vip^
 ||share.tp666.vip^
@@ -9499,7 +9498,7 @@
 ||d3mt4q5p9blrvc.cloudfront.net^
 ||d3mskfhorhi2fb.cloudfront.net^
 ||d3mr7y154d2qg5.cloudfront.net^
-||d3mjsomixevyw7.cloudfront.net^
+|d3mjsomixevyw7.cloudfront.net^
 ||d3m6sept6cnil5.cloudfront.net^
 ||d3m4hp4bp4w996.cloudfront.net^
 ||d3lwdybbvxc4v9.cloudfront.net^
@@ -9539,7 +9538,7 @@
 ||d3ea0dyj1ehgcr.cloudfront.net^
 ||d3dq1nh1l1pzqy.cloudfront.net^
 ||d3dpet1g0ty5ed.cloudfront.net^
-||d3ddidv77grh0f.cloudfront.net^
+|d3ddidv77grh0f.cloudfront.net^
 ||d3d7a0q05k6bvz.cloudfront.net^
 ||d3d52lhoy0sh2w.cloudfront.net^
 ||d3cxv97fi8q177.cloudfront.net^
@@ -9556,7 +9555,7 @@
 ||d3bbyfw7v2aifi.cloudfront.net^
 ||d3b2hhehkqd158.cloudfront.net^
 ||d3aicbrzoy14kh.cloudfront.net^
-||d3ahinqqx1dy5v.cloudfront.net^
+|d3ahinqqx1dy5v.cloudfront.net^
 ||d3aajkp07o1e4y.cloudfront.net^
 ||d3a49eam5ump99.cloudfront.net^
 ||d39yds8oe4n4jq.cloudfront.net^
@@ -9566,7 +9565,7 @@
 ||d390icj1ta4x0p.cloudfront.net^
 ||d38psrni17bvxu.cloudfront.net^
 ||d38itq6vdv6gr9.cloudfront.net^
-||d37ju0xanoz6gh.cloudfront.net^
+|d37ju0xanoz6gh.cloudfront.net^
 ||d37d9zbli5ytch.cloudfront.net^
 ||d37abonb6ucrhx.cloudfront.net^
 ||d36zfztxfflmqo.cloudfront.net^
@@ -9613,7 +9612,7 @@
 ||d2un76zvb5mgzx.cloudfront.net^
 ||d2uhnetoehh304.cloudfront.net^
 ||d2tvgfsghnrkwb.cloudfront.net^
-||d2tnx644ijgq6i.cloudfront.net^
+|d2tnx644ijgq6i.cloudfront.net^
 ||d2tgfbvjf3q6hn.cloudfront.net^
 ||d2tc1zttji8e3a.cloudfront.net^
 ||d2tbszkvx1p56e.cloudfront.net^
@@ -9835,7 +9834,7 @@
 ||d1l6p2sc9645hc.cloudfront.net^
 ||d1ks8roequxbwa.cloudfront.net^
 ||d1k8sb4xbepqao.cloudfront.net^
-||d1jwpcr0q4pcq0.cloudfront.net^
+|d1jwpcr0q4pcq0.cloudfront.net^
 ||d1j9qsxe04m2ki.cloudfront.net^
 ||d1j47wsepxe9u2.cloudfront.net^
 ||d1j2jv7bvcsxqg.cloudfront.net^
@@ -9866,7 +9865,7 @@
 ||d1ev866ubw90c6.cloudfront.net^
 ||d1esebcdm6wx7j.cloudfront.net^
 ||d1e28xq8vu3baf.cloudfront.net^
-||d1e1rbybdt265x.cloudfront.net^
+|d1e1rbybdt265x.cloudfront.net^
 ||d1dtl43j681tft.cloudfront.net^
 ||d1djrodi2reo2w.cloudfront.net^
 ||d1cykymlllue3h.cloudfront.net^
@@ -9900,7 +9899,7 @@
 ||d185vdnhi9xfbl.cloudfront.net^
 ||d17tqr44y57o31.cloudfront.net^
 ||d17m68fovwmgxj.cloudfront.net^
-||d179kwmlpc4o47.cloudfront.net^
+|d179kwmlpc4o47.cloudfront.net^
 ||d17757b88bjr2y.cloudfront.net^
 ||d1733r3id7jrw5.cloudfront.net^
 ||d16saj1xvba76n.cloudfront.net^
@@ -47475,7 +47474,6 @@
 ||stats.safeway.com^
 ||stat.safeway.com^
 ||sadloaf.com^
-|cdn-b.saashub.com^
 ||s2blosh.com^
 ||ryminos.com^
 ||stats.rymawby.com^
@@ -87604,7 +87602,7 @@
 /wxsnsdy/
 /adwords/
 /-tracker\.biliapi\.net/
-/ad\.ixigua\.com/
+/-ad\.ixigua\.com/
 /trksvg\.business\.hsbc\./
 /trkgbm\.business\.hsbc\./
 /trkhinv\.business\.hsbc\./
