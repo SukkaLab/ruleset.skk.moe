@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-07-10T14:48:05.795Z
+// # Build 2025-07-10T15:33:47.494Z
 
 declare(strict_types=1);
 
@@ -299,6 +299,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,bosszhipin.com,Domestic',
         'DOMAIN-SUFFIX,bilicomics.com,Domestic',
         'DOMAIN-SUFFIX,alibabadns.com,Domestic',
+        'DOMAIN-SUFFIX,4008823823.com,Domestic',
         'DOMAIN-SUFFIX,zuoyebang.com,Domestic',
         'DOMAIN-SUFFIX,youzanyun.com,Domestic',
         'DOMAIN-SUFFIX,yangkeduo.com,Domestic',
@@ -715,6 +716,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,ip138.com,Domestic',
         'DOMAIN-SUFFIX,ifeng.com,Domestic',
         'DOMAIN-SUFFIX,iciba.com,Domestic',
+        'DOMAIN-SUFFIX,hwwt8.com,Domestic',
         'DOMAIN-SUFFIX,huxiu.com,Domestic',
         'DOMAIN-SUFFIX,honor.com,Domestic',
         'DOMAIN-SUFFIX,hdslb.com,Domestic',
@@ -984,6 +986,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,neixin.cn,Domestic',
         'DOMAIN-SUFFIX,mybank.cn,Domestic',
         'DOMAIN-SUFFIX,mifile.cn,Domestic',
+        'DOMAIN-SUFFIX,kfcapp.cn,Domestic',
         'DOMAIN-SUFFIX,ipanda.cn,Domestic',
         'DOMAIN-SUFFIX,hwccpc.cn,Domestic',
         'DOMAIN-SUFFIX,huawei.cn,Domestic',
