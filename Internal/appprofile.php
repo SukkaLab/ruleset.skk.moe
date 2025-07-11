@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-07-11T10:28:16.031Z
+// # Build 2025-07-11T11:31:44.106Z
 
 declare(strict_types=1);
 
@@ -98,6 +98,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,miot-spec.org,Domestic',
         'DOMAIN-SUFFIX,docschina.org,Domestic',
         'DOMAIN-SUFFIX,solidot.org,Domestic',
+        'DOMAIN-SUFFIX,taobao.org,Domestic',
         'DOMAIN-SUFFIX,aliapp.org,Domestic',
         'DOMAIN-SUFFIX,9966.org,Domestic',
         'DOMAIN-SUFFIX,8866.org,Domestic',
@@ -375,6 +376,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,bytecdntp.com,Domestic',
         'DOMAIN-SUFFIX,bilivideo.com,Domestic',
         'DOMAIN-SUFFIX,bilicomic.com,Domestic',
+        'DOMAIN-SUFFIX,alipaydev.com,Domestic',
         'DOMAIN-SUFFIX,alikunlun.com,Domestic',
         'DOMAIN-SUFFIX,360buyimg.com,Domestic',
         'DOMAIN-SUFFIX,zijieapi.com,Domestic',
@@ -899,6 +901,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,126.com,Domestic',
         'DOMAIN-SUFFIX,115.com,Domestic',
         'DOMAIN-SUFFIX,111.com,Domestic',
+        'DOMAIN-SUFFIX,110.com,Domestic',
         'DOMAIN-SUFFIX,yy.com,Domestic',
         'DOMAIN-SUFFIX,so.com,Domestic',
         'DOMAIN-SUFFIX,qq.com,Domestic',
@@ -1697,6 +1700,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,minecraft.net,Global',
         'DOMAIN-SUFFIX,line-scdn.net,Global',
         'DOMAIN-SUFFIX,eroterest.net,Global',
+        'DOMAIN-SUFFIX,ero-video.net,Global',
         'DOMAIN-SUFFIX,bloomberg.net,Global',
         'DOMAIN-SUFFIX,atlassian.net,Global',
         'DOMAIN-SUFFIX,turbobit.net,Global',
@@ -1735,6 +1739,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,nitter.net,Global',
         'DOMAIN-SUFFIX,komoot.net,Global',
         'DOMAIN-SUFFIX,ipleak.net,Global',
+        'DOMAIN-SUFFIX,gitlab.net,Global',
         'DOMAIN-SUFFIX,fastly.net,Global',
         'DOMAIN-SUFFIX,dnsleak.asn247.net,Global',
         'DOMAIN-SUFFIX,akamai.net,Global',
@@ -1992,6 +1997,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,wakatime.com,Global',
         'DOMAIN-SUFFIX,uptodown.com,Global',
         'DOMAIN-SUFFIX,theverge.com,Global',
+        'DOMAIN-SUFFIX,techspot.com,Global',
         'DOMAIN-SUFFIX,tdesktop.com,Global',
         'DOMAIN-SUFFIX,substack.com,Global',
         'DOMAIN-SUFFIX,softonic.com,Global',
@@ -2187,6 +2193,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,rawgit.com,Global',
         'DOMAIN-SUFFIX,pusher.com,Global',
         'DOMAIN-SUFFIX,probit.com,Global',
+        'DOMAIN-SUFFIX,pornmd.com,Global',
         'DOMAIN-SUFFIX,pornhd.com,Global',
         'DOMAIN-SUFFIX,porngo.com,Global',
         'DOMAIN-SUFFIX,pinimg.com,Global',
@@ -2453,6 +2460,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,my,Global',
         'DOMAIN-SUFFIX,mx,Global',
         'DOMAIN-SUFFIX,ms,Global',
+        'DOMAIN-SUFFIX,j.mp,Global',
         'DOMAIN-SUFFIX,mn,Global',
         'DOMAIN-SUFFIX,line-beta.me,Global',
         'DOMAIN-SUFFIX,hanimeone.me,Global',
@@ -2464,6 +2472,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,proton.me,Global',
         'DOMAIN-SUFFIX,pikpak.me,Global',
         'DOMAIN-SUFFIX,1anime.me,Global',
+        'DOMAIN-SUFFIX,about.me,Global',
         'DOMAIN-SUFFIX,7mmtv.me,Global',
         'DOMAIN-SUFFIX,line.me,Global',
         'DOMAIN-SUFFIX,wa.me,Global',
@@ -2578,6 +2587,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,ch,Global',
         'DOMAIN-SUFFIX,binance.cc,Global',
         'DOMAIN-SUFFIX,pttweb.cc,Global',
+        'DOMAIN-SUFFIX,kknews.cc,Global',
         'DOMAIN-SUFFIX,fanbox.cc,Global',
         'DOMAIN-SUFFIX,whoer.cc,Global',
         'DOMAIN-SUFFIX,silca.cc,Global',
