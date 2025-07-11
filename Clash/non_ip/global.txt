@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-07-07T08:32:21.346Z
-# Size: 1061
+# Last Updated: 2025-07-11T09:39:14.145Z
+# Size: 1073
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -12,6 +12,7 @@ DOMAIN,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe
 DOMAIN-SUFFIX,community
 DOMAIN-SUFFIX,network
 DOMAIN-SUFFIX,x.company
+DOMAIN-SUFFIX,taipei
 DOMAIN-SUFFIX,social
 DOMAIN-SUFFIX,animes.garden
 DOMAIN-SUFFIX,ant.design
@@ -52,6 +53,7 @@ DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,xxx
 DOMAIN-SUFFIX,activated.win
 DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,sex
 DOMAIN-SUFFIX,rip
 DOMAIN-SUFFIX,huobi.pro
 DOMAIN-SUFFIX,certificate-transparency.org
@@ -59,7 +61,9 @@ DOMAIN-SUFFIX,freedownloadmanager.org
 DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,archiveofourown.org
+DOMAIN-SUFFIX,wmfusercontent.org
 DOMAIN-SUFFIX,whispersystems.org
+DOMAIN-SUFFIX,waybackmachine.org
 DOMAIN-SUFFIX,prismlauncher.org
 DOMAIN-SUFFIX,openstreetmap.org
 DOMAIN-SUFFIX,annas-archive.org
@@ -70,6 +74,7 @@ DOMAIN-SUFFIX,whatbrowser.org
 DOMAIN-SUFFIX,webmproject.org
 DOMAIN-SUFFIX,signalusers.org
 DOMAIN-SUFFIX,shadowsocks.org
+DOMAIN-SUFFIX,openfreemap.org
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,dnsleaktest.org
 DOMAIN-SUFFIX,wiktionary.org
@@ -96,6 +101,7 @@ DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,travis-ci.org
 DOMAIN-SUFFIX,toolforge.org
+DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,greatfire.org
 DOMAIN-SUFFIX,bitbucket.org
 DOMAIN-SUFFIX,wikinews.org
@@ -128,6 +134,7 @@ DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,change.org
 DOMAIN-SUFFIX,apibay.org
 DOMAIN-SUFFIX,afraid.org
+DOMAIN-SUFFIX,wiki2.org
 DOMAIN-SUFFIX,v2fly.org
 DOMAIN-SUFFIX,scpdb.org
 DOMAIN-SUFFIX,rferl.org
@@ -140,6 +147,7 @@ DOMAIN-SUFFIX,4chan.org
 DOMAIN-SUFFIX,kali.org
 DOMAIN-SUFFIX,ietf.org
 DOMAIN-SUFFIX,iana.org
+DOMAIN-SUFFIX,iaea.org
 DOMAIN-SUFFIX,4cdn.org
 DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,npr.org
@@ -190,6 +198,7 @@ DOMAIN-SUFFIX,diagrams.net
 DOMAIN-SUFFIX,creaders.net
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cachefly.net
+DOMAIN-SUFFIX,beacondb.net
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,ip-scan.adspower.net
 DOMAIN-SUFFIX,windows.net
@@ -661,6 +670,7 @@ DOMAIN-SUFFIX,readme.com
 DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,pusher.com
 DOMAIN-SUFFIX,probit.com
+DOMAIN-SUFFIX,pornhd.com
 DOMAIN-SUFFIX,porngo.com
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,phncdn.com
@@ -683,6 +693,7 @@ DOMAIN-SUFFIX,ledger.com
 DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,komoot.com
+DOMAIN-SUFFIX,keycdn.com
 DOMAIN-SUFFIX,javbus.com
 DOMAIN-SUFFIX,edns.ip-api.com
 DOMAIN-SUFFIX,iheart.com
@@ -1042,6 +1053,7 @@ DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,g.co
+DOMAIN-SUFFIX,softonic.cn
 DOMAIN,store.ui.com.cn
 DOMAIN-SUFFIX,ch
 DOMAIN-SUFFIX,binance.cc
