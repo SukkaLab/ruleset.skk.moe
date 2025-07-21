@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-07-21T08:09:52.565Z
+// # Build 2025-07-21T09:52:54.590Z
 
 declare(strict_types=1);
 
@@ -2077,6 +2077,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,xgroovy.com,Global',
         'DOMAIN-SUFFIX,xfinity.com,Global',
         'DOMAIN-SUFFIX,workday.com,Global',
+        'DOMAIN-SUFFIX,wikihow.com,Global',
         'DOMAIN-SUFFIX,wikidot.com,Global',
         'DOMAIN-SUFFIX,webflow.com,Global',
         'DOMAIN-SUFFIX,weather.com,Global',
