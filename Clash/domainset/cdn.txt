@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-07-26T14:52:20.944Z
+# Last Updated: 2025-07-26T15:38:17.874Z
 # Size: 3709
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -1406,7 +1406,6 @@ images1.cmp.optimizely.com
 +.cdn.optimizely.com
 static-www.onlyoffice.com
 +.nincontent.com
-+.netdna-ssl.com
 cdn.nerdschalk.com
 cdn.app.neononepay.com
 media.nbcnewyork.com
@@ -2281,6 +2280,7 @@ static.hubspot.com
 +.js.hubspot.com
 perf-na1.hsforms.com
 perf.hsforms.com
+static.hosting.com
 +.hgimg00.com
 static.heavy-r.com
 public.hare200.com
