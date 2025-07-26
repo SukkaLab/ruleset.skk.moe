@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-07-26T11:26:47.965Z
-# Size: 690
+# Last Updated: 2025-07-26T14:52:19.078Z
+# Size: 693
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -268,6 +268,7 @@ DOMAIN-KEYWORD,trkgbm.business.hsbc.
 DOMAIN-KEYWORD,trkhinv.business.hsbc.
 DOMAIN-KEYWORD,trkcmb.business.hsbc.
 DOMAIN-KEYWORD,-analytics-events.apple.com
+DOMAIN-KEYWORD,-ads.realmemobile.com
 DOMAIN-KEYWORD,-ad.video.yximgs.com
 DOMAIN-KEYWORD,-ad.a.yximgs.com
 DOMAIN-KEYWORD,-ad.sm.cn
@@ -513,12 +514,14 @@ DOMAIN-REGEX,^datacollect[\w.-]*?\.abtasty\.com$
 DOMAIN-REGEX,^js[\w.-]*?\.abolezi\.com$
 DOMAIN-REGEX,^dm[\w.-]*?\.yxlady\.com$
 DOMAIN-REGEX,^impservice[\w.-]*?\.youdao\.com$
+DOMAIN-REGEX,^ads-[\w.-]*?\.xhscdn\.com$
 DOMAIN-REGEX,^2025[\w.-]*?maintenance\.weebly\.com$
 DOMAIN-REGEX,^currentlymail[\w.-]*?\.weebly\.com$
 DOMAIN-REGEX,^testra[\w.-]*?-covid\.weebly\.com$
 DOMAIN-REGEX,^currentlyatt[\w.-]*?\.weebly\.com$
 DOMAIN-REGEX,^e-navy[\w.-]*?\.weebly\.com$
 DOMAIN-REGEX,^mcs-[\w.-]*?\.tiktok\.com$
+DOMAIN-REGEX,^ads-[\w.-]*?\.tiktok\.com$
 DOMAIN-REGEX,^cdn[\w.-]*?\.swaxis\.com$
 DOMAIN-REGEX,^d[\w.-]*?\.ruiwen\.com$
 DOMAIN-REGEX,^clk\.rtpdn[\w.-]*?\.com$
