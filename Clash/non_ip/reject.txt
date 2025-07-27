@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-07-26T15:38:15.729Z
-# Size: 694
+# Last Updated: 2025-07-27T11:53:30.603Z
+# Size: 692
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -405,7 +405,6 @@ DOMAIN-REGEX,^info\.[\w.-]*?\.aleragroup\.com$
 DOMAIN-REGEX,^[\w.-]*?\.a-akamaihd\.com$
 DOMAIN-REGEX,^mail\.[\w.-]*?-coinbase\.com$
 DOMAIN-REGEX,^clog[\w.-]*?\.yuanfudao\.com$
-DOMAIN-REGEX,^steam\.workshop[\w.-]*?\.com$
 DOMAIN-REGEX,^attonlineservice[\w.-]*?\.wixstudio\.com$
 DOMAIN-REGEX,^widgets\.[\w.-]*?\.webengage\.com$
 DOMAIN-REGEX,^collector-[\w.-]*?\.tvsquared\.com$
@@ -693,7 +692,6 @@ DOMAIN-REGEX,^bitvavo[\w.-]*?\.cc$
 DOMAIN-REGEX,^ad[\w.-]*?\.on\.cc$
 DOMAIN-REGEX,^vssid\.[\w.-]*?\.cc$
 DOMAIN-REGEX,^banner[\w.-]*?\.kinogo\.by$
-DOMAIN-REGEX,^noticiarecentesagora\.net\.klebeerlopees[\w.-]*?\.meusitehostgator\.com\.br$
 DOMAIN-REGEX,^mf[\w.-]*?\.advantage\.as$
 IP-CIDR,39.97.128.148/32,no-resolve
 IP-CIDR,39.97.130.51/32,no-resolve
