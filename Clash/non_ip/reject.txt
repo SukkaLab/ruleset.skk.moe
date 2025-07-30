@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-07-27T16:03:45.880Z
-# Size: 693
+# Last Updated: 2025-07-30T08:29:32.306Z
+# Size: 694
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -391,6 +391,7 @@ DOMAIN-REGEX,^logger-[\w.-]*?\.dailymotion\.com$
 DOMAIN-REGEX,^btn\.createsend[\w.-]*?\.com$
 DOMAIN-REGEX,^a[\w.-]*?\.chajiaotong\.com$
 DOMAIN-REGEX,^tnc16-[\w.-]*?\.byteoversea\.com$
+DOMAIN-REGEX,^mon-[\w.-]*?\.byteoversea\.com$
 DOMAIN-REGEX,^log[\w.-]*?\.byteoversea\.com$
 DOMAIN-REGEX,^batchlogging[\w.-]*?-noneu\.truecaller\.com$
 DOMAIN-REGEX,^batchlogging[\w.-]*?-eu\.truecaller\.com$
