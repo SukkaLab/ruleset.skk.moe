@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-08-05T12:54:50.798Z
-# Size: 724
+# Last Updated: 2025-08-06T05:47:56.211Z
+# Size: 725
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -541,6 +541,7 @@ DOMAIN-REGEX,^mgbsdk[\w.-]*?\.matrix\.easebar\.com$
 DOMAIN-REGEX,^applog[\w.-]*?\.matrix\.easebar\.com$
 DOMAIN-REGEX,^creative[\w.-]*?\.bidease\.com$
 DOMAIN-REGEX,^pixel[\w.-]*?\.adswizz\.com$
+DOMAIN-REGEX,^ecommerce-events[\w.-]*?\.adscale\.com$
 DOMAIN-REGEX,^datacollect[\w.-]*?\.abtasty\.com$
 DOMAIN-REGEX,^js[\w.-]*?\.abolezi\.com$
 DOMAIN-REGEX,^dm[\w.-]*?\.yxlady\.com$
