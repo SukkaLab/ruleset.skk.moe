@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2025-07-29T16:03:58.915Z
+# Last Updated: 2025-08-08T04:16:47.860Z
 # Size: 829
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -832,10 +832,10 @@ DOMAIN-SUFFIX,t.cn
 DOMAIN-SUFFIX,6.cn
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,chaoxing.cc
-DOMAIN-REGEX,^[\w.-]*?\.ffzy-online[\w.-]\.com$
-DOMAIN-REGEX,^[\w.-]*?\.ffzy-play[\w.-]\.com$
-DOMAIN-REGEX,^[\w.-]*?\.lz-cdn[\w.-][\w.-]\.com$
-DOMAIN-REGEX,^[\w.-]*?\.qhimgs[\w.-]\.com$
-DOMAIN-REGEX,^[\w.-]*?\.lz-cdn[\w.-]\.com$
+DOMAIN-WILDCARD,*.ffzy-online?.com
+DOMAIN-WILDCARD,*.ffzy-play?.com
+DOMAIN-WILDCARD,*.lz-cdn??.com
+DOMAIN-WILDCARD,*.qhimgs?.com
+DOMAIN-WILDCARD,*.lz-cdn?.com
 ################## EOF ##################
 
