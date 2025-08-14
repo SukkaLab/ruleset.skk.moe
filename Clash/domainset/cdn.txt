@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-14T05:58:47.464Z
-# Size: 3799
+# Last Updated: 2025-08-14T10:22:09.998Z
+# Size: 3808
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -67,6 +67,7 @@ files.smashing.media
 images.github.media
 jssdk.opin.media
 +.icon.horse
+node.green
 assets.buttondown.email
 +.ipfs-gateway.cloud
 +.dreamscape.cloud
@@ -848,6 +849,7 @@ media.theresanaiforthat.com
 +.ssl-images-amazon.com
 +.scorecardresearch.com
 assets.positional-bucket.com
++.parsecusercontent.com
 +.notionusercontent.com
 navismithapis-cdn.com
 +.googleusercontent.com
@@ -3229,6 +3231,11 @@ assets-cdn.jable.tv
 assetscdn.jable.tv
 assets.jable.tv
 i.iwara.tv
+imgcn5.bgmbk.tv
+imgcn4.bgmbk.tv
+imgcn3.bgmbk.tv
+imgcn2.bgmbk.tv
+imgcn.bgmbk.tv
 cdn.18jav.tv
 s-cdnstatic.svc.litv.tv
 p-cdnstatic.svc.litv.tv
@@ -3274,6 +3281,8 @@ s3.doujin.sh
 +.surge.sh
 static.scarf.sh
 proxy.cors.sh
+brew.sh
+docs.brew.sh
 flo.uri.sh
 +.ttl.sh
 +.now.sh
