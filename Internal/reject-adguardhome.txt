@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Thu, 14 Aug 2025 11:16:54 GMT
+! Last modified: Thu, 14 Aug 2025 12:51:30 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -5022,6 +5022,7 @@
 ||misputbruno.shop^
 ||mirvausubos.shop^
 ||megmhokluck.shop^
+||meetreevoke.shop^
 ||mangesungar.shop^
 ||maillreefed.shop^
 ||stape.magrafitpro.shop^
@@ -6027,6 +6028,7 @@
 ||gnatteralkyl.qpon^
 ||franticsalon.qpon^
 ||filtervidame.qpon^
+||ferfelruskin.qpon^
 ||fannonlacmus.qpon^
 ||fangedwashes.qpon^
 ||exuviafigged.qpon^
@@ -6059,6 +6061,7 @@
 ||behavesyahan.qpon^
 ||begoniamarie.qpon^
 ||beeryfolding.qpon^
+||bafyotramage.qpon^
 ||baccysprawls.qpon^
 ||atalayagamed.qpon^
 ||askarwanions.qpon^
@@ -7542,6 +7545,7 @@
 ||signistyo.help^
 ||moraurban.help^
 ||mergingca.help^
+||mahdenier.help^
 ||lurerbons.help^
 ||lassoflat.help^
 ||kanatbour.help^
@@ -15235,7 +15239,6 @@
 ||metrics.el-mundo.net^
 ||dmpcdn.el-mundo.net^
 ||eetspaae.net^
-||eergortu.net^
 ||eegamaub.net^
 ||etznkn.ec-store.net^
 ||eavefrom.net^
@@ -20049,6 +20052,7 @@
 ||delightspiritedtroop.com^
 ||preferences.definitivetechnology.com^
 ||deductgreedyheadroom.com^
+||declarepainfullyswat.com^
 ||deaconsodimmigration.com^
 ||comunicaciones.daviviendacorredores.com^
 ||secure.data-creativecompany.com^
@@ -29373,6 +29377,7 @@
 ||wsddgymcdbamx.com^
 ||wretchedfloor.com^
 ||wrathyblesmol.com^
+||wqbfacrjkijem.com^
 ||wpnrffbuxtslo.com^
 ||guilp.worthygiftsco.com^
 ||worthlessbend.com^
@@ -29598,6 +29603,7 @@
 ||expo.ubm-licensing.com^
 ||ble.ubm-licensing.com^
 ||ubiquitoussea.com^
+||uakarisigneur.com^
 ||tzsdostjwlfsh.com^
 ||twzminingpool.com^
 ||twinelandlord.com^
@@ -31765,6 +31771,7 @@
 ||klwuhp.daehyuninside.com^
 ||hoverfly.cyberbytesinc.com^
 ||sjrog.cyberbackpack.com^
+||cxrpfoshmgxrs.com^
 ||cussercardium.com^
 ||jrhrn.cushionsource.com^
 ||curvehashcoin.com^
@@ -31871,6 +31878,7 @@
 ||careers.coniferhealth.com^
 ||future.coniferhealth.com^
 ||ahima.coniferhealth.com^
+||congruousthey.com^
 ||congerstunish.com^
 ||confirmglobal.com^
 ||confesschairs.com^
@@ -36904,6 +36912,7 @@
 ||sn.www.tejalchopra.com^
 ||vhqsa.tegsport-us.com^
 ||nlbcb.tees2urdoor.com^
+||tediouswasp.com^
 ||tediousbear.com^
 ||stape.tecladoraiz.com^
 ||info.technologia.com^
@@ -44915,6 +44924,7 @@
 ||anjbfonzoz.com^
 ||data.relacionamento.anhanguera.com^
 ||data.pos.anhanguera.com^
+||angry-quit.com^
 ||metrics.angieslist.com^
 ||metric.angieslist.com^
 ||ss.anerkjendt.com^
@@ -45633,6 +45643,7 @@
 ||wtuqaaypj.com^
 ||marketing.wrightimc.com^
 ||internalt.wrensilva.com^
+||wqhuludpb.com^
 ||cv.wp-avenue.com^
 ||zqcpf.wovenbyrd.com^
 ||metrics.workfront.com^
@@ -48462,6 +48473,7 @@
 ||ifjovbake.com^
 ||ifethbrzb.com^
 ||capi.ieltsprof.com^
+||idsdrakes.com^
 ||ppdata.idlebuddy.com^
 ||jclari.idgarages.com^
 ||idg1.idgarages.com^
@@ -55334,6 +55346,7 @@
 ||trk.by.aglgroup.com^
 ||go.by.aglgroup.com^
 ||analytics.agenedia.com^
+||monitor.agenedia.com^
 ||images.na.agcocorp.com^
 ||agagaure.com^
 ||tag.aftvnews.com^
@@ -61503,7 +61516,6 @@
 ||marketing.mplsnw.com^
 ||team.moxtra.com^
 ||p-cg64-slinganalytics.movetv.com^
-||p-aw2-adapt-beacon.awsprodops.movetv.com^
 ||app.movegb.com^
 ||app.movebe.com^
 ||movcpm.com^
@@ -71820,6 +71832,10 @@
 ||cupid.ptqy.gitv.tv^
 |msg.ptqy.gitv.tv^
 |doh.ptqy.gitv.tv^
+||beacons-prod.fubo.tv^
+||trackers.fubo.tv^
+||events.fubo.tv^
+||ads.fubo.tv^
 ||fili.tv^
 ||dspx.tv^
 ||stats-dev.brid.tv^
