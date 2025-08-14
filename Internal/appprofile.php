@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-08-14T12:51:26.112Z
+// # Build 2025-08-14T13:29:51.493Z
 
 declare(strict_types=1);
 
@@ -1416,6 +1416,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,bbc.co.uk,Stream',
         'DOMAIN-SUFFIX,hbogoasia.tw,Stream',
         'DOMAIN-SUFFIX,linetv.tw,Stream',
+        'DOMAIN,video.friday.tw,Stream',
+        'DOMAIN,ana.video.friday.tw,Stream',
         'DOMAIN-SUFFIX,skyking.com.tw,Stream',
         'DOMAIN-SUFFIX,bahamut.com.tw,Stream',
         'DOMAIN-SUFFIX,kkbox.com.tw,Stream',
