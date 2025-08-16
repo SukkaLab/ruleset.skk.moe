@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-08-16T14:31:28.952Z
+// # Build 2025-08-16T15:53:24.775Z
 
 declare(strict_types=1);
 
@@ -1380,7 +1380,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,intl-subscription.iqiyi.com,Stream',
         'DOMAIN-SUFFIX,intl-rcd.iqiyi.com,Stream',
         'DOMAIN,cache.video.iqiyi.com,Stream',
-        'DOMAIN-SUFFIX,inter.iqiyi.com,Stream',
         'DOMAIN-SUFFIX,intl.iqiyi.com,Stream',
         'DOMAIN-SUFFIX,hbogo.com,Stream',
         'DOMAIN-SUFFIX,dnitv.com,Stream',
