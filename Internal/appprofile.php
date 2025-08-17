@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-08-17T09:04:43.744Z
+// # Build 2025-08-17T09:19:45.442Z
 
 declare(strict_types=1);
 
@@ -1266,7 +1266,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,ttvnw.net,Stream',
         'DOMAIN-SUFFIX,dca-ll-livedazn-dznlivejp.s.llnwi.net,Stream',
         'DOMAIN-SUFFIX,jtvnw.net,Stream',
-        'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,Stream',
         'DOMAIN,4gtvfreepcvod-cds.cdn.hinet.net,Stream',
         'DOMAIN,gamer2-cds.cdn.hinet.net,Stream',
         'DOMAIN,gamer-cds.cdn.hinet.net,Stream',
@@ -1374,7 +1373,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,atv-ps.amazon.com,Stream',
         'DOMAIN-SUFFIX,tidal.com,Stream',
         'DOMAIN-SUFFIX,socdm.com,Stream',
-        'DOMAIN,cdi.ofiii.com,Stream',
         'DOMAIN-SUFFIX,tv.naver.com,Stream',
         'DOMAIN-SUFFIX,kktix.com,Stream',
         'DOMAIN-SUFFIX,kkbox.com,Stream',
@@ -1430,7 +1428,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,twitch.tv,Stream',
         'DOMAIN-SUFFIX,pluto.tv,Stream',
         'DOMAIN-SUFFIX,abema.tv,Stream',
-        'DOMAIN-SUFFIX,litv.tv,Stream',
         'DOMAIN-SUFFIX,hulu.tv,Stream',
         'DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv,Stream',
         'DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv,Stream',
