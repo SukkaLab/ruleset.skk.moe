@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Sat, 23 Aug 2025 13:12:27 GMT
+! Last modified: Sat, 23 Aug 2025 13:15:13 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -16418,6 +16418,7 @@
 ||aucdn.net^
 ||us-behavior.apitd.net^
 |adx.apiok.net^
+||ping.anizm.net^
 ||database01p.anixe.net^
 ||hbbtv01p.anixe.net^
 ||amon1.net^
@@ -42434,6 +42435,7 @@
 ||track.uberlernen.com^
 ||load.sub.tyxstudios.com^
 ||tyrotation.com^
+||wf.typesquare.com^
 ||l.typesquare.com^
 ||android.txtsmarter.com^
 ||twqgohbxds.com^
@@ -53049,6 +53051,7 @@
 ||fkihr.wantable.com^
 ||cko.wamsaudi.com^
 ||wallpool.com^
+||tracking.wallapop.com^
 ||clear.wallapop.com^
 ||ad.walkgame.com^
 ||omniture-ssl.wal-mart.com^
