@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-08-25T05:18:14.256Z
+// # Build 2025-08-25T16:01:09.342Z
 
 declare(strict_types=1);
 
@@ -1675,6 +1675,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,golang.org,Global',
         'DOMAIN-SUFFIX,debian.org,Global',
         'DOMAIN-SUFFIX,change.org,Global',
+        'DOMAIN-SUFFIX,c-span.org,Global',
         'DOMAIN-SUFFIX,apibay.org,Global',
         'DOMAIN-SUFFIX,afraid.org,Global',
         'DOMAIN-SUFFIX,wiki2.org,Global',
@@ -4676,6 +4677,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,114.113.63.0/24,Domestic',
         'IP-CIDR,114.113.64.0/20,Domestic',
         'IP-CIDR,114.113.80.0/22,Domestic',
+        'IP-CIDR,114.113.84.0/24,Domestic',
         'IP-CIDR,114.113.88.0/21,Domestic',
         'IP-CIDR,114.113.96.0/19,Domestic',
         'IP-CIDR,114.113.144.0/20,Domestic',
