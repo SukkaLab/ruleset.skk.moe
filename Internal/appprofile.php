@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-08-27T17:09:08.835Z
+// # Build 2025-08-28T05:16:34.162Z
 
 declare(strict_types=1);
 
@@ -4318,7 +4318,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,103.251.207.0/24,Domestic',
         'IP-CIDR,103.251.240.0/22,Domestic',
         'IP-CIDR,103.252.36.0/24,Domestic',
-        'IP-CIDR,103.252.172.0/22,Domestic',
         'IP-CIDR,103.252.248.0/22,Domestic',
         'IP-CIDR,103.253.60.0/22,Domestic',
         'IP-CIDR,103.253.204.0/22,Domestic',
@@ -8035,6 +8034,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR6,2602:2e0:ff::/48,Domestic',
         'IP-CIDR6,2602:f7ee:ee::/48,Domestic',
         'IP-CIDR6,2602:f92a:e100::/44,Domestic',
+        'IP-CIDR6,2602:f92a:f000::/48,Domestic',
         'IP-CIDR6,2602:f93b:400::/38,Domestic',
         'IP-CIDR6,2602:f9ba:a8::/48,Domestic',
         'IP-CIDR6,2602:f9ba:10c::/48,Domestic',
@@ -8204,7 +8204,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR6,2a10:ccc0:d0c::/47,Domestic',
         'IP-CIDR6,2a10:ccc6:66c4::/48,Domestic',
         'IP-CIDR6,2a10:ccc6:66c6::/48,Domestic',
-        'IP-CIDR6,2a10:ccc6:66c9::/48,Domestic',
+        'IP-CIDR6,2a10:ccc6:66c8::/47,Domestic',
         'IP-CIDR6,2a10:ccc6:66ca::/48,Domestic',
         'IP-CIDR6,2a10:ccc6:66cc::/47,Domestic',
         'IP-CIDR6,2a12:f8c3::/36,Domestic',
@@ -8267,7 +8267,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR6,2a14:67c1:b4d0::/44,Domestic',
         'IP-CIDR6,2a14:67c1:b4e0::/43,Domestic',
         'IP-CIDR6,2a14:67c1:b500::/48,Domestic',
-        'IP-CIDR6,2a14:67c1:b549::/48,Domestic',
         'IP-CIDR6,2a14:67c1:b561::/48,Domestic',
         'IP-CIDR6,2a14:67c1:b563::/48,Domestic',
         'IP-CIDR6,2a14:67c1:b566::/48,Domestic',
@@ -8287,14 +8286,21 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR6,2a14:7580:fe00::/40,Domestic',
         'IP-CIDR6,2a14:7580:fff4::/48,Domestic',
         'IP-CIDR6,2a14:7580:fff7::/48,Domestic',
+        'IP-CIDR6,2a14:7581:b10::/48,Domestic',
+        'IP-CIDR6,2a14:7581:b12::/48,Domestic',
+        'IP-CIDR6,2a14:7581:b15::/48,Domestic',
         'IP-CIDR6,2a14:7581:b20::/46,Domestic',
+        'IP-CIDR6,2a14:7581:b32::/47,Domestic',
         'IP-CIDR6,2a14:7581:b44::/48,Domestic',
         'IP-CIDR6,2a14:7581:b46::/47,Domestic',
         'IP-CIDR6,2a14:7581:b48::/48,Domestic',
         'IP-CIDR6,2a14:7581:b4a::/48,Domestic',
         'IP-CIDR6,2a14:7581:b60::/48,Domestic',
         'IP-CIDR6,2a14:7581:b62::/47,Domestic',
-        'IP-CIDR6,2a14:7581:b82::/48,Domestic',
+        'IP-CIDR6,2a14:7581:b64::/46,Domestic',
+        'IP-CIDR6,2a14:7581:b6c::/47,Domestic',
+        'IP-CIDR6,2a14:7581:b6e::/48,Domestic',
+        'IP-CIDR6,2a14:7581:b82::/47,Domestic',
         'IP-CIDR6,2a14:7581:ba0::/48,Domestic',
         'IP-CIDR6,2a14:7581:ba2::/47,Domestic',
         'IP-CIDR6,2a14:7581:ba4::/48,Domestic',
