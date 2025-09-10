@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-09-10T05:15:24.664Z
+// # Build 2025-09-10T11:38:49.196Z
 
 declare(strict_types=1);
 
@@ -1815,6 +1815,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,github.dev,Global',
         'DOMAIN-SUFFIX,web.dev,Global',
         'DOMAIN-SUFFIX,fly.dev,Global',
+        'DOMAIN-SUFFIX,aws.dev,Global',
         'DOMAIN-SUFFIX,tg.dev,Global',
         'DOMAIN-SUFFIX,go.dev,Global',
         'DOMAIN-SUFFIX,returnyoutubedislikeapi.com,Global',
@@ -5854,8 +5855,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,183.192.0.0/10,Domestic',
         'IP-CIDR,188.131.128.0/17,Domestic',
         'IP-CIDR,192.55.46.0/24,Domestic',
-        'IP-CIDR,192.55.68.0/22,Domestic',
-        'IP-CIDR,192.102.204.0/22,Domestic',
         'IP-CIDR,192.140.160.0/19,Domestic',
         'IP-CIDR,192.140.208.0/21,Domestic',
         'IP-CIDR,192.144.128.0/17,Domestic',
@@ -5864,7 +5863,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,193.112.0.0/16,Domestic',
         'IP-CIDR,194.138.202.0/23,Domestic',
         'IP-CIDR,194.138.245.0/24,Domestic',
-        'IP-CIDR,198.175.100.0/22,Domestic',
         'IP-CIDR,198.208.17.0/24,Domestic',
         'IP-CIDR,198.208.19.0/24,Domestic',
         'IP-CIDR,198.208.30.0/24,Domestic',
