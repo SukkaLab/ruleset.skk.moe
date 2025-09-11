@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-09-11T14:25:48.969Z
-# Size: 3875
+# Last Updated: 2025-09-11T15:12:00.501Z
+# Size: 3879
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1023,6 +1023,7 @@ cdn.prowritingaid.com
 +.cdn.printfriendly.com
 +.pressidiumcdn.com
 media.pointandplace.com
+www.paypalobjects.com
 +.oreillystatic.com
 +.notion-static.com
 +.agechecker.northern-apps.com
@@ -1086,6 +1087,9 @@ assets.xboxservices.com
 typescript.visualstudio.com
 sts.online.visualstudio.com
 +.tunnels.api.visualstudio.com
+static-assets-prod.unrealengine.com
+components.unrealengine.com
+cms-assets.unrealengine.com
 cdn3.unrealengine.com
 cdn2.unrealengine.com
 cdn1.unrealengine.com
