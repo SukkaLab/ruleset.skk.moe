@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-09-12T05:15:06.482Z
+// # Build 2025-09-12T09:57:01.592Z
 
 declare(strict_types=1);
 
@@ -1418,6 +1418,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,skyking.com.tw,Stream',
         'DOMAIN-SUFFIX,bahamut.com.tw,Stream',
         'DOMAIN-SUFFIX,kkbox.com.tw,Stream',
+        'DOMAIN-SUFFIX,api.gamer.com.tw,Stream',
         'DOMAIN-SUFFIX,ani.gamer.com.tw,Stream',
         'DOMAIN-SUFFIX,kktv.com.tw,Stream',
         'DOMAIN-SUFFIX,primevideo.tv,Stream',
