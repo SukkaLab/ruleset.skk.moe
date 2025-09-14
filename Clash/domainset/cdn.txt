@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-09-14T16:00:06.731Z
-# Size: 3895
+# Last Updated: 2025-09-14T18:18:19.458Z
+# Size: 3897
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1950,6 +1950,7 @@ cdn4.sysgears.com
 cdn3.sysgears.com
 cdn2.sysgears.com
 cdn1.sysgears.com
+cdn.syftdata.com
 +.sway-cdn.com
 frontend-assets.supabase.com
 cdn.substack.com
@@ -1979,6 +1980,7 @@ app.roboflow.com
 api.roboflow.com
 staticsource1.redotpay.com
 redircdn.com
+cacerts.rapidssl.com
 +.radix-ui.com
 quriobot.com
 +.quip-cdn.com
