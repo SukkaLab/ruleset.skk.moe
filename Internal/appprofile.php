@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-09-18T05:15:18.516Z
+// # Build 2025-09-18T08:10:30.978Z
 
 declare(strict_types=1);
 
@@ -1815,6 +1815,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,workers.dev,Global',
         'DOMAIN-SUFFIX,sentry.dev,Global',
         'DOMAIN-SUFFIX,github.dev,Global',
+        'DOMAIN-SUFFIX,zenn.dev,Global',
         'DOMAIN-SUFFIX,web.dev,Global',
         'DOMAIN-SUFFIX,fly.dev,Global',
         'DOMAIN-SUFFIX,aws.dev,Global',
