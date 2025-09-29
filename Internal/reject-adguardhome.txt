@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Mon, 29 Sep 2025 07:22:35 GMT
+! Last modified: Mon, 29 Sep 2025 07:39:49 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -25955,6 +25955,7 @@
 ||cm-sg.americanexpress.com^
 ||cm-jp.americanexpress.com^
 ||cm-in.americanexpress.com^
+||omns.americanexpress.com^
 ||images.sbs.americanexpress.com^
 ||omn.americanexpress.com^
 ||gct.americanexpress.com^
@@ -59126,6 +59127,7 @@
 ||saa.mysmile.wellfit.com^
 ||analytics.weldeye.com^
 ||logtake.weidian.com^
+||mbox.wegmans.com^
 ||data.msg.wegmans.com^
 ||wfmlp.eml.wegmans.com^
 ||data.eml.wegmans.com^
@@ -63368,6 +63370,7 @@
 ||explore-dev.agilent.com^
 ||explore-ft.agilent.com^
 ||metrics.agilent.com^
+||explore.agilent.com^
 ||load.stag.agilcon.com^
 ||load.gtm.agi-top.com^
 ||afminer.com^
@@ -71844,6 +71847,7 @@
 ||analytics.ubs.com^
 ||tt.ubs.com^
 ||metrics.ubi.com^
+||data.ubi.com^
 ||clk.ubi.com^
 ||ads.tvb.com^
 ||statistics.tuv.com^
