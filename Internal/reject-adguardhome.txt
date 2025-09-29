@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Mon, 29 Sep 2025 17:16:22 GMT
+! Last modified: Mon, 29 Sep 2025 18:18:58 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -10954,6 +10954,7 @@
 ||vufaurgoojoats.net^
 ||voykjmggmpinak.net^
 ||kinnvg.vintage-motors.net^
+||vaiptoostageru.net^
 ||usingageghoaft.net^
 ||capig.usa-insulation.net^
 ||uivcigdsbjakxv.net^
@@ -15486,6 +15487,7 @@
 ||site-analytics.iop.ohio.gov^
 ||analytics.dx.ohio.gov^
 ||learn.aqmd.gov^
+||analytics.usa.gov^
 ||smon.loc.gov^
 ||gsasolutionssecure.gsa.gov^
 ||smon.crs.gov^
@@ -16065,7 +16067,6 @@
 ||stats.r18.dev^
 ||chickadee.och.dev^
 ||kmd.dev^
-|vocadb-analytics.fly.dev^
 ||krill.far.dev^
 ||p.ejs.dev^
 ||log.shortbread.aws.dev^
@@ -23485,6 +23486,7 @@
 ||pr.yokohama-chokin.com^
 ||ympdqivbciqnniw.com^
 ||pelu.yiguspeluqueria.com^
+||yenntsokvugsceo.com^
 ||meta-events.yellowstonepark.com^
 ||xvjkgdognivuwry.com^
 ||images.e.xtelligentmedia.com^
@@ -43687,7 +43689,7 @@
 ||kpnbj.lensdirect.com^
 ||qfxwqa.lens-smile.com^
 ||a8.lens-ocean.com^
-|adapi.lenovogame.com^
+||lenovogame.com^
 ||attribution.lendopolis.com^
 ||ressources.lemoniteur.com^
 ||leirerspfz.com^
@@ -60079,7 +60081,6 @@
 ||collector.kstptv5.com^
 |dw-collect.ksosoft.com^
 |adx-static.ksosoft.com^
-|ad-stat.ksosoft.com^
 |config-p2p-other.vcloud.ks-live.com^
 |slb-p2p.vcloud.ks-live.com^
 ||kryptex.com^
@@ -66250,7 +66251,6 @@
 ||070880.com^
 ||gg.0598yu.com^
 ||pic.0597kk.com^
-|mopnativeadv.037201.com^
 ||oscnjc.035000.com^
 ||o.027eat.com^
 ||001www.com^
@@ -85154,8 +85154,8 @@
 ||mtp.spaces.im^
 ||fullnode.bp.lambda.im^
 ||juejin.im^
-|adx.yixin.im^
-|ad.yixin.im^
+||adx.yixin.im^
+||ad.yixin.im^
 ||i.shelf.im^
 ||direct-events-collector.spot.im^
 ||events-collector.spot.im^
