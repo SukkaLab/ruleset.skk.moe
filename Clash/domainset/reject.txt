@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-10-03T17:08:48.275Z
-# Size: 103646
+# Last Updated: 2025-10-03T17:31:38.039Z
+# Size: 103650
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -24706,6 +24706,7 @@ display.360totalsecurity.com
 +.cm-sg.americanexpress.com
 +.cm-jp.americanexpress.com
 +.cm-in.americanexpress.com
++.omns.americanexpress.com
 +.images.sbs.americanexpress.com
 +.omn.americanexpress.com
 +.gct.americanexpress.com
@@ -56140,6 +56141,7 @@ cache.datamart.windows.com
 +.saa.mysmile.wellfit.com
 +.analytics.weldeye.com
 +.logtake.weidian.com
++.mbox.wegmans.com
 +.data.msg.wegmans.com
 +.wfmlp.eml.wegmans.com
 +.data.eml.wegmans.com
@@ -60135,6 +60137,7 @@ hydra.alibaba.com
 +.explore-dev.agilent.com
 +.explore-ft.agilent.com
 +.metrics.agilent.com
++.explore.agilent.com
 +.load.stag.agilcon.com
 +.load.gtm.agi-top.com
 +.tsser.afvclub.com
@@ -68322,6 +68325,7 @@ ad2.yam.com
 +.analytics.ubs.com
 +.tt.ubs.com
 +.metrics.ubi.com
++.data.ubi.com
 +.clk.ubi.com
 +.ads.tvb.com
 +.statistics.tuv.com
