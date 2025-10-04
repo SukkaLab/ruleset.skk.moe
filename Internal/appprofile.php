@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-10-04T17:08:57.909Z
+// # Build 2025-10-04T18:06:59.671Z
 
 declare(strict_types=1);
 
@@ -332,6 +332,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,miguvideo.com,Domestic',
         'DOMAIN-SUFFIX,migucloud.com,Domestic',
         'DOMAIN-SUFFIX,download.visualstudio.microsoft.com,Domestic',
+        'DOMAIN-SUFFIX,storeedge.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,officecdn.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,developer.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,download.microsoft.com,Domestic',
