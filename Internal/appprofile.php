@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-10-15T09:49:47.423Z
+// # Build 2025-10-15T17:10:03.326Z
 
 declare(strict_types=1);
 
@@ -4265,7 +4265,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,103.227.80.0/22,Domestic',
         'IP-CIDR,103.227.120.0/22,Domestic',
         'IP-CIDR,103.227.136.0/22,Domestic',
-        'IP-CIDR,103.227.228.0/22,Domestic',
         'IP-CIDR,103.228.12.0/22,Domestic',
         'IP-CIDR,103.228.136.0/22,Domestic',
         'IP-CIDR,103.228.160.0/22,Domestic',
@@ -6228,7 +6227,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,203.110.208.0/20,Domestic',
         'IP-CIDR,203.110.232.0/23,Domestic',
         'IP-CIDR,203.114.244.0/22,Domestic',
-        'IP-CIDR,203.118.248.0/22,Domestic',
         'IP-CIDR,203.119.25.0/24,Domestic',
         'IP-CIDR,203.119.28.0/23,Domestic',
         'IP-CIDR,203.119.30.0/24,Domestic',
