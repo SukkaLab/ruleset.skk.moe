@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-10-17T05:16:05.165Z
+// # Build 2025-10-17T13:08:08.000Z
 
 declare(strict_types=1);
 
@@ -1140,7 +1140,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,6.cn,Domestic',
         'DOMAIN-SUFFIX,3.cn,Domestic',
         'DOMAIN-SUFFIX,chaoxing.cc,Domestic',
-        'DOMAIN-WILDCARD,*.qhimgs,Domestic',
+        'DOMAIN-WILDCARD,*.qhimgs?.com,Domestic',
         'DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,Microsoft & Apple',
         'DOMAIN-SUFFIX,apple.news,Microsoft & Apple',
         'DOMAIN-SUFFIX,trafficmanager.net,Microsoft & Apple',
@@ -5011,6 +5011,8 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,118.145.0.0/19,Domestic',
         'IP-CIDR,118.145.32.0/20,Domestic',
         'IP-CIDR,118.145.64.0/19,Domestic',
+        'IP-CIDR,118.145.96.0/20,Domestic',
+        'IP-CIDR,118.145.112.0/21,Domestic',
         'IP-CIDR,118.145.128.0/19,Domestic',
         'IP-CIDR,118.145.160.0/21,Domestic',
         'IP-CIDR,118.145.176.0/20,Domestic',
@@ -5747,6 +5749,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,163.204.0.0/16,Domestic',
         'IP-CIDR,163.228.0.0/16,Domestic',
         'IP-CIDR,163.244.246.0/24,Domestic',
+        'IP-CIDR,165.99.4.0/24,Domestic',
         'IP-CIDR,165.101.70.0/24,Domestic',
         'IP-CIDR,166.111.0.0/16,Domestic',
         'IP-CIDR,167.139.0.0/16,Domestic',
