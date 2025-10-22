@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-10-21T17:10:21.172Z
+// # Build 2025-10-22T05:16:48.416Z
 
 declare(strict_types=1);
 
@@ -4277,6 +4277,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,103.227.80.0/22,Domestic',
         'IP-CIDR,103.227.120.0/22,Domestic',
         'IP-CIDR,103.227.136.0/22,Domestic',
+        'IP-CIDR,103.227.228.0/22,Domestic',
         'IP-CIDR,103.228.12.0/22,Domestic',
         'IP-CIDR,103.228.136.0/22,Domestic',
         'IP-CIDR,103.228.160.0/22,Domestic',
@@ -6488,7 +6489,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,211.144.16.0/24,Domestic',
         'IP-CIDR,211.144.18.0/23,Domestic',
         'IP-CIDR,211.144.20.0/24,Domestic',
-        'IP-CIDR,211.144.22.0/24,Domestic',
         'IP-CIDR,211.144.24.0/24,Domestic',
         'IP-CIDR,211.144.27.0/24,Domestic',
         'IP-CIDR,211.144.28.0/23,Domestic',
@@ -7312,6 +7312,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR6,2406:840:e260::/48,Domestic',
         'IP-CIDR6,2406:840:e2cf::/48,Domestic',
         'IP-CIDR6,2406:840:e600::/45,Domestic',
+        'IP-CIDR6,2406:840:e60d::/48,Domestic',
         'IP-CIDR6,2406:840:e620::/47,Domestic',
         'IP-CIDR6,2406:840:e666::/47,Domestic',
         'IP-CIDR6,2406:840:e770::/48,Domestic',
@@ -8078,6 +8079,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR6,240e::/20,Domestic',
         'IP-CIDR6,2602:2e0:ff::/48,Domestic',
         'IP-CIDR6,2602:f7ee:ee::/48,Domestic',
+        'IP-CIDR6,2602:f92a:a473::/48,Domestic',
         'IP-CIDR6,2602:f92a:a478::/48,Domestic',
         'IP-CIDR6,2602:f92a:dead::/48,Domestic',
         'IP-CIDR6,2602:f92a:e100::/44,Domestic',
@@ -8312,7 +8314,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR6,2a14:67c1:b4a2::/48,Domestic',
         'IP-CIDR6,2a14:67c1:b4a8::/48,Domestic',
         'IP-CIDR6,2a14:67c1:b4c0::/45,Domestic',
-        'IP-CIDR6,2a14:67c1:b4d0::/44,Domestic',
         'IP-CIDR6,2a14:67c1:b4e0::/43,Domestic',
         'IP-CIDR6,2a14:67c1:b500::/47,Domestic',
         'IP-CIDR6,2a14:67c1:b549::/48,Domestic',
