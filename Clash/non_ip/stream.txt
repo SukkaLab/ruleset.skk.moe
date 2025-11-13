@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Stream Services: All
-# Last Updated: 2025-11-04T15:07:42.888Z
-# Size: 281
+# Last Updated: 2025-11-13T20:15:36.071Z
+# Size: 286
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -59,6 +59,7 @@
 # - TikTok
 # - TVB Anywhere
 # - Twitch
+# - Tubi TV
 # - ViuTV
 # - Vudu
 # - WeTV
@@ -210,6 +211,8 @@ DOMAIN,prod-api.crackle.com
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,amebame.com
 DOMAIN-SUFFIX,uplynk.com
+DOMAIN,tubitv.com
+DOMAIN,www.tubitv.com
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,ocnttv.com
 DOMAIN-SUFFIX,muscdn.com
@@ -282,6 +285,8 @@ DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,pluto.tv
 DOMAIN-SUFFIX,abema.tv
+DOMAIN,tubi.tv
+DOMAIN,www.tubi.tv
 DOMAIN-SUFFIX,hulu.tv
 DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
@@ -305,6 +310,7 @@ DOMAIN-SUFFIX,location-plus.nhk.jp
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,abema.io
+DOMAIN-SUFFIX,production-public.tubi.io
 DOMAIN-SUFFIX,kfs.io
 DOMAIN-SUFFIX,discoveryplus.in
 DOMAIN-SUFFIX,hbogoasia.id

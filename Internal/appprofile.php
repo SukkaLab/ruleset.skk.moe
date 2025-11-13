@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-11-13T17:11:49.483Z
+// # Build 2025-11-13T20:15:40.170Z
 
 declare(strict_types=1);
 
@@ -1395,6 +1395,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,bamgrid.com,Stream',
         'DOMAIN-SUFFIX,amebame.com,Stream',
         'DOMAIN-SUFFIX,uplynk.com,Stream',
+        'DOMAIN,tubitv.com,Stream',
+        'DOMAIN,www.tubitv.com,Stream',
         'DOMAIN-SUFFIX,tiktok.com,Stream',
         'DOMAIN-SUFFIX,ocnttv.com,Stream',
         'DOMAIN-SUFFIX,muscdn.com,Stream',
@@ -1467,6 +1469,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,twitch.tv,Stream',
         'DOMAIN-SUFFIX,pluto.tv,Stream',
         'DOMAIN-SUFFIX,abema.tv,Stream',
+        'DOMAIN,tubi.tv,Stream',
+        'DOMAIN,www.tubi.tv,Stream',
         'DOMAIN-SUFFIX,hulu.tv,Stream',
         'DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv,Stream',
         'DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv,Stream',
@@ -1490,6 +1494,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,dmm.co.jp,Stream',
         'DOMAIN-SUFFIX,hayabusa.io,Stream',
         'DOMAIN-SUFFIX,abema.io,Stream',
+        'DOMAIN-SUFFIX,production-public.tubi.io,Stream',
         'DOMAIN-SUFFIX,kfs.io,Stream',
         'DOMAIN-SUFFIX,discoveryplus.in,Stream',
         'DOMAIN-SUFFIX,hbogoasia.id,Stream',
@@ -5563,7 +5568,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,124.240.0.0/17,Domestic',
         'IP-CIDR,124.240.128.0/18,Domestic',
         'IP-CIDR,124.243.192.0/18,Domestic',
-        'IP-CIDR,124.248.0.0/22,Domestic',
         'IP-CIDR,124.248.64.0/18,Domestic',
         'IP-CIDR,124.250.0.0/15,Domestic',
         'IP-CIDR,124.254.0.0/18,Domestic',
