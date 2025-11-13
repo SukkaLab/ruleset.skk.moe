@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-11-13T20:15:40.170Z
+// # Build 2025-11-13T20:33:03.048Z
 
 declare(strict_types=1);
 
@@ -1366,6 +1366,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,showtime.com,Stream',
         'DOMAIN,bbc.mp-pxcdn.com,Stream',
         'DOMAIN-SUFFIX,himalaya.com,Stream',
+        'DOMAIN,athome.fandango.com,Stream',
         'DOMAIN,hbounify-prod.evergent.com,Stream',
         'DOMAIN-SUFFIX,discomax.com,Stream',
         'DOMAIN-SUFFIX,dazn-api.com,Stream',
@@ -1429,7 +1430,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN,hls-amt.itunes.apple.com,Stream',
         'DOMAIN,hls.itunes.apple.com,Stream',
         'DOMAIN,linear.tv.apple.com,Stream',
-        'DOMAIN-SUFFIX,vudu.com,Stream',
+        'DOMAIN,vudu.com,Stream',
         'DOMAIN-SUFFIX,nowe.com,Stream',
         'DOMAIN-SUFFIX,joox.com,Stream',
         'DOMAIN-SUFFIX,hulu.com,Stream',
