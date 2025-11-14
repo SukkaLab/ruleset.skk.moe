@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-11-14T17:10:26.930Z
+// # Build 2025-11-14T20:11:09.391Z
 
 declare(strict_types=1);
 
@@ -1770,6 +1770,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,tokyomotion.net,Global',
         'DOMAIN-SUFFIX,sourceforge.net,Global',
         'DOMAIN-SUFFIX,myanimelist.net,Global',
+        'DOMAIN-SUFFIX,hentaiporns.net,Global',
         'DOMAIN-SUFFIX,freemacsoft.net,Global',
         'DOMAIN-SUFFIX,edgecastcdn.net,Global',
         'DOMAIN-SUFFIX,trustpilot.net,Global',
@@ -2017,6 +2018,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,pixeldrain.com,Global',
         'DOMAIN-SUFFIX,obsproject.com,Global',
         'DOMAIN-SUFFIX,nbcnewyork.com,Global',
+        'DOMAIN-SUFFIX,myfutanari.com,Global',
         'DOMAIN-SUFFIX,myfreecams.com,Global',
         'DOMAIN-SUFFIX,motherless.com,Global',
         'DOMAIN-SUFFIX,metacritic.com,Global',
@@ -2050,6 +2052,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,androidify.com,Global',
         'DOMAIN-SUFFIX,adguardcdn.com,Global',
         'DOMAIN-SUFFIX,accountkit.com,Global',
+        'DOMAIN-SUFFIX,3dporndude.com,Global',
         'DOMAIN-SUFFIX,xdaforums.com,Global',
         'DOMAIN-SUFFIX,wordpress.com,Global',
         'DOMAIN-SUFFIX,wireguard.com,Global',
