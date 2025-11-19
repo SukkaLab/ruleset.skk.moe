@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-11-18T11:13:50.446Z
-# Size: 4057
+# Last Updated: 2025-11-19T01:41:19.954Z
+# Size: 4061
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -858,6 +858,7 @@ cdn.builderprofile.aws.dev
 +.marketing.aws.dev
 cdn.us-east-1.prod.moon.dubai.aws.dev
 +.ipfs.1-2.dev
+cdn.decrypt.day
 runkit-packages-static-executables.com
 +.w-credentialless-staticblitz.com
 cdn-a.sonyentertainmentnetwork.com
@@ -3061,6 +3062,7 @@ assets.humix.com
 +.gszyi.com
 +.gsuus.com
 static.gopro.com
+i.git99.com
 media4.giphy.com
 media3.giphy.com
 media2.giphy.com
@@ -3874,6 +3876,8 @@ static.ffx.io
 eep.io
 registry.api.cnn.io
 cdn.db.io
+sr-cdn-1.shiprocket.in
+sellon.shiprocket.in
 static.snaptube.in
 +.cdn.imgeng.in
 object.innei.in
