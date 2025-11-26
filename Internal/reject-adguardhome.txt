@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Wed, 26 Nov 2025 05:16:15 GMT
+! Last modified: Wed, 26 Nov 2025 05:17:26 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -43838,6 +43838,7 @@
 ||instaflrt.com^
 ||link.instaeats.com^
 ||sstats.instacorp.com^
+||mgs.instacart.com^
 ||vacationbetter.inspirato.com^
 ||track.inspirage.com^
 ||workforce-optimization.insperity.com^
@@ -58683,6 +58684,7 @@
 |uuidapi.yunos.com^
 ||1.yuexw.com^
 ||daima.ysdui.com^
+||c.ypcdn.com^
 ||yovcb.com^
 ||pcapp-data-collect.youku.com^
 ||adx-open-service.youku.com^
