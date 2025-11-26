@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-11-26T03:26:25.556Z
-# Size: 4095
+# Last Updated: 2025-11-26T05:16:08.970Z
+# Size: 4102
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1989,6 +1989,9 @@ i.1password.com
 c.1password.com
 ws-assets.zoominfo.com
 +.zdassets.com
+image.yymanhua.com
+cover.yymanhua.com
+css.yymanhua.com
 static.xxxshake.com
 i.xxxshake.com
 +.xnxx-cdn.com
@@ -2608,6 +2611,10 @@ cdn.devdojo.com
 import-cdn.default.com
 cdn.datdota.com
 proxy.csidetm.com
+static.comicbz.com
+image.comicbz.com
+cover.comicbz.com
+css.comicbz.com
 player-frontend.cnevids.com
 player.cnevids.com
 +.cmail20.com

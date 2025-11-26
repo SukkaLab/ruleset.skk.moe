@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-11-26T03:26:28.064Z
+// # Build 2025-11-26T05:16:10.216Z
 
 declare(strict_types=1);
 
@@ -865,6 +865,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,pba0.apple.com,Domestic',
         'DOMAIN-SUFFIX,ocsp.apple.com,Domestic',
         'DOMAIN-SUFFIX,mesu.apple.com,Domestic',
+        'DOMAIN,appleintelligencefeedback.care.apple.com,Domestic',
         'DOMAIN-SUFFIX,apps.apple.com,Domestic',
         'DOMAIN-SUFFIX,www.apple.com,Domestic',
         'DOMAIN-SUFFIX,init.ess.apple.com,Domestic',
