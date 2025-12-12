@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist for Myself (Sukka)
-! Last modified: Mon, 23 Jun 2025 14:11:20 GMT
+! Last modified: Fri, 12 Dec 2025 16:53:55 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -8,6 +8,9 @@
 ||0.0.198.in-addr.arpa^
 ||mtvod.meituan.net^
 |daisydiskapp.com^
+|locationhistoryplacedetails-pa.googleapis.com^
+|locationhistoryaggregates-pa.googleapis.com^
+|locationhistory-pa.googleapis.com^
 |userlocation.googleapis.com^
 ||genuine.autodesk.com^
 ||mibi.xiaomi.com^
