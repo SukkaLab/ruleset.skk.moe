@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Local DNS Mapping for Mihomo NameServer Policy (BYTEDANCE)
-# Last Updated: 2025-10-18T20:03:02.404Z
-# Size: 66
+# Last Updated: 2025-12-14T08:08:16.559Z
+# Size: 69
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -12,6 +12,7 @@
 #########################################
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN-SUFFIX,feishu.net
+DOMAIN-SUFFIX,bdurl.net
 DOMAIN-SUFFIX,toutiaostatic.com
 DOMAIN-SUFFIX,huoshanstatic.com
 DOMAIN-SUFFIX,byteeffecttos.com
@@ -54,7 +55,9 @@ DOMAIN-SUFFIX,feiliao.com
 DOMAIN-SUFFIX,dcarvod.com
 DOMAIN-SUFFIX,dcarimg.com
 DOMAIN-SUFFIX,dcarapi.com
+DOMAIN-SUFFIX,bytetos.com
 DOMAIN-SUFFIX,bytetcc.com
+DOMAIN-SUFFIX,bytescm.com
 DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,wukong.com
 DOMAIN-SUFFIX,volces.com
