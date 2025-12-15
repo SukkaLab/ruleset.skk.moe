@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-12-13T20:11:02.527Z
-# Size: 4133
+# Last Updated: 2025-12-15T02:21:27.393Z
+# Size: 4135
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1768,6 +1768,7 @@ ui.trailhead.com
 hawk.tomsguide.com
 +.tokyvideo.com
 +.tnastatic.com
++.tinifycdn.com
 +.tiktokcdn.com
 thumbsnap.com
 +.thisiscdn.com
@@ -1934,6 +1935,7 @@ cdn1.epicgames.com
 talon-website-prod.ecosec.on.epicgames.com
 epic-social-social-modules-prod.ol.epicgames.com
 +.ensighten.com
+assets.endorsely.com
 +.embedgram.com
 +.design-system.economist.com
 marber-cdn.economist.com
