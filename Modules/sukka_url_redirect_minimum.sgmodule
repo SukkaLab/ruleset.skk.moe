@@ -1,10 +1,11 @@
 #!name=[Sukka] URL Redirect (Minimum)
-#!desc=Last Updated: 2025-12-20T14:38:50.486Z Size: 60
+#!desc=Last Updated: 2025-12-20T15:32:57.073Z Size: 16
 # This module only contains rules that doesn't work with/hasn't migrated to uBlock Origin's "uritransform" filter syntax
 # uBO/AdGuard filter can be found at https://ruleset.skk.moe/Internal/sukka_ubo_url_redirect_filters.txt
+# This reduces mitm-hostnames and improves performance, with the tradeoff of uBO/AdGuard filter only cover mostly in browser.
 
 [MITM]
-hostname = %APPEND% raw.gitmirror.com, gist.gitmirror.com, raw.githubusercontents.com, gist.githubusercontents.com, cdn.gitmirror.com, raw.fastgit.org, raw.kgithub.com, raw.kkgithub.com, cdn.bootcss.com, cdn.bootcdn.net, cdn.staticfile.net, cdn.staticfile.org, google.cn, www.google.cn, g.cn, ditu.google.cn, maps.google.cn, www.g.cn, acg.tv, acg.tv, minecraft.fandom.com, minecraft.fandom.com, missav.com, thisav.com, ign.xn--fiqs8s, abbyychina.com, bartender.cc, betterzip.net, beyondcompare.cc, bingdianhuanyuan.cn, chemdraw.com.cn, codesoftchina.com, coreldrawchina.com, crossoverchina.com, easyrecoverychina.com, ediuschina.com, flstudiochina.com, formysql.com, guitarpro.cc, huishenghuiying.com.cn, iconworkshop.cn, imindmap.cc, jihehuaban.com.cn, keyshot.cc, mathtype.cn, mindmanager.cc, mindmapper.cc, mycleanmymac.com, nicelabel.cc, ntfsformac.cc, ntfsformac.cn, overturechina.com, passwordrecovery.cn, pdfexpert.cc, ultraiso.net, vegaschina.cn, xmindchina.net, xshellcn.com, yuanchengxiezuo.com, zbrushcn.com
+hostname = %APPEND% raw.gitmirror.com, gist.gitmirror.com, raw.githubusercontents.com, gist.githubusercontents.com, cdn.gitmirror.com, raw.fastgit.org, raw.kgithub.com, raw.kkgithub.com, google.cn, www.google.cn, g.cn, ditu.google.cn, maps.google.cn, www.g.cn, acg.tv, acg.tv
 
 [URL Rewrite]
 ^https?://raw\.gitmirror\.com/(.*) https://raw.githubusercontent.com/$1 header
@@ -15,46 +16,6 @@ hostname = %APPEND% raw.gitmirror.com, gist.gitmirror.com, raw.githubusercontent
 ^https?://raw\.fastgit\.org/(.*) https://raw.githubusercontent.com/$1 header
 ^https?://raw\.kgithub\.com/(.*) https://raw.githubusercontent.com/$1 header
 ^https?://raw\.kkgithub\.com/(.*) https://raw.githubusercontent.com/$1 header
-^https?://cdn\.bootcss\.com/(.*) https://cdnjs.cloudflare.com/ajax/libs/$1 header
-^https?://cdn\.bootcdn\.net/(.*) https://cdnjs.cloudflare.com/ajax/libs/$1 header
-^https?://cdn\.staticfile\.net/(.*) https://cdnjs.cloudflare.com/ajax/libs/$1 header
-^https?://cdn\.staticfile\.org/(.*) https://cdnjs.cloudflare.com/ajax/libs/$1 header
-^https?://(www.)?ign.xn--fiqs8s https://cn.ign.com/ccpref/us 307
-^https?://(www.)?abbyychina.com https://www.abbyy.cn 307
-^https?://(www.)?bartender.cc https://www.seagullscientific.com 307
-^https?://(www.)?betterzip.net https://macitbetter.com 307
-^https?://(www.)?beyondcompare.cc https://www.scootersoftware.com 307
-^https?://(www.)?bingdianhuanyuan.cn https://www.faronics.com 307
-^https?://(www.)?chemdraw.com.cn https://revvitysignals.com/products/research/chemdraw 307
-^https?://(www.)?codesoftchina.com https://www.teklynx.com 307
-^https?://(www.)?coreldrawchina.com https://www.coreldraw.com 307
-^https?://(www.)?crossoverchina.com https://www.codeweavers.com 307
-^https?://(www.)?easyrecoverychina.com https://www.ontrack.com 307
-^https?://(www.)?ediuschina.com https://www.grassvalley.com 307
-^https?://(www.)?flstudiochina.com https://www.image-line.com/fl-studio 307
-^https?://(www.)?formysql.com https://www.navicat.com.cn 307
-^https?://(www.)?guitarpro.cc https://www.guitar-pro.com 307
-^https?://(www.)?huishenghuiying.com.cn https://www.corel.com 307
-^https?://(www.)?iconworkshop.cn https://www.axialis.com/iconworkshop 307
-^https?://(www.)?imindmap.cc https://imindmap.com/zh-cn 307
-^https?://(www.)?jihehuaban.com.cn https://sketch.io 307
-^https?://(www.)?keyshot.cc https://www.keyshot.com 307
-^https?://(www.)?mathtype.cn https://www.wiris.com/en/mathtype 307
-^https?://(www.)?mindmanager.cc https://www.mindjet.com 307
-^https?://(www.)?mindmapper.cc https://mindmapper.com 307
-^https?://(www.)?mycleanmymac.com https://macpaw.com/cleanmymac 307
-^https?://(www.)?nicelabel.cc https://www.nicelabel.com 307
-^https?://(www.)?ntfsformac.cc https://www.tuxera.com/products/tuxera-ntfs-for-mac-cn 307
-^https?://(www.)?ntfsformac.cn https://www.paragon-software.com/ufsdhome/zh/ntfs-mac 307
-^https?://(www.)?overturechina.com https://sonicscores.com/overture 307
-^https?://(www.)?passwordrecovery.cn https://cn.elcomsoft.com/aopr.html 307
-^https?://(www.)?pdfexpert.cc https://pdfexpert.com/zh 307
-^https?://(www.)?ultraiso.net https://cn.ezbsystems.com/ultraiso 307
-^https?://(www.)?vegaschina.cn https://www.vegas.com 307
-^https?://(www.)?xmindchina.net https://www.xmind.cn 307
-^https?://(www.)?xshellcn.com https://www.netsarang.com/products/xsh_overview.html 307
-^https?://(www.)?yuanchengxiezuo.com https://www.teamviewer.com/zhcn 307
-^https?://(www.)?zbrushcn.com https://www.maxon.net/en/zbrush 307
 ^https?://google\.cn/(.*) https://google.com/$1 307
 ^https?://www\.google\.cn/(.*) https://www.google.com/$1 307
 ^https?://g\.cn/(.*) https://google.com/$1 307
@@ -63,7 +24,3 @@ hostname = %APPEND% raw.gitmirror.com, gist.gitmirror.com, raw.githubusercontent
 ^https?://www\.g\.cn/(.*) https://www.google.com/$1 307
 ^https?://acg\.tv/sm(.*) https://www.nicovideo.jp/watch/sm$1 307
 ^https?://acg\.tv/(.*) https://b23.tv/$1 307
-^https?://minecraft\.fandom\.com/wiki/(.*) https://minecraft.wiki/w/$1 307
-^https?://minecraft\.fandom\.com/(.*) https://minecraft.wiki/$1 307
-^https?://missav\.com/(.*) https://missav.ai/$1 307
-^https?://thisav\.com/(.*) https://thisav.me/$1 307
