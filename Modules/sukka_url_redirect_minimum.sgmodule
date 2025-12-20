@@ -1,11 +1,11 @@
 #!name=[Sukka] URL Redirect (Minimum)
-#!desc=Last Updated: 2025-12-20T15:32:57.073Z Size: 16
+#!desc=Last Updated: 2025-12-20T15:54:24.629Z Size: 15
 # This module only contains rules that doesn't work with/hasn't migrated to uBlock Origin's "uritransform" filter syntax
 # uBO/AdGuard filter can be found at https://ruleset.skk.moe/Internal/sukka_ubo_url_redirect_filters.txt
 # This reduces mitm-hostnames and improves performance, with the tradeoff of uBO/AdGuard filter only cover mostly in browser.
 
 [MITM]
-hostname = %APPEND% raw.gitmirror.com, gist.gitmirror.com, raw.githubusercontents.com, gist.githubusercontents.com, cdn.gitmirror.com, raw.fastgit.org, raw.kgithub.com, raw.kkgithub.com, google.cn, www.google.cn, g.cn, ditu.google.cn, maps.google.cn, www.g.cn, acg.tv, acg.tv
+hostname = %APPEND% raw.gitmirror.com, gist.gitmirror.com, raw.githubusercontents.com, gist.githubusercontents.com, cdn.gitmirror.com, raw.fastgit.org, raw.kgithub.com, raw.kkgithub.com, google.cn, www.google.cn, g.cn, ditu.google.cn, maps.google.cn, www.g.cn, acg.tv
 
 [URL Rewrite]
 ^https?://raw\.gitmirror\.com/(.*) https://raw.githubusercontent.com/$1 header
