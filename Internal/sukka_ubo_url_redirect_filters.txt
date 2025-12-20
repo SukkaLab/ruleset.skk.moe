@@ -1,0 +1,53 @@
+! Title: [sukka] Sukka URL Redirect
+! Last modified: Sat, 20 Dec 2025 14:38:50 GMT
+! Expires: 4 hours
+! Description: Redirect requests via uritransform network filter syntax.
+! License: https://ruleset.skk.moe/LICENSE
+! Homepage: https://ruleset.skk.moe
+! GitHub: https://github.com/SukkaW/Surge
+
+||cdn.v2ex.com/gravatar/$all,uritransform=/cdn\.v2ex\.com\/gravatar\//secure.gravatar.com\/avatar\//
+||cdnjs.loli.net/$all,uritransform=/cdnjs\.loli\.net\//cdnjs.cloudflare.com\//
+||fonts.loli.net/$all,uritransform=/fonts\.loli\.net\//fonts.googleapis.com\//
+||gstatic.loli.net/$all,uritransform=/gstatic\.loli\.net\//fonts.gstatic.com\//
+||themes.loli.net/$all,uritransform=/themes\.loli\.net\//themes.googleusercontent.com\//
+||ajax.loli.net/$all,uritransform=/ajax\.loli\.net\//ajax.googleapis.com\//
+||gravatar.loli.net/$all,uritransform=/gravatar\.loli\.net\//secure.gravatar.com\//
+||gapis.geekzu.org/ajax/$all,uritransform=/gapis\.geekzu\.org\/ajax\//ajax.googleapis.com\//
+||fonts.geekzu.org/$all,uritransform=/fonts\.geekzu\.org\//fonts.googleapis.com\//
+||gapis.geekzu.org/g-fonts/$all,uritransform=/gapis\.geekzu\.org\/g\x2dfonts\//fonts.gstatic.com\//
+||gapis.geekzu.org/g-themes/$all,uritransform=/gapis\.geekzu\.org\/g\x2dthemes\//themes.googleusercontent.com\//
+||sdn.geekzu.org/$all,uritransform=/sdn\.geekzu\.org\//secure.gravatar.com\//
+||seccdn.libravatar.org/gravatarproxy/$all,uritransform=/seccdn\.libravatar\.org\/gravatarproxy\//secure.gravatar.com\//
+||use.sevencdn.com/css$all,uritransform=/use\.sevencdn\.com\/css/fonts.googleapis.com\/css/
+||use.sevencdn.com/ajax/libs/$all,uritransform=/use\.sevencdn\.com\/ajax\/libs\//cdnjs.cloudflare.com\/ajax\/libs\//
+||use.sevencdn.com/gajax/$all,uritransform=/use\.sevencdn\.com\/gajax\//ajax.googleapis.com\/ajax\//
+||use.sevencdn.com/chart$all,uritransform=/use\.sevencdn\.com\/chart/chart.googleapis.com\/chart/
+||use.sevencdn.com/avatar$all,uritransform=/use\.sevencdn\.com\/avatar/secure.gravatar.com\/avatar/
+||fastly.jsdelivr.net/$all,uritransform=/fastly\.jsdelivr\.net\//cdn.jsdelivr.net\//
+||gcore.jsdelivr.net/$all,uritransform=/gcore\.jsdelivr\.net\//cdn.jsdelivr.net\//
+||testingcf.jsdelivr.net/$all,uritransform=/testingcf\.jsdelivr\.net\//cdn.jsdelivr.net\//
+||cdn.jsdmirror.com/$all,uritransform=/cdn\.jsdmirror\.com\//cdn.jsdelivr.net\//
+||cdn.jsdmirror.cn/$all,uritransform=/cdn\.jsdmirror\.cn\//cdn.jsdelivr.net\//
+||jsd.onmicrosoft.cn/$all,uritransform=/jsd\.onmicrosoft\.cn\//cdn.jsdelivr.net\//
+||npm.onmicrosoft.cn/$all,uritransform=/npm\.onmicrosoft\.cn\//cdn.jsdelivr.net\/npm\//
+||cdnjs.onmicrosoft.cn/$all,uritransform=/cdnjs\.onmicrosoft\.cn\//cdnjs.cloudflare.com\/ajax\/libs\//
+||cdn.iocdn.cc/avatar/$all,uritransform=/cdn\.iocdn\.cc\/avatar\//secure.gravatar.com\/avatar\//
+||cdn.iocdn.cc/css$all,uritransform=/cdn\.iocdn\.cc\/css/fonts.googleapis.com\/css/
+||cdn.iocdn.cc/icon$all,uritransform=/cdn\.iocdn\.cc\/icon/fonts.googleapis.com\/icon/
+||cdn.iocdn.cc/earlyaccess$all,uritransform=/cdn\.iocdn\.cc\/earlyaccess/fonts.googleapis.com\/earlyaccess/
+||cdn.iocdn.cc/s$all,uritransform=/cdn\.iocdn\.cc\/s/fonts.gstatic.com\/s/
+||cdn.iocdn.cc/static$all,uritransform=/cdn\.iocdn\.cc\/static/themes.googleusercontent.com\/static/
+||cdn.iocdn.cc/ajax$all,uritransform=/cdn\.iocdn\.cc\/ajax/ajax.googleapis.com\/ajax/
+||cdn.iocdn.cc/$all,uritransform=/cdn\.iocdn\.cc\//cdn.jsdelivr.net\//
+||googlefonts.admincdn.com/$all,uritransform=/googlefonts\.admincdn\.com\//fonts.googleapis.com\//
+||googleajax.admincdn.com/$all,uritransform=/googleajax\.admincdn\.com\//ajax.googleapis.com\//
+||cdnjs.admincdn.com/$all,uritransform=/cdnjs\.admincdn\.com\//cdnjs.cloudflare.com\/ajax\/libs\//
+||polyfill.io/$all,uritransform=/polyfill\.io\//cdnjs.cloudflare.com\/polyfill\//
+||polyfill.top/$all,uritransform=/polyfill\.top\//cdnjs.cloudflare.com\/polyfill\//
+||polyfill-js.cn/$all,uritransform=/polyfill\x2djs\.cn\//cdnjs.cloudflare.com\/polyfill\//
+||cdn.polyfill.io/$all,uritransform=/cdn\.polyfill\.io\//cdnjs.cloudflare.com\/polyfill\//
+||fastly-polyfill.io/$all,uritransform=/fastly\x2dpolyfill\.io\//cdnjs.cloudflare.com\/polyfill\//
+||fastly-polyfill.net/$all,uritransform=/fastly\x2dpolyfill\.net\//cdnjs.cloudflare.com\/polyfill\//
+||polyfill-fastly.net/$all,uritransform=/polyfill\x2dfastly\.net\//cdnjs.cloudflare.com\/polyfill\//
+||unpkg.com/$all,uritransform=/unpkg\.com\//cdn.jsdelivr.net\/npm\//
