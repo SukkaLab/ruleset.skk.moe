@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-12-25T15:14:49.691Z
+// # Build 2025-12-25T15:18:46.615Z
 
 declare(strict_types=1);
 
@@ -2933,6 +2933,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,springernature.com,DIRECT',
         'DOMAIN,setmeup.arubanetworks.com,DIRECT',
         'DOMAIN,instant.arubanetworks.com,DIRECT',
+        'DOMAIN-SUFFIX,webofscience.com,DIRECT',
         'DOMAIN-SUFFIX,routerlogin.com,DIRECT',
         'DOMAIN-SUFFIX,asusrouter.com,DIRECT',
         'DOMAIN-SUFFIX,nanyangpt.com,DIRECT',
