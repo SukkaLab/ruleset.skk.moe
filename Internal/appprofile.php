@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-12-30T05:21:24.722Z
+// # Build 2025-12-30T12:15:21.846Z
 
 declare(strict_types=1);
 
@@ -2882,6 +2882,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,hd-space.org,DIRECT',
         'DOMAIN-SUFFIX,eastgame.org,DIRECT',
         'DOMAIN-SUFFIX,uhdbits.org,DIRECT',
+        'DOMAIN-SUFFIX,science.org,DIRECT',
         'DOMAIN-SUFFIX,hdroute.org,DIRECT',
         'DOMAIN-SUFFIX,hdchina.org,DIRECT',
         'DOMAIN-SUFFIX,hd4fans.org,DIRECT',
@@ -4314,6 +4315,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,103.227.80.0/22,Domestic',
         'IP-CIDR,103.227.120.0/22,Domestic',
         'IP-CIDR,103.227.136.0/22,Domestic',
+        'IP-CIDR,103.227.228.0/22,Domestic',
         'IP-CIDR,103.228.12.0/22,Domestic',
         'IP-CIDR,103.228.136.0/22,Domestic',
         'IP-CIDR,103.228.160.0/22,Domestic',
