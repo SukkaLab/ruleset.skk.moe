@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Wed, 31 Dec 2025 17:10:27 GMT
+! Last modified: Wed, 31 Dec 2025 17:20:48 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -57700,8 +57700,10 @@
 ||tapjoy.com^
 ||cp.ajo.tapcxm.com^
 ||nbsdk-baichuan.taobao.com^
+|mamasearchad.cloudvideocdn.taobao.com^
 ||baichuan-sdk.taobao.com^
 ||audid-api.taobao.com^
+|alimelog.taobao.com^
 |api.waptest.taobao.com^
 |sjarvis.taobao.com^
 |sdkinit.taobao.com^
