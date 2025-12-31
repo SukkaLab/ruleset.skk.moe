@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2025-12-31T17:20:44.141Z
+// # Build 2025-12-31T17:55:20.849Z
 
 declare(strict_types=1);
 
@@ -1770,6 +1770,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,minecraftforum.net,Global',
         'DOMAIN-SUFFIX,hubspotstarter.net,Global',
         'DOMAIN-SUFFIX,cloudfunctions.net,Global',
+        'DOMAIN-SUFFIX,videodelivery.net,Global',
         'DOMAIN-SUFFIX,azurewebsites.net,Global',
         'DOMAIN-SUFFIX,vesselfinder.net,Global',
         'DOMAIN-SUFFIX,tokto-motion.net,Global',
@@ -1887,6 +1888,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,workers.dev,Global',
         'DOMAIN-SUFFIX,sentry.dev,Global',
         'DOMAIN-SUFFIX,github.dev,Global',
+        'DOMAIN-SUFFIX,pages.dev,Global',
         'DOMAIN-SUFFIX,zenn.dev,Global',
         'DOMAIN-SUFFIX,web.dev,Global',
         'DOMAIN-SUFFIX,fly.dev,Global',
@@ -1903,13 +1905,16 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,lineshoppingseller.com,Global',
         'DOMAIN-SUFFIX,minecraftservices.com,Global',
         'DOMAIN-SUFFIX,githubusercontent.com,Global',
+        'DOMAIN-SUFFIX,cloudflarestorage.com,Global',
         'DOMAIN-SUFFIX,cloudflareresolve.com,Global',
+        'DOMAIN-SUFFIX,cloudflarepreview.com,Global',
         'DOMAIN-SUFFIX,chromeexperiments.com,Global',
         'DOMAIN-SUFFIX,1passwordservices.com,Global',
         'DOMAIN-SUFFIX,surge-activation.com,Global',
         'DOMAIN-SUFFIX,smashingmagazine.com,Global',
         'DOMAIN-SUFFIX,fastly-analytics.com,Global',
         'DOMAIN-SUFFIX,elasticbeanstalk.com,Global',
+        'DOMAIN-SUFFIX,cloudflaretunnel.com,Global',
         'DOMAIN-SUFFIX,cloudflarestatus.com,Global',
         'DOMAIN-SUFFIX,cloudflareaccess.com,Global',
         'DOMAIN-SUFFIX,bleepingcomputer.com,Global',
@@ -1921,6 +1926,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,spankinglibrary.com,Global',
         'DOMAIN-SUFFIX,perfect-privacy.com,Global',
         'DOMAIN-SUFFIX,downdetectorapi.com,Global',
+        'DOMAIN-SUFFIX,cloudflare-ipfs.com,Global',
         'DOMAIN-SUFFIX,businessinsider.com,Global',
         'DOMAIN-SUFFIX,washingtonpost.com,Global',
         'DOMAIN-SUFFIX,thefreelibrary.com,Global',
@@ -1930,9 +1936,11 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,redtubepremium.com,Global',
         'DOMAIN-SUFFIX,opencollective.com,Global',
         'DOMAIN-SUFFIX,line-apps-beta.com,Global',
+        'DOMAIN-SUFFIX,cloudflareapps.com,Global',
         'DOMAIN-SUFFIX,cloudflare-dns.com,Global',
         'DOMAIN-SUFFIX,adguardaccount.com,Global',
         'DOMAIN-SUFFIX,xpressunblock.com,Global',
+        'DOMAIN-SUFFIX,trycloudflare.com,Global',
         'DOMAIN-SUFFIX,thaiheadlines.com,Global',
         'DOMAIN-SUFFIX,stackoverflow.com,Global',
         'DOMAIN-SUFFIX,stackexchange.com,Global',
@@ -2312,6 +2320,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,doujins.com,Global',
         'DOMAIN-SUFFIX,dnsleak.com,Global',
         'DOMAIN-SUFFIX,detnews.com,Global',
+        'DOMAIN-SUFFIX,cf-ipfs.com,Global',
         'DOMAIN-SUFFIX,cbsnews.com,Global',
         'DOMAIN-SUFFIX,camsoda.com,Global',
         'DOMAIN-SUFFIX,blogger.com,Global',
