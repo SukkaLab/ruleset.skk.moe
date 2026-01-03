@@ -1,5 +1,5 @@
 ! Title: [sukka] Sukka URL Redirect
-! Last modified: Sat, 03 Jan 2026 07:00:48 GMT
+! Last modified: Sat, 03 Jan 2026 08:06:56 GMT
 ! Expires: 4 hours
 ! Description: Redirect requests via uritransform network filter syntax.
 ! License: https://ruleset.skk.moe/LICENSE
@@ -58,39 +58,39 @@
 ||missav.com/$all,uritransform=/missav\.com\//missav.ai\//
 ||minecraft.fandom.com/$all,uritransform=/minecraft\.fandom\.com\//minecraft.wiki\//
 ||minecraft.fandom.com/wiki/$all,uritransform=/minecraft\.fandom\.com\/wiki\//minecraft.wiki\/w\//
-||zbrushcn.com$all,uritransform=/.*zbrushcn\.com\/(.*)/www.maxon.net\/en\/zbrush/
-||yuanchengxiezuo.com$all,uritransform=/.*yuanchengxiezuo\.com\/(.*)/www.teamviewer.com\/zhcn/
-||xshellcn.com$all,uritransform=/.*xshellcn\.com\/(.*)/www.netsarang.com\/products\/xsh_overview.html/
-||xmindchina.net$all,uritransform=/.*xmindchina\.net\/(.*)/www.xmind.cn/
-||vegaschina.cn$all,uritransform=/.*vegaschina\.cn\/(.*)/www.vegas.com/
-||ultraiso.net$all,uritransform=/.*ultraiso\.net\/(.*)/cn.ezbsystems.com\/ultraiso/
-||pdfexpert.cc$all,uritransform=/.*pdfexpert\.cc\/(.*)/pdfexpert.com\/zh/
-||passwordrecovery.cn$all,uritransform=/.*passwordrecovery\.cn\/(.*)/cn.elcomsoft.com\/aopr.html/
-||overturechina.com$all,uritransform=/.*overturechina\.com\/(.*)/sonicscores.com\/overture/
-||ntfsformac.cn$all,uritransform=/.*ntfsformac\.cn\/(.*)/www.paragon-software.com\/ufsdhome\/zh\/ntfs-mac/
-||ntfsformac.cc$all,uritransform=/.*ntfsformac\.cc\/(.*)/www.tuxera.com\/products\/tuxera-ntfs-for-mac-cn/
-||nicelabel.cc$all,uritransform=/.*nicelabel\.cc\/(.*)/www.nicelabel.com/
-||mycleanmymac.com$all,uritransform=/.*mycleanmymac\.com\/(.*)/macpaw.com\/cleanmymac/
-||mindmapper.cc$all,uritransform=/.*mindmapper\.cc\/(.*)/mindmapper.com/
-||mindmanager.cc$all,uritransform=/.*mindmanager\.cc\/(.*)/www.mindjet.com/
-||mathtype.cn$all,uritransform=/.*mathtype\.cn\/(.*)/www.wiris.com\/en\/mathtype/
-||keyshot.cc$all,uritransform=/.*keyshot\.cc\/(.*)/www.keyshot.com/
-||jihehuaban.com.cn$all,uritransform=/.*jihehuaban\.com\.cn\/(.*)/sketch.io/
-||imindmap.cc$all,uritransform=/.*imindmap\.cc\/(.*)/imindmap.com\/zh-cn/
-||iconworkshop.cn$all,uritransform=/.*iconworkshop\.cn\/(.*)/www.axialis.com\/iconworkshop/
-||huishenghuiying.com.cn$all,uritransform=/.*huishenghuiying\.com\.cn\/(.*)/www.corel.com/
-||guitarpro.cc$all,uritransform=/.*guitarpro\.cc\/(.*)/www.guitar-pro.com/
-||formysql.com$all,uritransform=/.*formysql\.com\/(.*)/www.navicat.com.cn/
-||flstudiochina.com$all,uritransform=/.*flstudiochina\.com\/(.*)/www.image-line.com\/fl-studio/
-||ediuschina.com$all,uritransform=/.*ediuschina\.com\/(.*)/www.grassvalley.com/
-||easyrecoverychina.com$all,uritransform=/.*easyrecoverychina\.com\/(.*)/www.ontrack.com/
-||crossoverchina.com$all,uritransform=/.*crossoverchina\.com\/(.*)/www.codeweavers.com/
-||coreldrawchina.com$all,uritransform=/.*coreldrawchina\.com\/(.*)/www.coreldraw.com/
-||codesoftchina.com$all,uritransform=/.*codesoftchina\.com\/(.*)/www.teklynx.com/
-||chemdraw.com.cn$all,uritransform=/.*chemdraw\.com\.cn\/(.*)/revvitysignals.com\/products\/research\/chemdraw/
-||bingdianhuanyuan.cn$all,uritransform=/.*bingdianhuanyuan\.cn\/(.*)/www.faronics.com/
-||beyondcompare.cc$all,uritransform=/.*beyondcompare\.cc\/(.*)/www.scootersoftware.com/
-||betterzip.net$all,uritransform=/.*betterzip\.net\/(.*)/macitbetter.com/
-||bartender.cc$all,uritransform=/.*bartender\.cc\/(.*)/www.seagullscientific.com/
-||abbyychina.com$all,uritransform=/.*abbyychina\.com\/(.*)/www.abbyy.cn/
-||ign.xn--fiqs8s$all,uritransform=/.*ign\.xn\x2d\x2dfiqs8s\/(.*)/cn.ign.com\/ccpref\/us/
+||zbrushcn.com$all,uritransform=/\/.*zbrushcn\.com.*/www.maxon.net\/en\/zbrush/
+||yuanchengxiezuo.com$all,uritransform=/\/.*yuanchengxiezuo\.com.*/www.teamviewer.com\/zhcn/
+||xshellcn.com$all,uritransform=/\/.*xshellcn\.com.*/www.netsarang.com\/products\/xsh_overview.html/
+||xmindchina.net$all,uritransform=/\/.*xmindchina\.net.*/www.xmind.cn/
+||vegaschina.cn$all,uritransform=/\/.*vegaschina\.cn.*/www.vegas.com/
+||ultraiso.net$all,uritransform=/\/.*ultraiso\.net.*/cn.ezbsystems.com\/ultraiso/
+||pdfexpert.cc$all,uritransform=/\/.*pdfexpert\.cc.*/pdfexpert.com\/zh/
+||passwordrecovery.cn$all,uritransform=/\/.*passwordrecovery\.cn.*/cn.elcomsoft.com\/aopr.html/
+||overturechina.com$all,uritransform=/\/.*overturechina\.com.*/sonicscores.com\/overture/
+||ntfsformac.cn$all,uritransform=/\/.*ntfsformac\.cn.*/www.paragon-software.com\/ufsdhome\/zh\/ntfs-mac/
+||ntfsformac.cc$all,uritransform=/\/.*ntfsformac\.cc.*/www.tuxera.com\/products\/tuxera-ntfs-for-mac-cn/
+||nicelabel.cc$all,uritransform=/\/.*nicelabel\.cc.*/www.nicelabel.com/
+||mycleanmymac.com$all,uritransform=/\/.*mycleanmymac\.com.*/macpaw.com\/cleanmymac/
+||mindmapper.cc$all,uritransform=/\/.*mindmapper\.cc.*/mindmapper.com/
+||mindmanager.cc$all,uritransform=/\/.*mindmanager\.cc.*/www.mindjet.com/
+||mathtype.cn$all,uritransform=/\/.*mathtype\.cn.*/www.wiris.com\/en\/mathtype/
+||keyshot.cc$all,uritransform=/\/.*keyshot\.cc.*/www.keyshot.com/
+||jihehuaban.com.cn$all,uritransform=/\/.*jihehuaban\.com\.cn.*/sketch.io/
+||imindmap.cc$all,uritransform=/\/.*imindmap\.cc.*/imindmap.com\/zh-cn/
+||iconworkshop.cn$all,uritransform=/\/.*iconworkshop\.cn.*/www.axialis.com\/iconworkshop/
+||huishenghuiying.com.cn$all,uritransform=/\/.*huishenghuiying\.com\.cn.*/www.corel.com/
+||guitarpro.cc$all,uritransform=/\/.*guitarpro\.cc.*/www.guitar-pro.com/
+||formysql.com$all,uritransform=/\/.*formysql\.com.*/www.navicat.com.cn/
+||flstudiochina.com$all,uritransform=/\/.*flstudiochina\.com.*/www.image-line.com\/fl-studio/
+||ediuschina.com$all,uritransform=/\/.*ediuschina\.com.*/www.grassvalley.com/
+||easyrecoverychina.com$all,uritransform=/\/.*easyrecoverychina\.com.*/www.ontrack.com/
+||crossoverchina.com$all,uritransform=/\/.*crossoverchina\.com.*/www.codeweavers.com/
+||coreldrawchina.com$all,uritransform=/\/.*coreldrawchina\.com.*/www.coreldraw.com/
+||codesoftchina.com$all,uritransform=/\/.*codesoftchina\.com.*/www.teklynx.com/
+||chemdraw.com.cn$all,uritransform=/\/.*chemdraw\.com\.cn.*/revvitysignals.com\/products\/research\/chemdraw/
+||bingdianhuanyuan.cn$all,uritransform=/\/.*bingdianhuanyuan\.cn.*/www.faronics.com/
+||beyondcompare.cc$all,uritransform=/\/.*beyondcompare\.cc.*/www.scootersoftware.com/
+||betterzip.net$all,uritransform=/\/.*betterzip\.net.*/macitbetter.com/
+||bartender.cc$all,uritransform=/\/.*bartender\.cc.*/www.seagullscientific.com/
+||abbyychina.com$all,uritransform=/\/.*abbyychina\.com.*/www.abbyy.cn/
+||ign.xn--fiqs8s$all,uritransform=/\/.*ign\.xn\x2d\x2dfiqs8s.*/cn.ign.com\/ccpref\/us/
