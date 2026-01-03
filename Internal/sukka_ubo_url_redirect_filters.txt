@@ -1,12 +1,11 @@
 ! Title: [sukka] Sukka URL Redirect
-! Last modified: Sat, 20 Dec 2025 15:32:57 GMT
+! Last modified: Sat, 03 Jan 2026 07:00:48 GMT
 ! Expires: 4 hours
 ! Description: Redirect requests via uritransform network filter syntax.
 ! License: https://ruleset.skk.moe/LICENSE
 ! Homepage: https://ruleset.skk.moe
 ! GitHub: https://github.com/SukkaW/Surge
 
-||unpkg.com/$all,uritransform=/unpkg\.com\//cdn.jsdelivr.net\/npm\//
 ||cdn.staticfile.org/$all,uritransform=/cdn\.staticfile\.org\//cdnjs.cloudflare.com\/ajax\/libs\//
 ||cdn.staticfile.net/$all,uritransform=/cdn\.staticfile\.net\//cdnjs.cloudflare.com\/ajax\/libs\//
 ||cdn.bootcdn.net/$all,uritransform=/cdn\.bootcdn\.net\//cdnjs.cloudflare.com\/ajax\/libs\//
