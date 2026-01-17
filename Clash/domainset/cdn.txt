@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-01-17T06:55:54.724Z
-# Size: 4221
+# Last Updated: 2026-01-17T10:36:29.428Z
+# Size: 4223
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2552,8 +2552,9 @@ img.logokit.com
 aurora-customization-usw2.lithium.com
 +.kym-cdn.com
 static-forms.klaviyo.com
+static-app.klaviyo.com
 static.klaviyo.com
-a.klaviyo.com
++.a.klaviyo.com
 cdnsecakmi.kaltura.com
 cdnapi.kaltura.com
 cfvod.kaltura.com
@@ -4132,6 +4133,7 @@ storageapi.fleek.co
 previews.fleek.co
 +.ipfs.fleek.co
 load.csell.co
+cdn.chord.co
 log-collector.17app.co
 webcdn.17app.co
 cdn.17app.co
