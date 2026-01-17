@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2026-01-17T05:18:50.399Z
+// # Build 2026-01-17T06:44:06.792Z
 
 declare(strict_types=1);
 
@@ -2887,7 +2887,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,blutopia.xyz,DIRECT',
         'DOMAIN-SUFFIX,hd4.xyz,DIRECT',
         'DOMAIN-SUFFIX,hdpost.top,DIRECT',
-        'DOMAIN-SUFFIX,acg.rip,DIRECT',
         'DOMAIN-SUFFIX,osapublishing.org,DIRECT',
         'DOMAIN-SUFFIX,sciencemag.org,DIRECT',
         'DOMAIN-SUFFIX,icetorrent.org,DIRECT',
