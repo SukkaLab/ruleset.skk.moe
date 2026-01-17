@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-01-17T06:44:04.681Z
-# Size: 4228
+# Last Updated: 2026-01-17T06:55:54.724Z
+# Size: 4221
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -44,7 +44,6 @@ static.generated.photos
 +.picsum.photos
 files.mastodon.online
 +.am-cdn.online
-cdn.glitch.global
 code.iconify.design
 api.iconify.design
 +.ant.design
@@ -988,9 +987,8 @@ searchserverapi.com
 static.planetminecraft.com
 +.pipedriveassets.com
 openseauserdata.com
-gt1.onlyhentaistuff.com
 fs2.onlyhentaistuff.com
-cdn.onlyhentaistuff.com
+ca1.onlyhentaistuff.com
 cdn.northropgrumman.com
 irp-cdn.multiscreensite.com
 +.msftconnecttest.com
@@ -2034,7 +2032,6 @@ wa1.aninoapps.com
 pm1.aninoapps.com
 pa1.aninoapps.com
 images.anandtech.com
-cm1.aminoapps.com
 ip-ranges.amazonaws.com
 +.assets.as2.amazonaws.com
 +.abcnewsfe.com
@@ -2990,8 +2987,6 @@ static.corp.google.com
 +.crashlytics2.l.google.com
 s3.go2778.com
 static.gmgard.com
-content.product.glitch.com
-cdn.glitch.com
 +.glbimg.com
 tuf-repo.github.com
 raw.github.com
@@ -3714,7 +3709,6 @@ cdn.daradara.me
 cf.javfree.me
 circle-flags.zeljko.me
 cdn.picrew.me
-cdn.glitch.me
 static.start.me
 f.start.me
 c.start.me
@@ -3897,7 +3891,6 @@ cdn.hackaday.io
 +.ipfs.filebase.io
 +.ipfs.denarius.io
 +.rum.cronitor.io
-cdn.commento.io
 +.cloudimg.io
 static.assetlab.io
 code.upscope.io
