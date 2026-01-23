@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-01-22T16:03:26.029Z
-# Size: 4240
+# Last Updated: 2026-01-23T13:53:41.943Z
+# Size: 4239
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2021,7 +2021,7 @@ assets.bitwarden.com
 upos-sz-mirrorcosbstar1.bilivideo.com
 upos-sz-mirroralibstar1.bilivideo.com
 secure.beer7live.com
-assets.bbystatic.com
++.bbystatic.com
 cdn.babylonjs.com
 +.awsstatic.com
 atl-global.atlassian.com
@@ -2810,8 +2810,7 @@ cdn2.ttloli.com
 cdn.ttloli.com
 cdn.tracxn.com
 +.tpucdn.com
-static.toiimg.com
-assets.toiimg.com
++.toiimg.com
 +.tmsimg.com
 +.tkcdns.com
 +.tiqcdn.com
