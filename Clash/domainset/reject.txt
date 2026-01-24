@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-01-24T13:07:40.983Z
-# Size: 101679
+# Last Updated: 2026-01-24T13:52:39.620Z
+# Size: 101694
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11,11 +11,11 @@
 # This file contains data from:
 #   - https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@master/GameConsoleAdblockList.txt
 #   - https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Extension/GoodbyeAds-Xiaomi-Extension.txt
-#   - https://easylist.to/easylist/easyprivacy.txt
 #   - https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt
 #   - https://filters.adtidy.org/extension/ublock/filters/224_optimized.txt
 #   - https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
 #   - https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
+#   - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 #   - https://ublockorigin.github.io/uAssetsCDN/filters/unbreak.min.txt
 #########################################
 7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
@@ -531,6 +531,7 @@
 +.fmpezkwxyqryq.website
 +.flxghxhprmwkr.website
 +.fkyudyohxpdao.website
++.fkgpewlsrzwiu.website
 +.fjjdwjwtfnouy.website
 +.fikshvoprcesm.website
 +.fiizbmjzykchn.website
@@ -2168,6 +2169,7 @@ crsoptimizer.conversionrate.store
 +.kwlmpwbrsennw.space
 +.kwjfejtnfuxlj.space
 +.ksnhwtjoaoeim.space
++.kpuscrsmljibk.space
 +.kpngcxgdpdfih.space
 +.kogajgxguzaxk.space
 +.kmurwyixudezb.space
@@ -3305,6 +3307,7 @@ ssp1.kfadx.tech
 +.likpzeqqvhzsj.site
 +.liflneszneaak.site
 +.lherbnfhnqrnf.site
++.lharfoeeeqsxr.site
 +.lgtxrfqffcrex.site
 +.lgglnedyuhmgk.site
 +.lgdsvuwxjbhwz.site
@@ -3476,6 +3479,7 @@ ssp1.kfadx.tech
 +.dkrpcxhlibkhw.site
 +.dgtsowpvnhodi.site
 +.dfvruigpfghpi.site
++.dfuvslppaxhzv.site
 +.ddhodsbzbntxh.site
 +.dcpqlckkntmoc.site
 +.dcapugcaiirxs.site
@@ -4245,6 +4249,7 @@ bad.third-party.site
 +.k7zjkgvqnernpnzr78vqek8lm73u.rest
 +.g3obl6n4i1x8l1zygcppfwjgjw61.rest
 +.cm5zpr3ljbkfnjolywmqp3v9oj98.rest
++.bzh85uumn4wtjrvmiepwj6jj35c7.rest
 +.xkr9vgbu72pxzkcctg29n389p2k.rest
 +.qxvgqpyhc41fzlvpxh9xluileyg.rest
 +.7m4gy722jqb182cpgjxtjckjwy7.rest
@@ -6478,6 +6483,7 @@ grs.dbankcloud.asia
 +.pcjdedpmywihdhp.xyz
 +.otyeghqtiyyxnbi.xyz
 +.opsrfyrrxrdbfnx.xyz
++.oogvaayjgjsetel.xyz
 +.ohhjawyffxkpjlp.xyz
 +.ocrcvnglihpduye.xyz
 +.mljavkmftukgvwy.xyz
@@ -10228,6 +10234,7 @@ samsungcloudsolution.net
 +.foxtel-prod-events.digitalsmiths.net
 +.server.digitalfastit.net
 +.ca.clubavantages.net
++.choudirsaixie.net
 +.chitchaudsoax.net
 +.cheersoolrato.net
 +.cheeksognoura.net
@@ -14196,6 +14203,7 @@ smplnltcs.knip.dev
 +.stape.escolaportuguesadepodcasting.com
 +.embroiderynaturalistsfighter.com
 +.effectuallyconceptcontinuous.com
++.divedsurprisinglythermometer.com
 +.disreputableagrarianyourself.com
 +.tr.devisminute-affranchissement.com
 +.detectedpeculiaritiesmartial.com
@@ -36278,6 +36286,7 @@ httpdns.huaweicloud.com
 +.guessdetail.com
 +.pro.guardianlit.com
 +.tags.gskpro-com.preview-cf65.gskinternet.com
++.gsk801241hh.com
 +.gsk801240hh.com
 +.gsk801231hh.com
 +.gsk801221hh.com
@@ -43674,6 +43683,7 @@ simple.cloudsmith.com
 +.3999f86b91.com
 +.388533c5eb.com
 +.36a7b00c00.com
++.35kjurwwb6.com
 +.35c82e35f3.com
 +.352396e005.com
 +.34mede82hj.com
@@ -45416,6 +45426,7 @@ static.m.sjzhushou.com
 +.rdblieez7.com
 +.rcruulnot.com
 +.rcilgeill.com
++.rbtcfltfi.com
 +.rb51rh02h.com
 +.simplify.razorsync.com
 +.info.raytecled.com
@@ -53556,6 +53567,7 @@ dpmtpush.dianping.com
 +.ddnslive.com
 +.stream-log.dditscdn.com
 +.trkpzz.dcinside.com
++.dbvedren.com
 +.dbqepyut.com
 +.cs02-pps-drcn.dbankcdn.com
 +.apps.daxko-qa.com
@@ -68240,6 +68252,7 @@ acs.56.com
 +.fushtinfairdielike.cfd
 +.fierisynaxisgestae.cfd
 +.expededmagsgrabber.cfd
++.exertedbostalgaure.cfd
 +.ellachelideambages.cfd
 +.cnicusoxbowtermite.cfd
 +.clioneembraidwants.cfd
@@ -68428,6 +68441,7 @@ acs.56.com
 +.trabucoalining.cfd
 +.tocherscaapeba.cfd
 +.tnwzpt46k8ym5b.cfd
++.tlywufv7lynzx5.cfd
 +.tg7cgq3hq332cm.cfd
 +.tcf58umppnphjz.cfd
 +.systemsdictums.cfd
@@ -92466,6 +92480,7 @@ dd.iask.cn
 +.gfvk.cn
 +.gexq.cn
 +.geih.cn
++.gdqu.cn
 +.gavm.cn
 +.fqbr.cn
 +.fodh.cn
