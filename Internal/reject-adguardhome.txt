@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Sun, 25 Jan 2026 15:15:18 GMT
+! Last modified: Sun, 25 Jan 2026 15:18:40 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -10787,7 +10787,6 @@
 ||go.apostacerteira.net^
 ||aloatchuraimti.net^
 ||capi.alharamainmart.net^
-||jr.airstarfinance.net^
 ||zoowunagraglu.net^
 ||zireemilsoude.net^
 ||zeelooshashey.net^
@@ -12963,7 +12962,7 @@
 ||trakaff.net^
 ||rtk.toptoon.net^
 ||go.topicit.net^
-||tongdun.net^
+||behavior.tongdun.net^
 ||ape-tagit.timeinc.net^
 ||metrics.timeinc.net^
 ||xrnyhc.timeadd.net^
@@ -13033,7 +13032,6 @@
 ||mitself.net^
 ||mineqrl.net^
 ||microad.net^
-||mtvod-ali.meituan.net^
 ||analytics.meituan.net^
 ||wreport.meituan.net^
 ||dreport.meituan.net^
@@ -27408,7 +27406,7 @@
 ||action.unifiedoffice.com^
 ||stape.unifatecieead.com^
 ||unicontainers.com^
-||unicompayment.com^
+||stat2.unicompayment.com^
 ||xpygen.unger-fashion.com^
 ||fpida.une-nana-cool.com^
 ||zbseb.underdoggames.com^
@@ -57557,7 +57555,6 @@
 ||sapnest.com^
 ||detnmz.sapling.com^
 ||med.saphris.com^
-||logan.sankuai.com^
 ||target.sanitas.com^
 ||sslsc.sanitas.com^
 ||sc.sanitas.com^
@@ -58499,9 +58496,7 @@
 |httpdnsmultiapivip.meituan.com^
 |httpdnsmultiapi.meituan.com^
 ||appsec-mobile.meituan.com^
-||expenses-fe.meituan.com^
 |httpdnsvip.meituan.com^
-|contents.meituan.com^
 |httpdns.meituan.com^
 ||report.meituan.com^
 |wmlog.meituan.com^
@@ -59322,7 +59317,6 @@
 ||bolshi.gorecon.com^
 ||gorclck.com^
 ||analytics.gooogol.com^
-|domain-suffix,video.goofish.com^
 ||cbsbnq.goodsey.com^
 ||links.goodpup.com^
 ||mnbyto.goo-net.com^
@@ -61458,7 +61452,6 @@
 ||marketing.ultimo.com^
 ||ulmoyc.com^
 ||ulinix.com^
-||ulecdn.com^
 ||ujscdn.com^
 ||uidapi.com^
 ||ufpcdn.com^
@@ -61657,7 +61650,6 @@
 ||tapjoy.com^
 ||cp.ajo.tapcxm.com^
 ||nbsdk-baichuan.taobao.com^
-|domain-suffix,video-zb.cloudvideocdn.taobao.com^
 |mamasearchad.cloudvideocdn.taobao.com^
 ||baichuan-sdk.taobao.com^
 ||audid-api.taobao.com^
@@ -64622,7 +64614,6 @@
 ||emails.app.allcal.com^
 ||allabc.com^
 ||load.tm.all3dp.com^
-|mpush-api.aliyun.com^
 |click.aliyun.com^
 |acjs.aliyun.com^
 |osfota.cdn.aliyun.com^
@@ -65998,7 +65989,6 @@
 ||wemqip.misli.com^
 ||dkiig.misen.com^
 ||news.miptv.com^
-||lmk.mipay.com^
 ||ac.miovp.com^
 ||gtm.mintt.com^
 ||sst.minea.com^
@@ -67648,7 +67638,6 @@
 ||101m3.com^
 ||pushservice.10010.com^
 ||smartad.10010.com^
-|epay.10010.com^
 ||1.07swz.com^
 ||054ii.com^
 ||bd100.010lm.com^
@@ -69030,7 +69019,6 @@
 ||omtr.uob.com^
 ||app.und.com^
 ||t.und.com^
-||ule.com^
 ||get.ukg.com^
 ||go.ukg.com^
 ||ohzvu.uhp.com^
@@ -70023,7 +70011,6 @@
 |sg.a.stat.mi.com^
 ||dun.mi.com^
 |api.jr.mi.com^
-|m.jr.mi.com^
 ||idm.api.io.mi.com^
 |c.id.mi.com^
 |a.hl.mi.com^
@@ -79521,7 +79508,6 @@
 ||p2p.me^
 |app-monitor.ele.me^
 |log.star.ele.me^
-|loan-supermarket.faas.ele.me^
 ||h-adashx.ut.ele.me^
 |adashx.ut.ele.me^
 ||join.air.me^
@@ -94667,7 +94653,6 @@
 ||bdjs.guangyuanol.cn^
 ||fraudmetrix.cn^
 ||aem.dentsuchina.cn^
-||newbuy.chinaunicom.cn^
 ||cengqinglin.cn^
 ||a.zuowenxuan.cn^
 ||cdn.wenzhangba.cn^
@@ -95139,11 +95124,8 @@
 ||3ml8v.cn^
 ||189zj.cn^
 ||ent1.12584.cn^
-|push.12306.cn^
-|ad.12306.cn^
 ||114so.cn^
 |render-web.11222.cn^
-||mall.10010.cn^
 ||zwvq.cn^
 ||zvou.cn^
 ||zujz.cn^
@@ -95423,7 +95405,6 @@
 ||poyc.cn^
 ||pjwk.cn^
 ||pisb.cn^
-||pipi.cn^
 ||piln.cn^
 ||phwv.cn^
 ||phue.cn^
