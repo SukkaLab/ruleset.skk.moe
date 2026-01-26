@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject (REJECT-DROP)
-# Last Updated: 2026-01-26T05:31:00.038Z
-# Size: 47
+# Last Updated: 2026-01-26T17:01:39.113Z
+# Size: 49
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -29,10 +29,12 @@ DOMAIN-SUFFIX,ulecdn.com
 DOMAIN-SUFFIX,video-zb.cloudvideocdn.taobao.com
 DOMAIN-SUFFIX,cool3c.com
 DOMAIN,fyb-2.cdn.bcebos.com
+DOMAIN,mpush-api.aliyun.com
 DOMAIN-SUFFIX,lmk.mipay.com
 DOMAIN,epay.10010.com
 DOMAIN-SUFFIX,ule.com
 DOMAIN-SUFFIX,look.163.com
+DOMAIN-SUFFIX,jr.mi.com
 DOMAIN-SUFFIX,microfin.ele.me
 DOMAIN-SUFFIX,httpizza.ele.me
 DOMAIN,loan-supermarket.faas.ele.me
