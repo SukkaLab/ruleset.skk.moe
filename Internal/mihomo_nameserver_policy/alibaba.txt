@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Local DNS Mapping for Mihomo NameServer Policy (ALIBABA)
-# Last Updated: 2025-10-18T20:03:02.403Z
-# Size: 88
+# Last Updated: 2026-01-29T13:28:35.900Z
+# Size: 89
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -90,6 +90,7 @@ DOMAIN-SUFFIX,mybank.cn
 DOMAIN-SUFFIX,alipay.cn
 DOMAIN-SUFFIX,uczzd.cn
 DOMAIN-SUFFIX,tbcdn.cn
+DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,alios.cn
 DOMAIN,ali-safety-video.acfun.cn
 DOMAIN-SUFFIX,9game.cn
@@ -99,4 +100,3 @@ DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,tb.cn
 DOMAIN-SUFFIX,sm.cn
 ################## EOF ##################
-

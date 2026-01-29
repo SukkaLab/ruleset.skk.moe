@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Local DNS Mapping for Mihomo NameServer Policy (XIAOMI)
-# Last Updated: 2025-10-18T20:03:02.403Z
-# Size: 17
+# Last Updated: 2026-01-29T13:28:35.901Z
+# Size: 19
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -19,13 +19,14 @@ DOMAIN-SUFFIX,xiaomixiaoai.com
 DOMAIN-SUFFIX,xiaoaisound.com
 DOMAIN-SUFFIX,xiaomiev.com
 DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi-idc.com
 DOMAIN-SUFFIX,mi-fds.com
 DOMAIN-SUFFIX,duokan.com
+DOMAIN-SUFFIX,mipay.com
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,xiaomi.cn
 DOMAIN-SUFFIX,mifile.cn
 ################## EOF ##################
-
