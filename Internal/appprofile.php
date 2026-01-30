@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2026-01-30T17:25:09.112Z
+// # Build 2026-01-30T20:44:47.580Z
 
 declare(strict_types=1);
 
@@ -3198,7 +3198,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,27.184.0.0/13,Domestic',
         'IP-CIDR,27.192.0.0/11,Domestic',
         'IP-CIDR,27.224.0.0/14,Domestic',
-        'IP-CIDR,31.133.128.0/18,Domestic',
         'IP-CIDR,36.1.0.0/16,Domestic',
         'IP-CIDR,36.4.0.0/14,Domestic',
         'IP-CIDR,36.16.0.0/12,Domestic',
