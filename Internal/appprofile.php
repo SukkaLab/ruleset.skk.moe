@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2026-02-15T05:54:02.117Z
+// # Build 2026-02-15T11:26:16.657Z
 
 declare(strict_types=1);
 
@@ -2662,7 +2662,17 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,us,Global',
         'DOMAIN-SUFFIX,uk,Global',
         'DOMAIN-SUFFIX,tw,Global',
-        'DOMAIN-SUFFIX,tv,Global',
+        'DOMAIN-SUFFIX,cloudflare.tv,Global',
+        'DOMAIN-SUFFIX,periscope.tv,Global',
+        'DOMAIN-SUFFIX,cableav.tv,Global',
+        'DOMAIN-SUFFIX,twitch.tv,Global',
+        'DOMAIN-SUFFIX,hanime.tv,Global',
+        'DOMAIN-SUFFIX,jable.tv,Global',
+        'DOMAIN-SUFFIX,iwara.tv,Global',
+        'DOMAIN-SUFFIX,pscp.tv,Global',
+        'DOMAIN-SUFFIX,njav.tv,Global',
+        'DOMAIN-SUFFIX,muku.tv,Global',
+        'DOMAIN-SUFFIX,bgm.tv,Global',
         'DOMAIN-SUFFIX,tt,Global',
         'DOMAIN-SUFFIX,tr,Global',
         'DOMAIN-SUFFIX,to,Global',
