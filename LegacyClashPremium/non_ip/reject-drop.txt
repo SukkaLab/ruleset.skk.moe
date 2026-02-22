@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject And Drop
-# Last Updated: 2026-02-22T05:49:30.569Z
-# Size: 21
+# Last Updated: 2026-02-22T14:12:51.225Z
+# Size: 20
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -26,7 +26,6 @@ DOMAIN-SUFFIX,tracking.intl.miui.com
 DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,trace.qq.com
 DOMAIN,stat.youpin.mi.com
-DOMAIN-SUFFIX,f-log-extension.grammarly.io
 DOMAIN-SUFFIX,jpush.io
 DOMAIN-SUFFIX,jpush.cn
 ################## EOF ##################
