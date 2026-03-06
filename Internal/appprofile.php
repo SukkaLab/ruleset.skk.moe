@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2026-03-06T09:34:04.475Z
+// # Build 2026-03-06T12:17:19.409Z
 
 declare(strict_types=1);
 
@@ -239,6 +239,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,wallstreetcn.com,Domestic',
         'DOMAIN-SUFFIX,toutiaocloud.com,Domestic',
         'DOMAIN-SUFFIX,tencentmusic.com,Domestic',
+        'DOMAIN-SUFFIX,cm.steampowered.com,Domestic',
         'DOMAIN-SUFFIX,segmentfault.com,Domestic',
         'DOMAIN-SUFFIX,realmemobile.com,Domestic',
         'DOMAIN-SUFFIX,huoshanzhibo.com,Domestic',
@@ -1566,7 +1567,6 @@ $_ENV['Clash_Group_Config'] = [
         'PROCESS-NAME,com.vuclip.viu,Stream',
         'PROCESS-NAME,com.hktve.viutv,Stream',
         'DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe,Steam Download',
-        'DOMAIN-SUFFIX,steamserver.net,Steam Download',
         'DOMAIN-SUFFIX,dl.playstation.net,Steam Download',
         'DOMAIN,pf-cdn-content-prod.azureedge.net,Steam Download',
         'DOMAIN,gamedownloads-rockstargames-com.akamaized.net,Steam Download',
@@ -3004,6 +3004,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,hitpt.com,DIRECT',
         'DOMAIN-SUFFIX,hdupt.com,DIRECT',
         'DOMAIN-SUFFIX,dxdhd.com,DIRECT',
+        'DOMAIN-SUFFIX,lcdn-locator.apple.com,DIRECT',
         'DOMAIN,captive.apple.com,DIRECT',
         'DOMAIN,repeater.asus.com,DIRECT',
         'DOMAIN,router.asus.com,DIRECT',
@@ -4905,7 +4906,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,116.78.0.0/16,Domestic',
         'IP-CIDR,116.85.0.0/22,Domestic',
         'IP-CIDR,116.85.13.0/24,Domestic',
-        'IP-CIDR,116.85.14.0/23,Domestic',
+        'IP-CIDR,116.85.14.0/24,Domestic',
         'IP-CIDR,116.85.16.0/23,Domestic',
         'IP-CIDR,116.85.64.0/20,Domestic',
         'IP-CIDR,116.85.240.0/20,Domestic',
@@ -6014,7 +6015,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,202.4.128.0/19,Domestic',
         'IP-CIDR,202.4.252.0/22,Domestic',
         'IP-CIDR,202.6.202.0/23,Domestic',
-        'IP-CIDR,202.13.71.0/24,Domestic',
         'IP-CIDR,202.14.235.0/24,Domestic',
         'IP-CIDR,202.14.236.0/23,Domestic',
         'IP-CIDR,202.14.238.0/24,Domestic',
