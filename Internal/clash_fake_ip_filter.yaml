@@ -20,6 +20,7 @@ dns:
     - "*.stun.twilio.com"
     - stun.syncthing.net
     - stun.*
+    - lancache.steamcontent.com
     - 127.*.*.*.sslip.io
     - 127-*-*-*.sslip.io
     - "*.127.*.*.*.sslip.io"
@@ -28,4 +29,3 @@ dns:
     - 127-*-*-*.nip.io
     - "*.127.*.*.*.nip.io"
     - "*-127-*-*-*.nip.io"
-
