@@ -1,5 +1,5 @@
 #!name=[Sukka] URL Redirect (Minimum)
-#!desc=Last Updated: 2026-03-09T17:39:10.660Z Size: 16
+#!desc=Last Updated: 2026-03-10T05:42:43.122Z Size: 16
 # This module only contains rules that doesn't work with/hasn't migrated to uBlock Origin's "uritransform" filter syntax
 # uBO/AdGuard filter can be found at https://ruleset.skk.moe/Internal/sukka_ubo_url_redirect_filters.txt
 # This reduces mitm-hostnames and improves performance, with the tradeoff of uBO/AdGuard filter only cover mostly in browser.
