@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2026-03-11T05:46:03.169Z
+// # Build 2026-03-11T09:07:35.646Z
 
 declare(strict_types=1);
 
@@ -2929,6 +2929,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,osapublishing.org,DIRECT',
         'DOMAIN-SUFFIX,sciencemag.org,DIRECT',
         'DOMAIN-SUFFIX,icetorrent.org,DIRECT',
+        'DOMAIN,public.localsend.org,DIRECT',
         'DOMAIN-SUFFIX,cabdirect.org,DIRECT',
         'DOMAIN-SUFFIX,hd-space.org,DIRECT',
         'DOMAIN-SUFFIX,eastgame.org,DIRECT',
@@ -4736,16 +4737,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,113.130.112.0/21,Domestic',
         'IP-CIDR,113.132.0.0/14,Domestic',
         'IP-CIDR,113.136.0.0/13,Domestic',
-        'IP-CIDR,113.185.80.0/20,Domestic',
-        'IP-CIDR,113.185.96.0/19,Domestic',
-        'IP-CIDR,113.185.128.0/20,Domestic',
-        'IP-CIDR,113.185.240.0/20,Domestic',
-        'IP-CIDR,113.186.144.0/20,Domestic',
-        'IP-CIDR,113.188.112.0/20,Domestic',
-        'IP-CIDR,113.190.16.0/20,Domestic',
-        'IP-CIDR,113.190.48.0/20,Domestic',
-        'IP-CIDR,113.190.64.0/20,Domestic',
-        'IP-CIDR,113.190.96.0/20,Domestic',
+        'IP-CIDR,113.160.96.0/20,Domestic',
         'IP-CIDR,113.194.0.0/15,Domestic',
         'IP-CIDR,113.197.101.0/24,Domestic',
         'IP-CIDR,113.197.104.0/23,Domestic',
