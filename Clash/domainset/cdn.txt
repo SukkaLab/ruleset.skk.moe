@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-03-14T09:27:52.519Z
-# Size: 4404
+# Last Updated: 2026-03-14T14:02:19.823Z
+# Size: 4406
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -885,6 +885,7 @@ static.izanmei.icu
 +.cthd.icu
 time-a.nist.gov
 images-assets.nasa.gov
+gibs-c.earthdata.nasa.gov
 assets.science.nasa.gov
 tile.loc.gov
 cdn.usd.fan
@@ -1354,6 +1355,7 @@ cdn77.ashemaletube.com
 server.arcgisonline.com
 +.appsflyersdk.com
 photos5.appleinsider.com
+map.adsbexchange.com
 widgets.zohosalesiq.com
 images.youracclaim.com
 bookface-static.ycombinator.com
