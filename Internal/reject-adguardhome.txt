@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Sat, 14 Mar 2026 17:17:55 GMT
+! Last modified: Sun, 15 Mar 2026 06:04:00 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -14138,6 +14138,7 @@
 ||stats.sender.net^
 ||semasu.net^
 ||t.seesaa.net^
+||r.sdiapi.net^
 ||ads-interfaces.sc-cdn.net^
 ||dm.sanwen.net^
 |tw13b093.sandai.net^
@@ -35975,6 +35976,7 @@
 ||followborder.com^
 ||collect.foliosociety.com^
 ||foggageskaff.com^
+||focusfitwear.com^
 ||fna.fnainsurance.com^
 ||fmlabsonline.com^
 ||em.flyshopezone.com^
@@ -40652,6 +40654,7 @@
 ||gtm.gentlehomme.com^
 ||genericlink.com^
 ||ts.generayxion.com^
+||tag.gendiscover.com^
 ||analytics-api.gemcommerce.com^
 ||server.gelavending.com^
 ||vmgihu.gelatopique.com^
@@ -44831,6 +44834,7 @@
 ||collector.net-logger.com^
 ||nestledmph.com^
 ||nkksj.nestedbean.com^
+||nestbuyers.com^
 ||gtm.neshastore.com^
 ||kmikz.nerverenew.com^
 ||logger.nerdwallet.com^
