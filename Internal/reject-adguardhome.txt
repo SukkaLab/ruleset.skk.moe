@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Thu, 14 May 2026 09:28:40 GMT
+! Last modified: Thu, 14 May 2026 10:28:44 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -342,6 +342,7 @@
 ||qpufhoviouoby.website^
 ||qpckkuujmwwmh.website^
 ||qoxewwbseudmz.website^
+||qorzcljgqldwr.website^
 ||qnfqwgissngqx.website^
 ||qmyytcdhtvvcy.website^
 ||qmstrdahiazng.website^
@@ -2454,6 +2455,7 @@
 ||skgiibpdmsaqn.space^
 ||sjmjytjohslin.space^
 ||sjgtsqnmrqswz.space^
+||sirgyzvvvnpyw.space^
 ||sggucezzjpohw.space^
 ||sgfjgtcdijeju.space^
 ||sftyxvamhhblp.space^
@@ -3827,6 +3829,7 @@
 ||njcgxydbhmckv.site^
 ||nhsjidkublhxy.site^
 ||ngqtjoktijeem.site^
+||nglctvwiwbnqa.site^
 ||nfzxcsyycurrk.site^
 ||nefurmjnsxefq.site^
 ||ncpicdowknqup.site^
@@ -4419,6 +4422,7 @@
 ||dilute08062025.shop^
 ||cynodonrazzing.shop^
 ||gtm.creativastudio.shop^
+||craggedlucigen.shop^
 ||stape.clinica-andrie.shop^
 ||cheese08062025.shop^
 ||server.canvasandcraft.shop^
@@ -5406,6 +5410,7 @@
 ||abbaswaulingamorino.qpon^
 ||ungildfreithtornal.qpon^
 ||ternarlogoutphossy.qpon^
+||tamablejuntodewitt.qpon^
 ||taarazymousalberta.qpon^
 ||swivingvulvaechoky.qpon^
 ||subornpohnachronal.qpon^
@@ -5755,6 +5760,7 @@
 ||choricpitting.qpon^
 ||cativoinditch.qpon^
 ||cardiumdevote.qpon^
+||capletsbenote.qpon^
 ||capettepompey.qpon^
 ||canuckcanthus.qpon^
 ||cantrefvelate.qpon^
@@ -6789,6 +6795,7 @@
 ||ricracsmimpeidemibob.cyou^
 ||redfishtottingtintie.cyou^
 ||queleainsulaeoutdate.cyou^
+||propaleamebansyrnium.cyou^
 ||prionidinciterinsume.cyou^
 ||photicupcoasthallali.cyou^
 ||pedaloflakierchicote.cyou^
@@ -11013,6 +11020,9 @@
 ||server.verticaltreinamentos.net^
 ||tracking.usimmigrationsupport.net^
 |samsungcloudsolution.net^
+|lcprd2.samsungcloudsolution.net^
+|lcprd1.samsungcloudsolution.net^
+|fkp.samsungcloudsolution.net^
 ||cdn.samsungcloudsolution.net^
 ||data-a85b10211f.rhein-neckar-zeitung.net^
 ||stats.paramountperformance.net^
@@ -11673,7 +11683,7 @@
 ||stats.searchftps.net^
 ||khcdhu.saraschool.net^
 ||san-spr-01.net^
-||rwww.samsungotn.net^
+||samsungotn.net^
 ||branch-g993dvyzae-test.salesfloor.net^
 ||branch-4567w2a56q-test.salesfloor.net^
 ||branch-g993dvyzae.salesfloor.net^
@@ -11968,6 +11978,7 @@
 ||d2un76zvb5mgzx.cloudfront.net^
 ||d2uhnetoehh304.cloudfront.net^
 ||d2tvgfsghnrkwb.cloudfront.net^
+|d2tnx644ijgq6i.cloudfront.net^
 ||d2tgfbvjf3q6hn.cloudfront.net^
 ||d2tc1zttji8e3a.cloudfront.net^
 ||d2tbszkvx1p56e.cloudfront.net^
@@ -12197,6 +12208,7 @@
 ||d1pdf4c3hchi80.cloudfront.net^
 ||d1p7gp5w97u7t7.cloudfront.net^
 ||d1p3zboe6tz3yy.cloudfront.net^
+|d1oxlq5h9kq8q5.cloudfront.net^
 ||d1owuvqs9tkert.cloudfront.net^
 ||d1on4urq8lvsb1.cloudfront.net^
 ||d1okyw2ay5msiy.cloudfront.net^
@@ -12613,6 +12625,7 @@
 ||scriptcdn.net^
 ||stats.scailable.net^
 ||sc-static.net^
+||samsungrm.net^
 ||safexnews.net^
 ||s0-greate.net^
 ||cpm.rxnetwork.net^
@@ -13523,17 +13536,11 @@
 ||abt.s3.yandex.net^
 ||xmlppc.net^
 ||sec.resource.xiaomi.net^
-|phonecallapi.micloud.xiaomi.net^
-|contactapi.micloud.xiaomi.net^
-|micardapi.micloud.xiaomi.net^
-|migrate.driveapi.micloud.xiaomi.net^
-|sfsapi.micloud.xiaomi.net^
 |pdc.micloud.xiaomi.net^
 |api.g.micloud.xiaomi.net^
 ||sec-cdn.static.xiaomi.net^
 ||search.xiaomi.net^
 |lxcdn.dl.files.xiaomi.net^
-|api.chat.xiaomi.net^
 |resolver.msg.xiaomi.net^
 ||sentry.d.xiaomi.net^
 ||xgraph.net^
@@ -13586,7 +13593,6 @@
 ||dm.sanwen.net^
 |tw13b093.sandai.net^
 ||etl.xlmc.sandai.net^
-|test.api.xlmc.sandai.net^
 |mcfg.sandai.net^
 |biz5.sandai.net^
 ||rtmark.net^
@@ -17403,10 +17409,13 @@
 ||noticecdn.samsungcloudsolution.com^
 ||amauthprd.samsungcloudsolution.com^
 ||vdterms.samsungcloudsolution.com^
+|oempprd.samsungcloudsolution.com^
 ||musicid.samsungcloudsolution.com^
 ||notice.samsungcloudsolution.com^
 ||prov.samsungcloudsolution.com^
+|acr0.samsungcloudsolution.com^
 ||sas.samsungcloudsolution.com^
+|fkp.samsungcloudsolution.com^
 ||salutetutortwiddling.com^
 ||gtm.rwad-altwasilcompany.com^
 ||gtm.ruizgomezhairconcept.com^
@@ -23914,7 +23923,9 @@
 ||saptiledispatch.com^
 ||marketing.sanitysolutions.com^
 ||sangopportunity.com^
+|api-hub.samsungyosemite.com^
 ||analytics-api.samsunghealthcn.com^
+|otn.samsungcloudcdn.com^
 ||load.ss.sammibeejewelry.com^
 ||api.sambafutsalclub.com^
 ||salfgkhsklgcvrg.com^
@@ -32406,6 +32417,7 @@
 ||tr.em.cdiscount-pro.com^
 ||tr.news.cci-puydedome.com^
 ||marketing.ccbtechnology.com^
+||ccbivdyfibbis.com^
 ||cbdatatracker.com^
 ||sswmetrics.caymanairways.com^
 ||marketing.cavitysliders.com^
@@ -33545,6 +33557,7 @@
 ||tranquilside.com^
 ||metrics.trammellcrow.com^
 ||tracking.trainingnets.com^
+||trainedscale.com^
 ||hello.trailblazers.com^
 ||ss.trailandbone.com^
 ||trail-viewer.com^
@@ -43148,6 +43161,7 @@
 ||yizj5fcwaj.com^
 ||yieldscale.com^
 ||yieldbuild.com^
+||yhwbnilafl.com^
 ||yhcca8h69o.com^
 ||yhak0o7rtz.com^
 ||yh823ogu6b.com^
@@ -44628,6 +44642,10 @@
 ||lp.mkt-email.samsungsds.com^
 ||contact.samsungsds.com^
 ||osb-apps-v2.samsungqbe.com^
+|osb-ussvc.samsungqbe.com^
+|osb-krsvc.samsungqbe.com^
+|osb.samsungqbe.com^
+|gpm.samsungqbe.com^
 ||gld.samsungosp.com^
 ||samsungads.com^
 ||samsungacr.com^
@@ -51337,9 +51355,7 @@
 ||dhpjhrud.skidresor.com^
 ||sgtm.sketchwow.com^
 ||collect.skargards.com^
-|sousuo.xm.sjzhushou.com^
-|m.sjzhushou.com^
-|static.m.sjzhushou.com^
+||sjzhushou.com^
 ||ubpekn.sivillage.com^
 ||siutaodka.com^
 ||dkclxi.sitkagear.com^
@@ -51838,6 +51854,7 @@
 ||app.info.questrade.com^
 ||stape.querohoje.com^
 ||email.social.qualtrics.com^
+|samsungeurope.eu.qualtrics.com^
 ||raspnd.quadratec.com^
 ||qtthehnor.com^
 ||qtozietgp.com^
@@ -56251,6 +56268,7 @@
 ||aousjfw8z.com^
 ||marketing.aotourism.com^
 ||log-pub-hk.aoshitang.com^
+||aoqjrkfng.com^
 ||aonunited.com^
 ||ituzf.aoniclife.com^
 ||app.respond.aonhewitt.com^
@@ -56993,7 +57011,6 @@
 ||yaxiobbe.com^
 ||serverside.yarnexbd.com^
 ||yarcokme.com^
-|xiaomiir.yaokantv.com^
 ||mundi.yandurox.com^
 ||itp.yaku-job.com^
 ||adtech.yahooinc.com^
@@ -59789,10 +59806,7 @@
 |api.e.kuaishou.com^
 ||gbfkb.ktmroofs.com^
 ||axp.ktalnews.com^
-||pgapi.ksmobile.com^
-||beha.ksmobile.com^
-||gcm.ksmobile.com^
-||cfg.cml.ksmobile.com^
+||ksmobile.com^
 ||web-trace.ksapisrv.com^
 ||log-sdk.ksapisrv.com^
 ||ulogs2.ksapisrv.com^
@@ -62464,6 +62478,7 @@
 ||secureforms.xperthr.com^
 ||forms.xperthr.com^
 ||stape.xperiun.com^
+||xoxknct.com^
 ||cmcyne.xoticpc.com^
 ||xommzrn.com^
 ||metrics.xofluza.com^
@@ -67377,25 +67392,20 @@
 ||xkpbcd.com^
 ||fine.xkglow.com^
 ||xjwhad.com^
-|weatherapi.market.xioami.com^
 ||xiniuz.com^
 ||yi.ximizi.com^
 ||marketing.xicato.com^
 ||sdkconfig.xiaomi.com^
 ||installer.xiaomi.com^
 |liteapp.developer.xiaomi.com^
-|shenghuo.xiaomi.com^
 ||miui.security.xiaomi.com^
-|url8807.global.passport.xiaomi.com^
 ||pandora.xiaomi.com^
-|huodong.xiaomi.com^
+||huodong.xiaomi.com^
 |shoes.app-xae.xiaomi.com^
-|xitong.xiaomi.com^
-|xiazai.xiaomi.com^
-|userid.xiaomi.com^
+||xitong.xiaomi.com^
+||xiazai.xiaomi.com^
 ||mvideo.xiaomi.com^
 ||mistat.xiaomi.com^
-|meihua.xiaomi.com^
 |wtradv.market.xiaomi.com^
 |video.market.xiaomi.com^
 |xadx.file.market.xiaomi.com^
@@ -67409,32 +67419,24 @@
 ||a.market.xiaomi.com^
 ||ad.quickapp.hybrid.xiaomi.com^
 |api.hybrid.xiaomi.com^
-|huosai.xiaomi.com^
-|video.xiaomi.com^
+||video.xiaomi.com^
 ||stats.xiaomi.com^
-|order.music.xiaomi.com^
+||music.xiaomi.com^
 ||mistat.india.xiaomi.com^
 ||ad.india.xiaomi.com^
 ||igame.xiaomi.com^
-|heyue.xiaomi.com^
-|test.xiaomi.com^
+||heyue.xiaomi.com^
 ||stat.xiaomi.com^
-|qiye.xiaomi.com^
-|pmall.migc.xiaomi.com^
-|mis.migc.xiaomi.com^
-|app.migc.xiaomi.com^
-|tv.app.migc.xiaomi.com^
-|mibi.xiaomi.com^
-|static.mibi.xiaomi.com^
-|hk.mibi.xiaomi.com^
+||qiye.xiaomi.com^
+||migc.xiaomi.com^
+||mibi.xiaomi.com^
 |controller.intl.xiaomi.com^
 ||mistat.intl.xiaomi.com^
-|api.hybrid.intl.xiaomi.com^
-|ccc.sys.intl.xiaomi.com^
-|cc.sys.intl.xiaomi.com^
+||hybrid.intl.xiaomi.com^
+||sys.intl.xiaomi.com^
 ||ad.intl.xiaomi.com^
 ||game.xiaomi.com^
-|blog.xiaomi.com^
+||sys.xiaomi.com^
 |tz.sec.xiaomi.com^
 ||mistat.rus.xiaomi.com^
 ||ad.rus.xiaomi.com^
@@ -67444,29 +67446,22 @@
 |awsusor0-cdn.fds-ssl.api.xiaomi.com^
 |cdn.fds-ssl.api.xiaomi.com^
 |xshare.api.xiaomi.com^
-|mibi.api.xiaomi.com^
+||mibi.api.xiaomi.com^
 ||o2o.api.xiaomi.com^
 |ime.api.xiaomi.com^
 ||ads.xiaomi.com^
 ||ad1.xiaomi.com^
 |resolver.mi.xiaomi.com^
-|hd02.lg.xiaomi.com^
-|fe05.lg.xiaomi.com^
-|fe02.lg.xiaomi.com^
-|cnc.fe01.lg.xiaomi.com^
+||lg.xiaomi.com^
 |hm.xiaomi.com^
 |tel.fe01.hh.xiaomi.com^
 |bk01.hh.xiaomi.com^
 |be01.hh.xiaomi.com^
-|hd.xiaomi.com^
-|secode2.hd.xiaomi.com^
-|tc.hd.xiaomi.com^
-|ctc.fe02.c3.xiaomi.com^
-|ctc.fe01.c3.xiaomi.com^
-|bgp.fe01.c3.xiaomi.com^
+||hd.xiaomi.com^
+||fe02.c3.xiaomi.com^
+||fe01.c3.xiaomi.com^
 ||tracker.ai.xiaomi.com^
 ||ad.xiaomi.com^
-|i.xiaomi.com^
 |d.xiaomi.com^
 |api.d.xiaomi.com^
 ||salary.xiao84.com^
@@ -69164,7 +69159,7 @@
 ||b.mibank.com^
 ||api.blog.miawzy.com^
 ||api.miawzy.com^
-|ssl-cdn.static.browser.mi-img.com^
+||browser.mi-img.com^
 ||resolver.gslb.mi-idc.com^
 ||mi-stat.gslb.mi-idc.com^
 |app02.nodes.gslb.mi-idc.com^
@@ -70786,6 +70781,7 @@
 ||sst.butlon.com^
 ||skzdj.bunjie.com^
 ||bulrev.com^
+||btttag.com^
 ||btrbdf.com^
 ||news.btmbiz.com^
 ||btcdig.com^
@@ -74923,8 +74919,6 @@
 ||images.fans.mlse.com^
 ||trace.mjyx.com^
 ||tracking.miui.com^
-|trial.api.huangye.miui.com^
-|mp.huangye.miui.com^
 ||browser.miui.com^
 |check.engine.miui.com^
 ||stats.miui.com^
@@ -74960,7 +74954,7 @@
 ||api.sec.miui.com^
 ||adv.sec.miui.com^
 |r.sg.sec.miui.com^
-|info.analysis.kp.sec.miui.com^
+||analysis.kp.sec.miui.com^
 ||gc.sec.miui.com^
 ||auth.be.sec.miui.com^
 ||tracking.rus.miui.com^
@@ -76809,7 +76803,7 @@
 ||huodong.mi.com^
 ||stat.youpin.mi.com^
 ||union.mi.com^
-|sg.a.stat.mi.com^
+||stat.mi.com^
 ||dun.mi.com^
 |api.jr.mi.com^
 ||idm.api.io.mi.com^
@@ -76822,7 +76816,7 @@
 |t1.g.mi.com^
 |f1.g.mi.com^
 |d.g.mi.com^
-|staging.admin.e.mi.com^
+||admin.e.mi.com^
 |sentry.d.mi.com^
 ||tmsgi.lv.com^
 ||target.lm.com^
@@ -84342,6 +84336,7 @@
 ||stape.aparatusluchowepolska.pl^
 ||capig.skandynawskieuchwyty.pl^
 ||data.sejfy-antywlamaniowe.pl^
+|samsung-klimatyzacja.pl^
 ||pvrugd.nieruchomosci-online.pl^
 ||statystyki.ekspertyzy-szkolenia.pl^
 ||load.ss.zwolnica-napedjazdy.pl^
@@ -95604,6 +95599,7 @@
 ||ilm.winalist.fr^
 ||tech.wellbots.fr^
 ||hutkse.wecandoo.fr^
+|samsung3.solution.weborama.fr^
 ||analytics.warnertv.fr^
 ||vs.verisure.fr^
 ||tk.verisure.fr^
@@ -103274,6 +103270,7 @@
 ||tracking.stihl.de^
 ||s.steda.de^
 ||data-3823552b7a.sport.de^
+|a460.cell.phone.ringtone.samsung.sms13.de^
 ||ss.slome.de^
 ||sst.sinee.de^
 ||b.simyo.de^
@@ -105031,7 +105028,7 @@
 ||777.triple7towing.co^
 ||data-84a0f3455d.transfermarkt.co^
 ||rechenschieber.transfermarkt.co^
-|imgg.traffic-media.co^
+||traffic-media.co^
 ||trk.timeshareexit.co^
 ||dmlph.sundaycitizen.co^
 ||ouqmd.sugarbabycare.co^
@@ -105790,6 +105787,7 @@
 ||app.zip.co^
 ||ablink.my.zip.co^
 ||xmr.co^
+|s.w-x.co^
 ||lejut.ulo.co^
 ||load.bls.sur.co^
 ||delivery.2d.net.co^
@@ -105954,7 +105952,6 @@
 ||58mingtian.cn^
 |analysis.yozocloud.cn^
 ||a.yellowurl.cn^
-|sstc.ngrok.xiaomiqiu.cn^
 ||ad.xelements.cn^
 ||k1.wanwenwan.cn^
 ||tjqonline.cn^
@@ -108580,6 +108577,7 @@
 ||sgtm.setsail.ca^
 ||marketing.sensoft.ca^
 ||quebec.savills.ca^
+|t.email1.samsung.ca^
 ||lbemr.pilgrim.ca^
 ||marketing.orionti.ca^
 ||s2s.obrians.ca^
