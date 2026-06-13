@@ -1,5 +1,5 @@
 #!name=[Sukka] URL Redirect
-#!desc=Last Updated: 2026-03-10T05:42:43.121Z Size: 90
+#!desc=Last Updated: 2026-06-13T16:25:22.677Z Size: 90
 
 [MITM]
 hostname = %APPEND% cdn.v2ex.com, cdnjs.loli.net, fonts.loli.net, gstatic.loli.net, themes.loli.net, ajax.loli.net, gravatar.loli.net, gapis.geekzu.org, fonts.geekzu.org, sdn.geekzu.org, seccdn.libravatar.org, use.sevencdn.com, raw.gitmirror.com, gist.gitmirror.com, raw.githubusercontents.com, gist.githubusercontents.com, cdn.gitmirror.com, raw.fastgit.org, fastly.jsdelivr.net, gcore.jsdelivr.net, testingcf.jsdelivr.net, cdn.jsdmirror.com, cdn.jsdmirror.cn, jsd.onmicrosoft.cn, npm.onmicrosoft.cn, cdnjs.onmicrosoft.cn, raw.kgithub.com, raw.kkgithub.com, cdn.iocdn.cc, googlefonts.admincdn.com, googleajax.admincdn.com, cdnjs.admincdn.com, polyfill.io, polyfill.top, polyfill-js.cn, cdn.polyfill.io, fastly-polyfill.io, fastly-polyfill.net, polyfill-fastly.net, cdn.bootcss.com, cdn.bootcdn.net, cdn.staticfile.net, cdn.staticfile.org, unpkg.com, google.cn, www.google.cn, g.cn, ditu.google.cn, maps.google.cn, www.g.cn, acg.tv, minecraft.fandom.com, missav.com, thisav.com, ign.xn--fiqs8s, abbyychina.com, bartender.cc, betterzip.net, beyondcompare.cc, bingdianhuanyuan.cn, chemdraw.com.cn, codesoftchina.com, coreldrawchina.com, crossoverchina.com, easyrecoverychina.com, ediuschina.com, flstudiochina.com, formysql.com, guitarpro.cc, huishenghuiying.com.cn, iconworkshop.cn, imindmap.cc, jihehuaban.com.cn, keyshot.cc, mathtype.cn, mindmanager.cc, mindmapper.cc, mycleanmymac.com, nicelabel.cc, ntfsformac.cc, ntfsformac.cn, overturechina.com, passwordrecovery.cn, pdfexpert.cc, ultraiso.net, vegaschina.cn, xmindchina.net, xshellcn.com, yuanchengxiezuo.com, zbrushcn.com
@@ -17,7 +17,7 @@ hostname = %APPEND% cdn.v2ex.com, cdnjs.loli.net, fonts.loli.net, gstatic.loli.n
 ^https?://gapis\.geekzu\.org/g\x2dfonts/(.*) https://fonts.gstatic.com/$1 header
 ^https?://gapis\.geekzu\.org/g\x2dthemes/(.*) https://themes.googleusercontent.com/$1 header
 ^https?://sdn\.geekzu\.org/(.*) https://secure.gravatar.com/$1 header
-^https?://seccdn\.libravatar\.org/gravatarproxy/(.*) https://secure.gravatar.com/$1 header
+^https?://seccdn\.libravatar\.org/gravatarproxy/(.*) https://secure.gravatar.com/avatar/$1 header
 ^https?://use\.sevencdn\.com/css(.*) https://fonts.googleapis.com/css$1 header
 ^https?://use\.sevencdn\.com/ajax/libs/(.*) https://cdnjs.cloudflare.com/ajax/libs/$1 header
 ^https?://use\.sevencdn\.com/gajax/(.*) https://ajax.googleapis.com/ajax/$1 header

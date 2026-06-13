@@ -1,5 +1,5 @@
 ! Title: [sukka] Sukka URL Redirect
-! Last modified: Tue, 10 Mar 2026 05:42:43 GMT
+! Last modified: Sat, 13 Jun 2026 16:25:22 GMT
 ! Expires: 4 hours
 ! Description: Redirect requests via uritransform network filter syntax.
 ! License: https://ruleset.skk.moe/LICENSE
@@ -41,7 +41,7 @@
 ||use.sevencdn.com/gajax/$all,uritransform=/use\.sevencdn\.com\/gajax\//ajax.googleapis.com\/ajax\//
 ||use.sevencdn.com/ajax/libs/$all,uritransform=/use\.sevencdn\.com\/ajax\/libs\//cdnjs.cloudflare.com\/ajax\/libs\//
 ||use.sevencdn.com/css$all,uritransform=/use\.sevencdn\.com\/css/fonts.googleapis.com\/css/
-||seccdn.libravatar.org/gravatarproxy/$all,uritransform=/seccdn\.libravatar\.org\/gravatarproxy\//secure.gravatar.com\//
+||seccdn.libravatar.org/gravatarproxy/$all,uritransform=/seccdn\.libravatar\.org\/gravatarproxy\//secure.gravatar.com\/avatar\//
 ||sdn.geekzu.org/$all,uritransform=/sdn\.geekzu\.org\//secure.gravatar.com\//
 ||gapis.geekzu.org/g-themes/$all,uritransform=/gapis\.geekzu\.org\/g\x2dthemes\//themes.googleusercontent.com\//
 ||gapis.geekzu.org/g-fonts/$all,uritransform=/gapis\.geekzu\.org\/g\x2dfonts\//fonts.gstatic.com\//
