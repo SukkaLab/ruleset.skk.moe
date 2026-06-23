@@ -1,5 +1,5 @@
 ! Title: [sukka] Sukka URL Redirect
-! Last modified: Sat, 13 Jun 2026 16:25:22 GMT
+! Last modified: Tue, 23 Jun 2026 02:39:25 GMT
 ! Expires: 4 hours
 ! Description: Redirect requests via uritransform network filter syntax.
 ! License: https://ruleset.skk.moe/LICENSE
@@ -54,6 +54,8 @@
 ||fonts.loli.net/$all,uritransform=/fonts\.loli\.net\//fonts.googleapis.com\//
 ||cdnjs.loli.net/$all,uritransform=/cdnjs\.loli\.net\//cdnjs.cloudflare.com\//
 ||cdn.v2ex.com/gravatar/$all,uritransform=/cdn\.v2ex\.com\/gravatar\//secure.gravatar.com\/avatar\//
+||img.kemono.su/$all,uritransform=/img\.kemono\.su\//img.kemono.cr/
+||kemono.su/$all,uritransform=/kemono\.su\//kemono.cr/
 ||thisav.com/$all,uritransform=/thisav\.com\//thisav.me\//
 ||missav.com/$all,uritransform=/missav\.com\//missav.ai\//
 ||minecraft.fandom.com/$all,uritransform=/minecraft\.fandom\.com\//minecraft.wiki\//
