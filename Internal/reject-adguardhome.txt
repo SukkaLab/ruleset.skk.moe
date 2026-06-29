@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Mon, 29 Jun 2026 11:07:57 GMT
+! Last modified: Mon, 29 Jun 2026 16:31:59 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -47395,6 +47395,7 @@
 ||marketing.cloudmerge.com^
 ||cloudjumbo.com^
 ||video-analytics-api.cloudinary.com^
+||analytics-api-s.cloudinary.com^
 ||cloudfrale.com^
 ||csp-reporting.cloudflare.com^
 ||tr.www.cloudflare.com^
@@ -72384,6 +72385,7 @@
 ||ffyvsn.evisu.com^
 ||metrics.evine.com^
 ||innovation.eurol.com^
+||eucov.com^
 ||marketing.espec.com^
 ||eloqua.erwin.com^
 ||geo.ertya.com^

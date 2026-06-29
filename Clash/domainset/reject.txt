@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-06-29T11:07:39.596Z
-# Size: 114816
+# Last Updated: 2026-06-29T16:31:45.217Z
+# Size: 114818
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -45945,6 +45945,7 @@ simple.cloudsmith.com
 +.marketing.cloudmerge.com
 +.cloudjumbo.com
 +.video-analytics-api.cloudinary.com
++.analytics-api-s.cloudinary.com
 +.cloudfrale.com
 +.csp-reporting.cloudflare.com
 +.tr.www.cloudflare.com
@@ -70243,6 +70244,7 @@ web-track.go2yd.com
 +.ffyvsn.evisu.com
 +.metrics.evine.com
 +.innovation.eurol.com
++.eucov.com
 +.marketing.espec.com
 +.eloqua.erwin.com
 +.geo.ertya.com
