@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2026-06-30T21:42:11.356Z
-# Size: 1960
+# Last Updated: 2026-06-30T22:13:36.266Z
+# Size: 1962
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1674,6 +1674,7 @@ mirrors.accretive-networks.net
 +.s3.us-gov-east-1.amazonaws.com
 +.s3.us-gov-west-1.amazonaws.com
 +.s3.us-west-002.backblazeb2.com
+steamdeck-images.steamos.cloud
 ubuntu-archive.interhost.co.il
 content-origin.steampowered.com
 mirror.physik-pool.tu-berlin.de
@@ -1714,6 +1715,7 @@ versioncheck.addons.mozilla.org
 vesta.informatik.rwth-aachen.de
 drmirror.physi.uni-heidelberg.de
 mirror.informatik.tu-freiberg.de
+steamdeck-packages.steamos.cloud
 assets-production.packagecloud.io
 +.cos.na-siliconvalley.myqcloud.com
 debian-archive.trafficmanager.net
