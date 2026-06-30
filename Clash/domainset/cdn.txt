@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-06-30T21:42:11.355Z
-# Size: 4528
+# Last Updated: 2026-06-30T21:48:29.171Z
+# Size: 4530
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1536,6 +1536,7 @@ files.slack.com
 fonts.bunny.net
 fonts.gishan.cc
 fonts.upset.dev
++.gannett-cdn.com
 +.gauthstatic.com
 gdb.voanews.com
 hello.zonos.com
@@ -2224,6 +2225,7 @@ fullstackopen.com
 g-static.ap4r.com
 +.gadgets360cdn.com
 +.gamesgamescdn.com
+gannett-cdn.ex.co
 gearbox.imgix.com
 +.gitlab-static.net
 hawky.pcgamer.com
