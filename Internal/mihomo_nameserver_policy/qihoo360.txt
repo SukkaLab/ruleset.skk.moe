@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Local DNS Mapping for Mihomo NameServer Policy (QIHOO360)
-# Last Updated: 2026-03-10T14:56:40.528Z
+# Last Updated: 2026-06-30T21:42:09.922Z
 # Size: 27
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -11,30 +11,30 @@
 # Do not use this file in your Rule section, all entries are included in non_ip/domestic.conf already.
 #########################################
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
-DOMAIN-SUFFIX,360.net
-DOMAIN-SUFFIX,360webcache.com
-DOMAIN-SUFFIX,qhupdate.com
-DOMAIN-SUFFIX,qhstatic.com
-DOMAIN-SUFFIX,360tpcdn.com
-DOMAIN-SUFFIX,qihucdn.com
-DOMAIN-SUFFIX,qhimgs
-DOMAIN-SUFFIX,baomitu.com
-DOMAIN-SUFFIX,360simg.com
-DOMAIN-SUFFIX,360safe.com
-DOMAIN-SUFFIX,360kuai.com
-DOMAIN-SUFFIX,yunpan.com
-DOMAIN-SUFFIX,qhres2.com
-DOMAIN-SUFFIX,qhimgs.com
-DOMAIN-SUFFIX,qh-cdn.com
-DOMAIN-SUFFIX,haosou.com
-DOMAIN-SUFFIX,qhres.com
-DOMAIN-SUFFIX,qhmsg.com
-DOMAIN-SUFFIX,qhimg.com
-DOMAIN-SUFFIX,360os.com
-DOMAIN-SUFFIX,qiku.com
-DOMAIN-SUFFIX,360.com
-DOMAIN-SUFFIX,so.com
-DOMAIN-SUFFIX,yunpan.cn
-DOMAIN-SUFFIX,yunpan.com.cn
 DOMAIN-SUFFIX,360.cn
+DOMAIN-SUFFIX,so.com
+DOMAIN-SUFFIX,360.com
+DOMAIN-SUFFIX,360.net
+DOMAIN-SUFFIX,qiku.com
+DOMAIN-SUFFIX,360os.com
+DOMAIN-SUFFIX,qhimg.com
+DOMAIN-SUFFIX,qhmsg.com
+DOMAIN-SUFFIX,qhres.com
+DOMAIN-SUFFIX,yunpan.cn
+DOMAIN-SUFFIX,haosou.com
+DOMAIN-SUFFIX,qh-cdn.com
+DOMAIN-SUFFIX,qhimgs.com
+DOMAIN-SUFFIX,qhres2.com
+DOMAIN-SUFFIX,yunpan.com
+DOMAIN-SUFFIX,360kuai.com
+DOMAIN-SUFFIX,360safe.com
+DOMAIN-SUFFIX,360simg.com
+DOMAIN-SUFFIX,baomitu.com
+DOMAIN-SUFFIX,qihucdn.com
+DOMAIN-SUFFIX,360tpcdn.com
+DOMAIN-SUFFIX,qhstatic.com
+DOMAIN-SUFFIX,qhupdate.com
+DOMAIN-SUFFIX,yunpan.com.cn
+DOMAIN-SUFFIX,360webcache.com
+DOMAIN-WILDCARD,*.qhimgs?.com
 ################## EOF ##################
