@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Local DNS Mapping for Mihomo NameServer Policy (ALIBABA)
-# Last Updated: 2026-08-05T12:33:04.540Z
-# Size: 90
+# Last Updated: 2026-09-26T17:52:05.616Z
+# Size: 87
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,7 +10,7 @@
 # is similar to the RULE-SET referenced by sukka_local_dns_mapping.sgmodule.
 # Do not use this file in your Rule section, all entries are included in non_ip/domestic.conf already.
 #
-# $content-hash-v1$:zo9ndS_jmmZ4cVHRVb15isHfGyqx_jfLy4FEyc5pQVM$
+# $content-hash-v1$:E4guBMPHWGP5FS2eUqBKErIPXJDhSiUKpD6VDG96UHw$
 #########################################
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,sm.cn
@@ -26,7 +26,6 @@ DOMAIN-SUFFIX,etao.com
 DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,tanx.com
-DOMAIN-SUFFIX,tbcdn.cn
 DOMAIN-SUFFIX,uczzd.cn
 DOMAIN-SUFFIX,alipay.cn
 DOMAIN-SUFFIX,gaode.com
@@ -42,7 +41,6 @@ DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,yunos.com
 DOMAIN-SUFFIX,yuque.com
 DOMAIN-SUFFIX,aliapp.org
-DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alidns.com
 DOMAIN-SUFFIX,aliimg.com
 DOMAIN-SUFFIX,alipan.com
@@ -95,7 +93,6 @@ DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,geovisearth.com
 DOMAIN-SUFFIX,taopiaopiao.com
-DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,cainiaoyizhan.com
 DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,alibabausercontent.com
