@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Local DNS Mapping for Mihomo NameServer Policy (BYTEDANCE)
-# Last Updated: 2026-08-05T12:33:04.540Z
-# Size: 70
+# Last Updated: 2026-10-20T10:56:36.481Z
+# Size: 71
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,12 +10,13 @@
 # is similar to the RULE-SET referenced by sukka_local_dns_mapping.sgmodule.
 # Do not use this file in your Rule section, all entries are included in non_ip/domestic.conf already.
 #
-# $content-hash-v1$:2J5-YhmSWJJH0ORjvzYSuOkCRi-Qlqg0XJJ6AZ7FRGM$
+# $content-hash-v1$:-tTJYJ53ZCTboals9JYxNqelWw5nQB0TZIns_Ej_fFs$
 #########################################
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,coze.cn
 DOMAIN-SUFFIX,okr.com
 DOMAIN-SUFFIX,zjurl.cn
+DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,baike.com
 DOMAIN-SUFFIX,bdurl.net
 DOMAIN-SUFFIX,feishu.cn
