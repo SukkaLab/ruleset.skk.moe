@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Local DNS Mapping for Mihomo NameServer Policy (lancache)
-# Last Updated: 2026-10-13T12:44:10.579Z
-# Size: 123
+# Last Updated: 2026-10-31T10:56:33.582Z
+# Size: 133
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,7 +10,7 @@
 # is similar to the RULE-SET referenced by sukka_local_dns_mapping.sgmodule.
 # Do not use this file in your Rule section.
 #
-# $content-hash-v1$:hXqE0J4aJDFrlpdZVlePX7fq0nkJeuauHjYs4bsFwNA$
+# $content-hash-v1$:MDdD5p0z560joxLA5rlpr-9-vwNENWn725FK6BMThRg$
 #########################################
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,wg.gcdn.co
@@ -20,10 +20,12 @@ DOMAIN,d1.xboxlive.com
 DOMAIN-SUFFIX,dyn.riotcdn.net
 DOMAIN,lvlt.cdn.ea.com
 DOMAIN-SUFFIX,cdn.blizzard.com
+DOMAIN-SUFFIX,cdn.shop.wii.com
 DOMAIN,nydus.battle.net
 DOMAIN,canary.uklans.net
 DOMAIN,dist.blizzard.com
 DOMAIN,dl2.wargaming.net
+DOMAIN,download.xbox.com
 DOMAIN,litmus.uklans.net
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN,cdn1.epicgames.com
@@ -49,6 +51,7 @@ DOMAIN,blizzard.vo.llnwd.net
 DOMAIN,cdn1.unrealengine.com
 DOMAIN,cdn2.unrealengine.com
 DOMAIN,cdn3.unrealengine.com
+DOMAIN-SUFFIX,ctr.shop.nintendo.net
 DOMAIN,origin-a.akamaihd.net
 DOMAIN-SUFFIX,wup.shop.nintendo.net
 DOMAIN,xbox-mbr.xboxlive.com
@@ -75,6 +78,7 @@ DOMAIN,dl-wows-ak.wargaming.net
 DOMAIN,dl-wows-gc.wargaming.net
 DOMAIN,dl-wows-se.wargaming.net
 DOMAIN-SUFFIX,hac.lp1.d4c.nintendo.net
+DOMAIN-SUFFIX,hac.p01.d4c.nintendo.net
 DOMAIN,patchcdn.pathofexile.com
 DOMAIN,theia.dl.playstation.net
 DOMAIN,wgus-woteu.wargaming.net
@@ -82,6 +86,7 @@ DOMAIN,amupdatedl2.microsoft.com
 DOMAIN,amupdatedl3.microsoft.com
 DOMAIN,amupdatedl4.microsoft.com
 DOMAIN,amupdatedl5.microsoft.com
+DOMAIN,blur-updates.lanparty.fyi
 DOMAIN,dl-wowp-cdx.wargaming.net
 DOMAIN,dl-wows-cdx.wargaming.net
 DOMAIN,idbe-wup.cdn.nintendo.net
@@ -93,9 +98,12 @@ DOMAIN,egdownload.fastly-edge.com
 DOMAIN,filedelivery.nexusmods.com
 DOMAIN-SUFFIX,gs2-ww-prod.psn.akadns.net
 DOMAIN-SUFFIX,hac.lp1.eshop.nintendo.net
+DOMAIN-SUFFIX,hac.p01.eshop.nintendo.net
 DOMAIN,patches.totemarts.services
 DOMAIN,tmdb.np.dl.playstation.net
 DOMAIN,wgus-wotasia.wargaming.net
+DOMAIN-SUFFIX,cdn.c.shop.nintendowifi.net
+DOMAIN-SUFFIX,cdn.t.shop.nintendowifi.net
 DOMAIN,cloudflare.epicgamescdn.com
 DOMAIN,geisha-wup.cdn.nintendo.net
 DOMAIN,gst.prod.dl.playstation.net
@@ -103,6 +111,7 @@ DOMAIN-SUFFIX,microsoft.com.edgesuite.net
 DOMAIN,pls.patch.daybreakgames.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN,playstation4.sony.akadns.net
+DOMAIN,samurai-wup.cdn.nintendo.net
 DOMAIN,sgst.prod.dl.playstation.net
 DOMAIN,cdn-eu1.homecomingservers.com
 DOMAIN,cdn-na1.homecomingservers.com
@@ -112,6 +121,7 @@ DOMAIN,cod-assets.cdn.callofduty.com
 DOMAIN,ecs-lp1.hac.shop.nintendo.net
 DOMAIN,edge.blizzard.top.comcast.net
 DOMAIN,fastly-download.epicgames.com
+DOMAIN,kanzashi-wup.cdn.nintendo.net
 DOMAIN,worldwide.l3cdn.riotgames.com
 DOMAIN,assetcdn.101.arenanetworks.com
 DOMAIN,assetcdn.102.arenanetworks.com
@@ -120,8 +130,8 @@ DOMAIN,assets1.xboxlive.com.nsatc.net
 DOMAIN-SUFFIX,gs2.ww.prod.dl.playstation.net
 DOMAIN,psnobj.prod.dl.playstation.net
 DOMAIN,dist.blizzard.com.edgesuite.net
+DOMAIN,download.xbox.com.edgesuite.net
 DOMAIN,gs-sec.ww.np.dl.playstation.net
-DOMAIN,receive-lp1.dg.srv.nintendo.net
 DOMAIN,riotgamespatcher-a.akamaihd.net
 DOMAIN-SUFFIX,gs2.sonycoment.loris-e.llnwd.net
 DOMAIN,epicgames-download1.akamaized.net
